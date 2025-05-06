@@ -48,6 +48,9 @@ paths:
             application/json:
               schema:
                 type: object
+                properties:
+                  # Here we specify that the response is an object with string keys (playlist names) 
+                  # and string values (file paths)
                 additionalProperties:
                   type: string
         "404":
@@ -64,6 +67,8 @@ paths:
             application/json:
               schema:
                 type: object
+                properties:
+                  # Here we define that each wave name maps to an array of playlist names (strings)
                 additionalProperties:
                   type: array
                   items:
