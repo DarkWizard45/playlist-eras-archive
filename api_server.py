@@ -104,13 +104,13 @@ def list_directory(dirpath):
 
 @app.route("/file/data/playlist_filename_map.json")
 def serve_playlist_filename_map():
-    github_url = "https://darkwizard45.github.io/playlist-eras-archive/static/data/playlist_filename_map.json"
+    github_url = "https://darkwizard45.github.io/playlist-eras-archive/docs/static/data/playlist_filename_map.json"
     response = requests.get(github_url)
     return Response(response.content, mimetype="application/json")
 
 @app.route("/file/data/wave_playlist_map.json")
 def serve_wave_playlist_map():
-    github_url = "https://darkwizard45.github.io/playlist-eras-archive/static/data/wave_playlist_map.json"
+    github_url = "https://darkwizard45.github.io/playlist-eras-archive/docs/static/data/wave_playlist_map.json"
     response = requests.get(github_url)
     return Response(response.content, mimetype="application/json")
 
