@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, Response, stream_with_context
+from flask import Flask, jsonify, Response, stream_with_context, send_from_directory
 import os
 import requests
 import base64
@@ -101,6 +101,12 @@ def list_directory(dirpath):
         "full_path": full_path,
         "files": files
     })
+
+@app.route("/file/data/playlist_filename_map.json")
+def serve_playlist_filename_map():
+    github_url = "https://darkwizard45.github.io/playlist-eras-archive/static/data/wave_playlist_map_for_cartographer.json"
+    response = requests.get(github_url)
+    return Response(response.content, mimetype="application/json")
 
 # === RUN SERVER ===
 if __name__ == "__main__":
