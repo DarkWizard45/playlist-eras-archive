@@ -1,0 +1,74 @@
+[
+  {
+    "track": {
+      "trackName": "Symphony No. 2 in C Major, Op. 61: II. Scherzo: Allegro vivace",
+      "artistName": "Robert Schumann",
+      "albumName": "Schumann: Symphonies Nos. 1 & 2",
+      "trackUri": "spotify:track:69VgLblU1rSpXeJgPwLWV1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2018-12-04"
+  },
+  {
+    "track": {
+      "trackName": "Debussy: La Mer, CD 111, L. 109: II. Jeux de vagues",
+      "artistName": "Claude Debussy",
+      "albumName": "Debussy: La mer - La boîte à joujoux - Prélude à l'après-midi d'un faune & 3 Préludes",
+      "trackUri": "spotify:track:4LoWuClzKiqLXZjrDMaQvw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2018-12-04"
+  },
+  {
+    "track": {
+      "trackName": "Beethoven: Symphony No. 9 in D Minor, Op. 125 \"Choral\": III. Adagio molto e cantabile - Andante moderato",
+      "artistName": "Ludwig van Beethoven",
+      "albumName": "Beethoven: Symphonies Nos. 1 - 9",
+      "trackUri": "spotify:track:6iAlAN0If5dh8wetCefhXP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2018-12-07"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 5 in A Major, K. 219 \"Turkish\": I. Allegro aperto",
+      "artistName": "Wolfgang Amadeus Mozart",
+      "albumName": "Mozart: Violin Concerto No.5 In A, K.219 / Vieuxtemps: Violin Concerto No.4 In D Minor, Op.31",
+      "trackUri": "spotify:track:3IIps6UFhvqBK8RQrkcD7A"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2018-12-14"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in D Minor, Op. 47: I. Allegro moderato",
+      "artistName": "Jean Sibelius",
+      "albumName": "Sibelius: Violin Concerto; Finlandia; Tapiola",
+      "trackUri": "spotify:track:5tbmYqigtuGjE1w2nyQK8W"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2018-12-14"
+  },
+  {
+    "track": {
+      "trackName": "That Is Why I'm Happy - Live",
+      "artistName": "Cory Henry",
+      "albumName": "The Revival (Live)",
+      "trackUri": "spotify:track:79uxONMtnrD5qGMG4pm4Q5"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-10"
+  }
+]

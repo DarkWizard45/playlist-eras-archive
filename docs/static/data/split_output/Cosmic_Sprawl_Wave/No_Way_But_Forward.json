@@ -1,0 +1,74 @@
+[
+  {
+    "track": {
+      "trackName": "Goodbye Carolina - Extended Version",
+      "artistName": "The Marcus King Band",
+      "albumName": "Carolina Confessions",
+      "trackUri": "spotify:track:3dWZJWo0kVHb5ID7x3PgtR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-23"
+  },
+  {
+    "track": {
+      "trackName": "Keep The Wolves Away",
+      "artistName": "Uncle Lucius",
+      "albumName": "And You Are Me",
+      "trackUri": "spotify:track:1u7J5sEfgOVRt5bkfU2oGV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-23"
+  },
+  {
+    "track": {
+      "trackName": "Cowpoke",
+      "artistName": "Colter Wall",
+      "albumName": "Western Swing & Waltzes and Other Punchy Songs",
+      "trackUri": "spotify:track:1FJDhcC36CbA16lMIxgT1F"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-23"
+  },
+  {
+    "track": {
+      "trackName": "The Weight",
+      "artistName": "The Band",
+      "albumName": "Easy Rider DELUXE EDITION",
+      "trackUri": "spotify:track:611SfwMyXczJK6mMoAzjfR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-23"
+  },
+  {
+    "track": {
+      "trackName": "Midnight Rider",
+      "artistName": "Allman Brothers Band",
+      "albumName": "Idlewild South",
+      "trackUri": "spotify:track:0RnMlQJGwZXwoUcVCkN6Nv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-23"
+  },
+  {
+    "track": {
+      "trackName": "Desolation Row",
+      "artistName": "Bob Dylan",
+      "albumName": "Highway 61 Revisited",
+      "trackUri": "spotify:track:4n1ZGm3TxYmoYe1YR8cMus"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-23"
+  }
+]

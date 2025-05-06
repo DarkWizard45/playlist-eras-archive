@@ -1,0 +1,830 @@
+[
+  {
+    "track": {
+      "trackName": "Embryonic Journey",
+      "artistName": "Jefferson Airplane",
+      "albumName": "The Worst Of Jefferson Airplane",
+      "trackUri": "spotify:track:5LHLsS9vhDVK4l66834qYu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Indian Summer",
+      "artistName": "The Doors",
+      "albumName": "Morrison Hotel",
+      "trackUri": "spotify:track:2hdeaGl9nT3UoQIgSqctHj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Black Mountain Side - 1993 Remaster",
+      "artistName": "Led Zeppelin",
+      "albumName": "Led Zeppelin",
+      "trackUri": "spotify:track:6rmEV2YtvWkigxPZocINO3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "The Rain Song - 1990 Remaster",
+      "artistName": "Led Zeppelin",
+      "albumName": "Houses of the Holy",
+      "trackUri": "spotify:track:2X0wYy6mbVh2GpFEYIvCp6"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Sahib Teri Bandi - Maki Madni",
+      "artistName": "The Derek Trucks Band",
+      "albumName": "Songlines",
+      "trackUri": "spotify:track:3J7ftHdeBesSHblVt5629o"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Dreams",
+      "artistName": "Allman Brothers Band",
+      "albumName": "The Allman Brothers Band",
+      "trackUri": "spotify:track:2JnWQFCtEJ1Q8dftyIXOmF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Samba Pa Ti",
+      "artistName": "Santana",
+      "albumName": "Abraxas",
+      "trackUri": "spotify:track:56ATkd0sc9lROPXflbqUHo"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Any Colour You Like - 2011 Remastered Version",
+      "artistName": "Pink Floyd",
+      "albumName": "The Dark Side Of The Moon",
+      "trackUri": "spotify:track:6ScQOiH29VEOvkDP3UprWv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "We Have Heaven - 2008 Remaster",
+      "artistName": "Yes",
+      "albumName": "Fragile",
+      "trackUri": "spotify:track:4Y4Cz1QRmDNZ6suB5SIaxX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Dark Star - Single Version",
+      "artistName": "Grateful Dead",
+      "albumName": "What a Long Strange Trip It's Been: The Best of the Grateful Dead",
+      "trackUri": "spotify:track:2AF1drAUmMi8ZX0U97UJLw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Third Stone From The Sun",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Are You Experienced",
+      "trackUri": "spotify:track:34jAhU99TNRvYwwOEoINl3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Enchanted",
+      "artistName": "The Platters",
+      "albumName": "20th Century Masters: The Millennium Series: Best of The Platters",
+      "trackUri": "spotify:track:1wGWKXMjKffv84Y0LsxvcP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "These Days",
+      "artistName": "Nico",
+      "albumName": "The Velvet Underground & Nico 45th Anniversary",
+      "trackUri": "spotify:track:1gWPkS4xum4XbSt1ueNpUu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Fat Angel",
+      "artistName": "Jefferson Airplane",
+      "albumName": "Bless Its Pointed Little Head",
+      "trackUri": "spotify:track:6faf5wMEDIvAzxwZvw3Omt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Ramble On - 1990 Remaster",
+      "artistName": "Led Zeppelin",
+      "albumName": "Led Zeppelin II",
+      "trackUri": "spotify:track:3MODES4TNtygekLl146Dxd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Going to California - 1990 Remaster",
+      "artistName": "Led Zeppelin",
+      "albumName": "Led Zeppelin IV",
+      "trackUri": "spotify:track:55sjCMeQM26VxbNHhMtj2b"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "The Song Remains the Same - 1990 Remaster",
+      "artistName": "Led Zeppelin",
+      "albumName": "Houses of the Holy",
+      "trackUri": "spotify:track:59hhEeGGOgoPBVBNp3wxCd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Over the Hills and Far Away - 1990 Remaster",
+      "artistName": "Led Zeppelin",
+      "albumName": "Houses of the Holy",
+      "trackUri": "spotify:track:5KXdflxoxCcE9m5F2QoAUY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Fool in the Rain - 1990 Remaster",
+      "artistName": "Led Zeppelin",
+      "albumName": "In Through the out Door",
+      "trackUri": "spotify:track:62p6fF2r4NY6pwZbxxvmr8"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "See Emily Play - 1996 Remastered Version",
+      "artistName": "Pink Floyd",
+      "albumName": "Relics",
+      "trackUri": "spotify:track:1stjADLevHFjxD83nK2J0k"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Fearless - 2011 Remastered Version",
+      "artistName": "Pink Floyd",
+      "albumName": "Meddle",
+      "trackUri": "spotify:track:6SHabvVeSeZW4UOGIo8OpG"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "A Pillow Of Winds - 2011 Remastered Version",
+      "artistName": "Pink Floyd",
+      "albumName": "Meddle",
+      "trackUri": "spotify:track:1XBdENtl2D7fHHoKf0WuHp"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "San Tropez - 2011 Remastered Version",
+      "artistName": "Pink Floyd",
+      "albumName": "Meddle",
+      "trackUri": "spotify:track:23y1y7HEkieY5saH2c4TpN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Revival",
+      "artistName": "Allman Brothers Band",
+      "albumName": "Idlewild South",
+      "trackUri": "spotify:track:4yc8gvVYvnfDR0oTuXKd5D"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Ain't Wastin' Time No More",
+      "artistName": "Allman Brothers Band",
+      "albumName": "Eat A Peach",
+      "trackUri": "spotify:track:1hHzmUP61nqVSyVHruv3jZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Melissa",
+      "artistName": "Allman Brothers Band",
+      "albumName": "Eat A Peach",
+      "trackUri": "spotify:track:4bltr2sgQOeU13onNoHUTc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Mountain Jam (Theme From “First There Is A Mountain”) - Live At The Fillmore East/1971",
+      "artistName": "Allman Brothers Band",
+      "albumName": "Eat A Peach",
+      "trackUri": "spotify:track:6NXgAwgXZGp5iwz4bI6iI9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Blue Sky",
+      "artistName": "Allman Brothers Band",
+      "albumName": "Eat A Peach",
+      "trackUri": "spotify:track:7uhGHDIJCKP5mbC0WidMAS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Little Martha",
+      "artistName": "Allman Brothers Band",
+      "albumName": "Eat A Peach",
+      "trackUri": "spotify:track:14BlTiqA413Z6WRCG3FMao"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Ramblin' Man",
+      "artistName": "Allman Brothers Band",
+      "albumName": "Brothers And Sisters",
+      "trackUri": "spotify:track:0fmokd2fO9j2vBmFKqLF0C"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Jessica - Unedited Version",
+      "artistName": "Allman Brothers Band",
+      "albumName": "Brothers And Sisters",
+      "trackUri": "spotify:track:7yxC9fSkwRW5Om6hS1ZPZ5"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Karn Evil 9: 1st Impression - Part 2",
+      "artistName": "Emerson, Lake & Palmer",
+      "albumName": "Come And See The Show: The Best Of Emerson Lake & Palmer",
+      "trackUri": "spotify:track:1qO5sUPhO6jSnFFMjL95by"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Hoedown (Taken From Rodeo)",
+      "artistName": "Emerson, Lake & Palmer",
+      "albumName": "Come And See The Show: The Best Of Emerson Lake & Palmer",
+      "trackUri": "spotify:track:1hUPFdT7fphkKYkeZ5m3ni"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Fanfare For The Common Man",
+      "artistName": "Emerson, Lake & Palmer",
+      "albumName": "Come And See The Show: The Best Of Emerson Lake & Palmer",
+      "trackUri": "spotify:track:1e0UNNtiLZuBOjpviVF3IS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Mood for a Day - 2008 Remaster",
+      "artistName": "Yes",
+      "albumName": "Fragile",
+      "trackUri": "spotify:track:1isv4ftbx0esgqKV1TSwk7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Yours Is No Disgrace - 2003 Remaster",
+      "artistName": "Yes",
+      "albumName": "The Yes Album",
+      "trackUri": "spotify:track:2ab1xYXLiGMWKBKlMgoB62"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "The Clap - 2003 Remaster",
+      "artistName": "Yes",
+      "albumName": "The Yes Album",
+      "trackUri": "spotify:track:4jPBOLovjf8w66PyTIhq26"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Starship Trooper: a. Life Seeker, b. Disillusion, c. Würm",
+      "artistName": "Yes",
+      "albumName": "The Yes Album",
+      "trackUri": "spotify:track:1K75F5lMyhGFqbM8HwWSpS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "I've Seen All Good People: a. Your Move, b. All Good People - 2003 Remaster",
+      "artistName": "Yes",
+      "albumName": "The Yes Album",
+      "trackUri": "spotify:track:3skk6UIXV4kepq2bdYy97g"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Saturday in the Park - 2002 Remaster",
+      "artistName": "Chicago",
+      "albumName": "Chicago V",
+      "trackUri": "spotify:track:4OJFkrRQqol4FsPesF8eu4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Does Anybody Really Know What Time It Is?",
+      "artistName": "Chicago",
+      "albumName": "Chicago IX: Chicago's Greatest Hits",
+      "trackUri": "spotify:track:6Q6YqGj1Ku1CUGHWSFwSHY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Light My Fire - New Stereo Mix",
+      "artistName": "The Doors",
+      "albumName": "The Very Best of the Doors",
+      "trackUri": "spotify:track:6tGlPE4QClYVNdaRFxV6Iy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "L.A. Woman - New Stereo Mix",
+      "artistName": "The Doors",
+      "albumName": "The Very Best of the Doors",
+      "trackUri": "spotify:track:4WAyUf6OhPTSnbVUPYzMY9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Have You Ever Been (To Electric Ladyland)",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Electric Ladyland",
+      "trackUri": "spotify:track:3Yh64aiu2ANBwDFztyPDkT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Bold as Love",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Axis: Bold As Love",
+      "trackUri": "spotify:track:0uco0wQkB909zpPlHvu5Cc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "May This Be Love",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Are You Experienced",
+      "trackUri": "spotify:track:1Y6Dv0tWYUP3Za2Es9FUL2"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Are You Experienced?",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Are You Experienced",
+      "trackUri": "spotify:track:02POyqtbrdmYQ3RxsTrYMD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Keep On Growing - 40th Anniversary Version / 2010 Remastered",
+      "artistName": "Derek & The Dominos",
+      "albumName": "Layla And Other Assorted Love Songs",
+      "trackUri": "spotify:track:6VtX65zfTbHPpeWQysRaxW"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Thorn Tree In The Garden - 40th Anniversary Version / 2010 Remastered",
+      "artistName": "Derek & The Dominos",
+      "albumName": "Layla And Other Assorted Love Songs",
+      "trackUri": "spotify:track:40xHesFWa0pIZW0Vh99v46"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Baba O'Riley - Remix",
+      "artistName": "The Who",
+      "albumName": "Who's Next",
+      "trackUri": "spotify:track:0TzCim4sBQZ9N0AAG25lOM"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Wouldn't It Be Nice",
+      "artistName": "The Beach Boys",
+      "albumName": "Pet Sounds",
+      "trackUri": "spotify:track:04kaFiaV3JZt8BkIltXK75"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "I'm Waiting For The Day",
+      "artistName": "The Beach Boys",
+      "albumName": "Pet Sounds",
+      "trackUri": "spotify:track:69W5zgLIevhOvqHkOOFuRM"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "That's Not Me",
+      "artistName": "The Beach Boys",
+      "albumName": "Pet Sounds",
+      "trackUri": "spotify:track:36j8LBkNuJn7eXLZJIhltq"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Sloop John B",
+      "artistName": "The Beach Boys",
+      "albumName": "Pet Sounds",
+      "trackUri": "spotify:track:4stZrgsWWwI9GQucGa51Er"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Pet Sounds",
+      "artistName": "The Beach Boys",
+      "albumName": "Pet Sounds",
+      "trackUri": "spotify:track:1Gu7aaQXQNGrmpXGWua4oB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Surfin' U.S.A. - Remastered 2001",
+      "artistName": "The Beach Boys",
+      "albumName": "Surfin' USA",
+      "trackUri": "spotify:track:0wz1LjDb9ZNEYwOmDJ3Q4b"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Don't Worry Baby - Remastered 2001",
+      "artistName": "The Beach Boys",
+      "albumName": "Shut Down, Vol. 2",
+      "trackUri": "spotify:track:1GLmaPfulP0BrfijohQpN5"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "She's A Rainbow - Full Version / With Intro",
+      "artistName": "The Rolling Stones",
+      "albumName": "Their Satanic Majesties Request",
+      "trackUri": "spotify:track:4l5wepcfhDA0YoPxRfdVjH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Let's Spend The Night Together",
+      "artistName": "The Rolling Stones",
+      "albumName": "Between The Buttons",
+      "trackUri": "spotify:track:1QLr0zOu6fv5hLEHOwdr21"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Factory Girl",
+      "artistName": "The Rolling Stones",
+      "albumName": "Beggars Banquet",
+      "trackUri": "spotify:track:0GREOtucugbS6bpVDJmVKE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Onie",
+      "artistName": "The Electric Prunes",
+      "albumName": "I Had Too Much To Dream (Last Night)",
+      "trackUri": "spotify:track:0Aa6hHw9x7pRbifLrVHqfd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Ripple - 2001 Remaster",
+      "artistName": "Grateful Dead",
+      "albumName": "The Very Best of the Grateful Dead",
+      "trackUri": "spotify:track:1UyHKeQGn55FpfwIm8H5cM"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Flamenco Sketches",
+      "artistName": "Miles Davis",
+      "albumName": "Kind Of Blue",
+      "trackUri": "spotify:track:40vwLuaheNuyVIV4LkP2la"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Walk on the Wild Side",
+      "artistName": "Lou Reed",
+      "albumName": "Transformer",
+      "trackUri": "spotify:track:0EFEkt29P7Icr7dO4vN6yk"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "The Sunken Cathedral Claude Debussy",
+      "artistName": "Peter Davison",
+      "albumName": "Adagio: Classical Music for Yoga",
+      "trackUri": "spotify:track:187HBngfMXtrnGyxxMIdBc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Something In The Air",
+      "artistName": "Thunderclap Newman",
+      "albumName": "Easy Rider DELUXE EDITION",
+      "trackUri": "spotify:track:53JaJoJtpIKdnV5POfIIJ3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-01"
+  },
+  {
+    "track": {
+      "trackName": "Crystal Blue Persuasion",
+      "artistName": "Tommy James",
+      "albumName": "40 Years",
+      "trackUri": "spotify:track:02MdksRk96YQj2iTN7aCgf"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-05"
+  },
+  {
+    "track": {
+      "trackName": "Soul Sacrifice - Live at The Woodstock Music & Art Fair, August 16, 1969",
+      "artistName": "Santana",
+      "albumName": "Santana (Legacy Edition)",
+      "trackUri": "spotify:track:7zAoVpCLJFsyRfCbGUIAFf"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-11-14"
+  },
+  {
+    "track": {
+      "trackName": "Good Day",
+      "artistName": "Nektar",
+      "albumName": "Sounds Like This",
+      "trackUri": "spotify:track:6KjURM9QNQEb9n5FvRS7zG"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2023-10-19"
+  }
+]

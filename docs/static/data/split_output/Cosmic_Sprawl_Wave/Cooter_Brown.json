@@ -1,0 +1,902 @@
+[
+  {
+    "track": {
+      "trackName": "Wigwam",
+      "artistName": "Bob Dylan",
+      "albumName": "Self Portrait",
+      "trackUri": "spotify:track:00cs7mlkTcIIoWnm8G0U0l"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Wagon Wheel",
+      "artistName": "Old Crow Medicine Show",
+      "albumName": "O.C.M.S.",
+      "trackUri": "spotify:track:359krpyCKcFF8SFvqWES9L"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "No Shoes, No Shirt, No Problems",
+      "artistName": "Kenny Chesney",
+      "albumName": "Greatest Hits II",
+      "trackUri": "spotify:track:4LZqNiZHiQvGLlt0RkXtqt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Summertime",
+      "artistName": "Kenny Chesney",
+      "albumName": "The Road And The Radio",
+      "trackUri": "spotify:track:3cE5ltZFHmBpiS77itKaOM"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "I Go Back",
+      "artistName": "Kenny Chesney",
+      "albumName": "When The Sun Goes Down (Deluxe Version)",
+      "trackUri": "spotify:track:1OiVtrpSYKTtg3S3EHyvY1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "The Good Stuff",
+      "artistName": "Kenny Chesney",
+      "albumName": "Greatest Hits II",
+      "trackUri": "spotify:track:1EKiQ1InQXuodp4M1idrng"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Saturday in the Park - 2007 Remaster",
+      "artistName": "Chicago",
+      "albumName": "The Best of Chicago, 40th Anniversary Edition",
+      "trackUri": "spotify:track:3P3mJ3ljphdb52qc1O6PrD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "(Sittin' On) the Dock of the Bay",
+      "artistName": "Otis Redding",
+      "albumName": "Atlantic 60th: Soul, Sweat And Strut",
+      "trackUri": "spotify:track:50uGbeaQIxKiSc7jvRTjWx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Free Ride",
+      "artistName": "The Edgar Winter Group",
+      "albumName": "They Only Come Out At Night",
+      "trackUri": "spotify:track:4DhbiXEuV7JxSR0wuqetTa"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "C. Brown - Live At Classic Center Theater, Athens, GA, USA 2000",
+      "artistName": "Widespread Panic",
+      "albumName": "Live in the Classic City",
+      "trackUri": "spotify:track:4JbaPLW2uY5aLPUnL7IEvA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Life's Been Good",
+      "artistName": "Joe Walsh",
+      "albumName": "But Seriously, Folks...",
+      "trackUri": "spotify:track:2wvMC5EyaaYQwBfiwwY2xE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Lucky Man",
+      "artistName": "Emerson, Lake & Palmer",
+      "albumName": "Moog",
+      "trackUri": "spotify:track:5nUM1Mvt7Kih7r02Nj7i6j"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Rags to Riches",
+      "artistName": "Tony Bennett",
+      "albumName": "GoodFellas - Music From The Motion Picture",
+      "trackUri": "spotify:track:6TK8A5OtTwjm6g93zLd9HO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Love Is Alive",
+      "artistName": "Gary Wright",
+      "albumName": "The Dream Weaver",
+      "trackUri": "spotify:track:5vVuiXoHyRGxJeCaHUpgae"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Personality Goes A Long Way - Dialogue Excerpt From \"Pulp Fiction\"",
+      "artistName": "John Travolta",
+      "albumName": "Pulp Fiction",
+      "trackUri": "spotify:track:10cEWmhFPktAb3GHoOexj5"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Born to Run",
+      "artistName": "Bruce Springsteen",
+      "albumName": "Born To Run",
+      "trackUri": "spotify:track:4mC6yZvp9zfzp21IuLAPGD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Day After Day - Re-Recorded",
+      "artistName": "Badfinger",
+      "albumName": "Classic Soft Rock",
+      "trackUri": "spotify:track:5gAu40j9GClLpXVPKQPuSo"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Shake, Rattle and Roll",
+      "artistName": "Big Joe Turner",
+      "albumName": "Shake Rattle & Rock",
+      "trackUri": "spotify:track:7aLoa1F3EoM8AeC6Ao1RKz"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Bang a Gong (Get It On) - 2003 Remaster",
+      "artistName": "T. Rex",
+      "albumName": "Electric Warrior [Expanded & Remastered]",
+      "trackUri": "spotify:track:6FsQrRpBLgsrFeAeiQqytm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Beginnings",
+      "artistName": "Chicago",
+      "albumName": "Chicago IX: Chicago's Greatest Hits",
+      "trackUri": "spotify:track:31IBsxTgHHKRGSEjgYEUdp"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "In the Summertime (Re-Recorded)",
+      "artistName": "Mungo Jerry",
+      "albumName": "Bubble Gum Jukebox Hits",
+      "trackUri": "spotify:track:6fOXeZLwVZ1J48d3xz6JnY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "I Am A Man Of Constant Sorrow - From “O Brother, Where Art Thou” Soundtrack / With Band",
+      "artistName": "The Soggy Bottom Boys",
+      "albumName": "O Brother, Where Art Thou?",
+      "trackUri": "spotify:track:78hPPmvYx4INtc94QA3Bfn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "It Was A Very Good Year - Remastered ) [The Frank Sinatra Collection]",
+      "artistName": "Frank Sinatra",
+      "albumName": "Nothing But The Best [The Frank Sinatra Collection]",
+      "trackUri": "spotify:track:5jrzcYgWeA0r8WPCx5NFdd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Around the Plynth",
+      "artistName": "Faces",
+      "albumName": "First Step",
+      "trackUri": "spotify:track:5IPL4rKsyLpXTIE3xiOrW1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Levon",
+      "artistName": "Elton John",
+      "albumName": "The Greatest Hits 1970-2002",
+      "trackUri": "spotify:track:6nDFmnzQ0GLszYC8uosQNu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Ripple - 2001 Remaster",
+      "artistName": "Grateful Dead",
+      "albumName": "American Beauty",
+      "trackUri": "spotify:track:1pEyysRo6PylWXG17v7IDE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Scarlet Begonias",
+      "artistName": "Grateful Dead",
+      "albumName": "From the Mars Hotel",
+      "trackUri": "spotify:track:4B8dwlhCUupgn54QQoczQZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Franklin's Tower - 2006 Remaster",
+      "artistName": "Grateful Dead",
+      "albumName": "Blues for Allah",
+      "trackUri": "spotify:track:0l1rayoUd1Se4E4OqA4hdc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Touch of Grey",
+      "artistName": "Grateful Dead",
+      "albumName": "In the Dark",
+      "trackUri": "spotify:track:7vLgjhf9wK6u6s97muIk4M"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Sugar Magnolia - 2001 Remaster",
+      "artistName": "Grateful Dead",
+      "albumName": "The Very Best of the Grateful Dead",
+      "trackUri": "spotify:track:2GLxvCiSUGu94wJFbojwWg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Uncle John's Band - 2001 Remaster",
+      "artistName": "Grateful Dead",
+      "albumName": "The Very Best of the Grateful Dead",
+      "trackUri": "spotify:track:7u5z9aFslubb9gBZOzSa1Y"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Friend of the Devil - 2001 Remaster",
+      "artistName": "Grateful Dead",
+      "albumName": "The Very Best of the Grateful Dead",
+      "trackUri": "spotify:track:1kMmDBfMsOrtIkKKzRIBA3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "One Last Breath",
+      "artistName": "Creed",
+      "albumName": "Greatest Hits",
+      "trackUri": "spotify:track:6iWB2XUfNJO8wlS9GzmAC3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "I Get Around",
+      "artistName": "The Beach Boys",
+      "albumName": "50 Big Ones: Greatest Hits",
+      "trackUri": "spotify:track:3mXexrmtPJ1KdWN37rYePx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Revelry",
+      "artistName": "Kings of Leon",
+      "albumName": "Only By The Night",
+      "trackUri": "spotify:track:0bTlXQJzw4ddaLQPJ4rGS2"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Perfect Day",
+      "artistName": "Lou Reed",
+      "albumName": "Transformer",
+      "trackUri": "spotify:track:0g5hYtDyZJ11b969pMLZM4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Glad - Remastered 2010",
+      "artistName": "Traffic",
+      "albumName": "John Barleycorn Must Die Deluxe Edition",
+      "trackUri": "spotify:track:2xBLkPs9JUgDRL4cOxb0oN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Fever Dog",
+      "artistName": "Still Water",
+      "albumName": "Almost Famous",
+      "trackUri": "spotify:track:17ribeMLicoXq1CViOl9Bh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Young",
+      "artistName": "Kenny Chesney",
+      "albumName": "No Shoes, No Shirt, No Problems",
+      "trackUri": "spotify:track:3tHPjLBakLS48aumhFpJMt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Live Those Songs",
+      "artistName": "Kenny Chesney",
+      "albumName": "No Shoes, No Shirt, No Problems",
+      "trackUri": "spotify:track:2gw68CZ9JeYrjZVjUWYa4k"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Here For A Good Time",
+      "artistName": "George Strait",
+      "albumName": "Here For A Good Time",
+      "trackUri": "spotify:track:11OFYsUK9EVJsQ6nutH32M"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Redneck Yacht Club",
+      "artistName": "Craig Morgan",
+      "albumName": "My Kind Of Livin'",
+      "trackUri": "spotify:track:4etE2X6t7GmyiuYLIdI8H5"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Margaritaville",
+      "artistName": "Jimmy Buffett",
+      "albumName": "Changes In Latitudes, Changes In Attitudes",
+      "trackUri": "spotify:track:4EEjMyQub6tgFVshlM9j1M"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Drift Away",
+      "artistName": "Uncle Kracker",
+      "albumName": "No Stranger to Shame",
+      "trackUri": "spotify:track:0RFgvrhkf9FiDRLA0BhzpZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "As Good As I Once Was",
+      "artistName": "Toby Keith",
+      "albumName": "Honkytonk University",
+      "trackUri": "spotify:track:7G6l2FtQyRhQgYgut2I6i8"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Red Solo Cup",
+      "artistName": "Toby Keith",
+      "albumName": "Clancy's Tavern",
+      "trackUri": "spotify:track:4YKAOXyqkKZ5gOZR0AmVMN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "I Love This Bar",
+      "artistName": "Toby Keith",
+      "albumName": "Shock 'N Y'all",
+      "trackUri": "spotify:track:32jHB7W9b08OTorAqR0cJo"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Song of the South",
+      "artistName": "Alabama",
+      "albumName": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
+      "trackUri": "spotify:track:2uX5f3x2cObov0iDAPln4o"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Boot Scootin' Boogie",
+      "artistName": "Brooks & Dunn",
+      "albumName": "#1s ... and then some",
+      "trackUri": "spotify:track:7Fq9RwQxSn3kW85PrDUf0M"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "It's Five O'Clock Somewhere",
+      "artistName": "Alan Jackson",
+      "albumName": "Playlist: The Very Best Of Alan Jackson",
+      "trackUri": "spotify:track:07KYRDFf8Q6sqj4PWCP9vh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Chattahoochee",
+      "artistName": "Alan Jackson",
+      "albumName": "A Lot About Livin' (And A Little 'Bout Love)",
+      "trackUri": "spotify:track:59kHPbwyyCApYA8RQQEuXm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Good Times Roll",
+      "artistName": "The Cars",
+      "albumName": "The Cars",
+      "trackUri": "spotify:track:7hVhRCDV100Jq26NGR7adw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Come Sail Away",
+      "artistName": "Styx",
+      "albumName": "Gold",
+      "trackUri": "spotify:track:11G0yprQtMU53BLPMSr093"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Little Lion Man",
+      "artistName": "Mumford & Sons",
+      "albumName": "Sigh No More",
+      "trackUri": "spotify:track:1YER6GeCM2IBftKjbxAe1U"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Gimme Shelter",
+      "artistName": "The Rolling Stones",
+      "albumName": "Let It Bleed",
+      "trackUri": "spotify:track:6H3kDe7CGoWYBabAeVWGiD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Dream Weaver",
+      "artistName": "Gary Wright",
+      "albumName": "The Dream Weaver",
+      "trackUri": "spotify:track:74DrA5fFoGSy4xgkZarZtP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Rocks Off",
+      "artistName": "The Rolling Stones",
+      "albumName": "Exile On Main Street",
+      "trackUri": "spotify:track:7m5x9kcJR73QGWqsNHvmHq"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "I Feel Free",
+      "artistName": "Cream",
+      "albumName": "Gold",
+      "trackUri": "spotify:track:5SVXEGwjVFmDCuo4OmY8xv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "The Boys Are Back In Town",
+      "artistName": "Thin Lizzy",
+      "albumName": "Jailbreak",
+      "trackUri": "spotify:track:43DeSV93pJPT4lCZaWZ6b1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Sweet Caroline",
+      "artistName": "Neil Diamond",
+      "albumName": "Love Songs",
+      "trackUri": "spotify:track:6b5PBL2QNXmAt1DfqbwO9Z"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Gimme Some Lovin'",
+      "artistName": "Sam & Dave",
+      "albumName": "Apocalypse Now! - Sounds of the '60s",
+      "trackUri": "spotify:track:26BA6BHNA9LI77fDgAy8Yg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Bark at the Moon",
+      "artistName": "Ozzy Osbourne",
+      "albumName": "The Essential Ozzy Osbourne",
+      "trackUri": "spotify:track:6LQvvCgL35DNikh0KOGRTu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Girls, Girls, Girls",
+      "artistName": "Mötley Crüe",
+      "albumName": "The Greatest Hits",
+      "trackUri": "spotify:track:3CA2omtaRCN3CZwwUaW6Nh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Born On The Bayou - Remastered / Live At The Oakland Coliseum, Oakland, CA / January 31, 1970",
+      "artistName": "Creedence Clearwater Revival",
+      "albumName": "The Concert",
+      "trackUri": "spotify:track:3PLnH5T3MB9ItFADOxSp83"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Feelin' Alright",
+      "artistName": "Joe Cocker",
+      "albumName": "20th Century Masters: The Millennium Collection: Best Of Joe Cocker",
+      "trackUri": "spotify:track:0RqAAh0k42Kx2bizDsYxKw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Danger Zone",
+      "artistName": "Kenny Loggins",
+      "albumName": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+      "trackUri": "spotify:track:2rrqnEkrYV6TD8167UedQX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Express Yourself",
+      "artistName": "Charles Wright & The Watts 103rd Street Rhythm Band",
+      "albumName": "Express Yourself",
+      "trackUri": "spotify:track:4pW3aTX3kAmOaPJfc9UM12"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "(Your Love Has Lifted Me) Higher and Higher",
+      "artistName": "Otis Redding",
+      "albumName": "Love Songs",
+      "trackUri": "spotify:track:1bQZqNmP4erLEMgwAGIxDI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "artistName": "Jackie Wilson",
+      "albumName": "Anthology, Vol. 2",
+      "trackUri": "spotify:track:7CP2CFfECQK7EWLjznYRTQ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Sussudio - 2016 Remaster",
+      "artistName": "Phil Collins",
+      "albumName": "No Jacket Required",
+      "trackUri": "spotify:track:765E8MK8PYdkDQilOkEDdD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Jessica - Unedited Version",
+      "artistName": "Allman Brothers Band",
+      "albumName": "Brothers And Sisters",
+      "trackUri": "spotify:track:7yxC9fSkwRW5Om6hS1ZPZ5"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Ramblin' Man",
+      "artistName": "Allman Brothers Band",
+      "albumName": "Brothers And Sisters",
+      "trackUri": "spotify:track:0fmokd2fO9j2vBmFKqLF0C"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Happy",
+      "artistName": "The Rolling Stones",
+      "albumName": "Exile On Main Street",
+      "trackUri": "spotify:track:5fXRPS1tp70DbqsBZVyG4e"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Torn And Frayed",
+      "artistName": "The Rolling Stones",
+      "albumName": "Exile On Main Street",
+      "trackUri": "spotify:track:6dE1etqLwt5GUUBVQdIgBB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  },
+  {
+    "track": {
+      "trackName": "Black Peter - Live at Golden Hall in San Diego 1970 Version",
+      "artistName": "Grateful Dead",
+      "albumName": "Workingman's Dead [Expanded]",
+      "trackUri": "spotify:track:53jgHfUfXfra7M3bs4aOOD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-05"
+  }
+]

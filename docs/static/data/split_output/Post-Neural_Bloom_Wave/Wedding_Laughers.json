@@ -1,0 +1,62 @@
+[
+  {
+    "track": {
+      "trackName": "Kiss from a Rose",
+      "artistName": "Seal",
+      "albumName": "Best 1991 - 2004",
+      "trackUri": "spotify:track:0z5E34e7ZT3XKMYQNXh6tH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-09-01"
+  },
+  {
+    "track": {
+      "trackName": "Bye Bye Bye",
+      "artistName": "*NSYNC",
+      "albumName": "No Strings Attached",
+      "trackUri": "spotify:track:4r8lRYnoOGdEi6YyI5OC1o"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-09-01"
+  },
+  {
+    "track": {
+      "trackName": "Ice Ice Baby",
+      "artistName": "Vanilla Ice",
+      "albumName": "To The Extreme",
+      "trackUri": "spotify:track:11d9oUiwHuYt216EFA2tiz"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-09-01"
+  },
+  {
+    "track": {
+      "trackName": "Everybody (Backstreet's Back) - Radio Edit",
+      "artistName": "Backstreet Boys",
+      "albumName": "This Is The End: Original Motion Picture Soundtrack",
+      "trackUri": "spotify:track:4rTeOSYqwXNz5qPR2DUTFZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-09-01"
+  },
+  {
+    "track": {
+      "trackName": "Watch Me (Whip / Nae Nae)",
+      "artistName": "Silentó",
+      "albumName": "Watch Me (Whip / Nae Nae)",
+      "trackUri": "spotify:track:5RIVoVdkDLEygELLCniZFr"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-09-01"
+  }
+]

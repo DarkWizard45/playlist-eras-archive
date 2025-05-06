@@ -1,0 +1,38 @@
+[
+  {
+    "track": {
+      "trackName": "Time Moves Slow",
+      "artistName": "BADBADNOTGOOD",
+      "albumName": "IV",
+      "trackUri": "spotify:track:1I40L32fTSSkBkPeArX9Ul"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-12-17"
+  },
+  {
+    "track": {
+      "trackName": "Shanghai",
+      "artistName": "King Gizzard & The Lizard Wizard",
+      "albumName": "Butterfly 3000",
+      "trackUri": "spotify:track:6HlWKkzNE1WP67OGqtGeBW"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-12-17"
+  },
+  {
+    "track": {
+      "trackName": "Eleanor Rigby - Remastered 2015",
+      "artistName": "The Beatles",
+      "albumName": "1",
+      "trackUri": "spotify:track:0Wv8IXRUDZOfmFJHC1VOFI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-12-17"
+  }
+]

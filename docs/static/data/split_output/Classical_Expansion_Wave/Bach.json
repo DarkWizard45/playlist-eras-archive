@@ -1,0 +1,5378 @@
+[
+  {
+    "track": {
+      "trackName": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: I. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:3sf6l4HQPrR3lNvaR42Sgy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: II. Fuga. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:7wf0RWP7sVjWGwG7pu5gZ0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: III. Siciliana",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:76ZcCWVXyy3l54wgBEudSB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: IV. Presto",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:7ftsdGd4xeqDvpTjJbCdyO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 1 in B Minor, BWV 1002: I. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:7rauvOiKAoSulQyY0RGcZ6"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 1 in B Minor, BWV 1002: II. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:6DPQkQzHeYvTQ7s9p4bUti"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 1 in B Minor, BWV 1002: III. Corrente",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:3lLbh9SMQfaEuYubYRjYUp"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 1 in B Minor, BWV 1002: IV. Double. Presto",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:2moM77MxMK0Mbaaf48KhzU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 1 in B Minor, BWV 1002: V. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:21DLwhBvNBpVhwiNqwZ8Ho"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 1 in B Minor, BWV 1002: VI. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:4jq4kTGl98lqoxpcKiFe5v"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 1 in B Minor, BWV 1002: VII. Tempo di bourrée",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:3rYpvzBzo4Vc0dv9MmRrUZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 1 in B Minor, BWV 1002: VIII. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:1QXSeyH2adp7tcNCOWVcec"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Sonata for Solo Violin No. 2 in A Minor, BWV 1003: I. Grave",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:2xCcfix5Z8qNeV8slNqLXQ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Sonata for Solo Violin No. 2 in A Minor, BWV 1003: II. Fuga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:0YfcBqR1Axx3ash8GoU5Hl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Sonata for Solo Violin No. 2 in A Minor, BWV 1003: III. Andante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:18pzaeDkWR9UlPNVJhuPN0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Sonata for Solo Violin No. 2 in A Minor, BWV 1003: IV. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:6qIDuFIlpXzzQWaDYe0u76"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 2 in D Minor, BWV 1004: I. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:79JGu9yUSPWGIwHRezgN9M"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 2 in D Minor, BWV 1004: II. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:3yL4KsVoyxs3sF3llREMev"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 2 in D Minor, BWV 1004: III. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:1xzPOhTJdkKP7WpvfzJbM3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 2 in D Minor, BWV 1004: IV. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:31R6IkxUzZyEmfVeIZzEya"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 2 in D Minor, BWV 1004: V. Chaconne",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:5Z1kjTgKJVWvEizpZc3G1S"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Sonata for Solo Violin No. 3 in C Major, BWV 1005: I. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:7BeGNG4Bv4pNLQnMJEy0zJ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Sonata for Solo Violin No. 3 in C Major, BWV 1005: II. Fuga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:1qn1mmv9RaDfTERmn0qknn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Sonata for Solo Violin No. 3 in C Major, BWV 1005: III. Largo",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:5JQR4QIdqx8LBlMuAuvZCG"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Sonata for Solo Violin No. 3 in C Major, BWV 1005: IV. Allegro assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:05R1Ez7rcIL9DcnZ0bdQuI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 3 in E Major, BWV 1006: I. Preludio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:3hVp99a2QUtTISe1aQjf0Y"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 3 in E Major, BWV 1006: II. Loure",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:0RrtG5X8lXd27nSBZTzsL4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 3 in E Major, BWV 1006: III. Gavotte en rondeau",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:3Q965dldkjHu86WjivWybh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 3 in E Major, BWV 1006: IV. Menuet I",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:1HWMuIcF0evNjkmqBbd7Gx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 3 in E Major, BWV 1006: V. Menuet II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:7H9Jn0ZHrhLobhTJK4cZbU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 3 in E Major, BWV 1006: VI. Bourrée",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:06GkQvp4e20QQ0bEP4iv6e"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Bach, JS: Partita for Solo Violin No. 3 in E Major, BWV 1006: VII. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Solo Violin Sonatas",
+      "trackUri": "spotify:track:20nLlqV1LeI010Yxpguoyq"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No.1 in G Minor, BWV 1001: I. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:4r8pNkmKQhbg3hMvPHZKuo"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No.1 in G Minor, BWV 1001: II. Fuga - Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:1mdKnE3JSrizfFYytdazAQ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No.1 in G Minor, BWV 1001: III. Siciliana",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:4LDNoT3JbONU0sJPne2TeJ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No.1 in G Minor, BWV 1001: IV. Presto",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:4ZtdMNfydWmG9mKKMxDGLx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No.1 in B Minor, BWV 1002: I. Allemanda",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:5vjGr7O4wM4RSAHrZRvxK6"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No.1 in B Minor, BWV 1002: II. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:6MbID3SsRzfN3wykmn9e9k"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No.1 in B Minor, BWV 1002: III. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:3dztl9ikdD3G8PsdIKOwAZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No.1 in B Minor, BWV 1002: IV. Double - Presto",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:2SOKNkr7gHJLH5EzmRUFxi"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No.1 in B Minor, BWV 1002: V. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:3TgjWwH0Wp8EuK9sir4rHd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No.1 in B Minor, BWV 1002: VI. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:0VMmb1cVJXOhRhFAOvsIC7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No.1 in B Minor, BWV 1002: VII. Tempo di Bouree",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:2ntExRfs5cEiLqODuua3GA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No.1 in B Minor, BWV 1002: VIII. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:7uNmGytaHKwNTWJ3GQJw6r"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 2 in A Minor, BWV 1003: I. Grave",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:5KVzcwHoxCb0q3MwdHa59m"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 2 in A Minor, BWV 1003: II. Fuga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:0C6InLm2DFBj7E9IT09A7D"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 2 in A Minor, BWV 1003: III. Andante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:3tchIkLZDHkJaIg7ficWEv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 2 in A Minor, BWV 1003: IV. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:6JqU1rDDIeGRPE2O3jRSRa"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: I. Allemanda",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:22deB8KVczDnwcShVnsfyN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: II. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:6ckyNb9l4kAsNLhXGopkYI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: III. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:6NTcode7v9S0rda43im39H"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: IV. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:78bxTrAbO7l4tld7TS5jfs"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: V. Chaconne",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:2X6W2VK040gAW2atHxtBWf"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 3 in C Major, BWV 1005: I. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:39Ct70ILrzjopA3pytsH3c"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 3 in C Major, BWV 1005: II. Fuga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:26o5byQEMJA5HagSLhWdH0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 3 in C Major, BWV 1005: III. Largo",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:6QS7ocQigo8uKsPRNM8f78"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 3 in C Major, BWV 1005: IV. Allegro Assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:5fKlOVCR53PRtnedYtwZcn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: I. Preludio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:72RQcAkUtka38wq5RHWsOG"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: II. Loure",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:1LH1efIRlEZ37Vdfm88lgh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: III. Gavotte en rondeau",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:33jO4RaajyKxXt0tsDNGzh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: IV. Menuett l/ll",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:0Z96QtQWt9KzmTgbDZl5zo"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: V. Bourree",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:2R7u5kzUVBmGVT1ik1mRNl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: VI. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach Partitas & Sonatas for Solo Violin",
+      "trackUri": "spotify:track:500FeTxTM0jLGSqp1UaGd7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 2 in E Major, BWV 1042: I. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Violin Concertos",
+      "trackUri": "spotify:track:73tZgpqMsIpHQZALeB8kde"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 2 in E Major, BWV 1042: II. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Violin Concertos",
+      "trackUri": "spotify:track:1O4kdVakKNlWiuFj3X33LZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 2 in E Major, BWV 1042: III. Allegro assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Violin Concertos",
+      "trackUri": "spotify:track:0abswTTDds2giUnZo43tqb"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Concerto for 2 Violins in D Minor, BWV 1043: I. Vivace",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Violin Concertos",
+      "trackUri": "spotify:track:1YcA6wu4Wmyks2EDUArIYq"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Concerto for 2 Violins in D Minor, BWV 1043: II. Largo ma non tanto",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Violin Concertos",
+      "trackUri": "spotify:track:6VrYvkGIY1bAM9YS8DNtiH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Concerto for 2 Violins in D Minor, BWV 1043: III. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Violin Concertos",
+      "trackUri": "spotify:track:6SSsQBiv2DOslnoxHNLFBz"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 1 in A Minor, BWV 1041: I. Allegro moderato",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Violin Concertos",
+      "trackUri": "spotify:track:1gk5xJArK53xosY33PmzQz"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 1 in A Minor, BWV 1041: II. Andante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Violin Concertos",
+      "trackUri": "spotify:track:3gBp7z0hXnJMdD343SjGGo"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 1 in A Minor, BWV 1041: III. Allegro assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Violin Concertos",
+      "trackUri": "spotify:track:6MjhZjHH5MO5ZzjsHpIooq"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Concerto for 2 Harpsichords in C Minor, BWV 1060: I. Allegro (Arr. for Violin, Oboe, Strings & Continuo)",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Violin Concertos",
+      "trackUri": "spotify:track:3zLH7v5EzC9vn5WDY1QV0I"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Concerto for 2 Harpsichords in C Minor, BWV 1060: II. Adagio (Arr. for Violin, Oboe, Strings & Continuo)",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Violin Concertos",
+      "trackUri": "spotify:track:3OVYYZrxfM5dn2yWHwKzyL"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Concerto for 2 Harpsichords in C Minor, BWV 1060: III. Allegro (Arr. for Violin, Oboe, Strings & Continuo)",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Violin Concertos",
+      "trackUri": "spotify:track:4csrk8a7IILpWGmxJKnuf3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: I. Preludio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:2sqhid2MBYJCZWPrLjsUbP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: II. Loure",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:56RnSF8QlR5ROKpLOu4z3w"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: III. Gavotte en rondeau",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:4SvCWhvDa0cLRIFxcchVON"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: IV. Menuet I",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:1juVreeJ3M39uWAxUnS0VM"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: V. Menuet II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:1BhQoiv9tA7u797b1UifiS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: VI. Bourrée",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:41KbcFlLznr9SQXaalvzVZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: VII. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:2gIXyWYCY7EuBUZtKFhF5b"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: I. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:5S94PIQplSfBHZXsZowyGY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: II. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:4RPAT3o26tK4LBaQ75NZeW"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: III. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:0rYhv9ti1rgjlRJaeXdzLw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: IV. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:2FDT56tCbUs6jBYbPxKYOY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: V. Ciaccona",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:7IVkyo8IVhPsRuZwdfpoLo"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 3 in C Major, BWV 1005: I. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:6tcJ7M2lhkICwnLkcO3KF9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 3 in C Major, BWV 1005: II. Fuga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:4uHu6ZsgqEbhhckoyKGlVp"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 3 in C Major, BWV 1005: III. Largo",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:2IBDWA85qEq5hpTI7mxjM7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 3 in C Major, BWV 1005: IV. Allegro assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Hilary Hahn Plays Bach",
+      "trackUri": "spotify:track:5ri2exJXDINYWUvkSWm7Id"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in A Minor, BWV 1041: I. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Works for Violin",
+      "trackUri": "spotify:track:0Myi1WvNmsicmHxPrT4NaJ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in A Minor, BWV 1041: II. Andante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Works for Violin",
+      "trackUri": "spotify:track:5w38FnDi6QuvaysWJPQNMZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in A Minor, BWV 1041: III. Allegro assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Works for Violin",
+      "trackUri": "spotify:track:7i75bul3AZnwfAqID1bRM0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in E Major, BWV 1042: I. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Works for Violin",
+      "trackUri": "spotify:track:4CnBYWrWRTGS2pCX4jiccO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in E Major, BWV 1042: II. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Works for Violin",
+      "trackUri": "spotify:track:41aIFBYgb4WBUcpZxt9vbC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in E Major, BWV 1042: III. Allegro assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Works for Violin",
+      "trackUri": "spotify:track:1Gd0GJF72EJiPFFJYSeDO9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: V. Chaconne (Arr. J. Milone for Violin & Orchestra)",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Works for Violin",
+      "trackUri": "spotify:track:6lsDKnJ7CMBzBM4WDaVZ7a"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Orchestral Suite No. 3 in D major, BWV 1068: II. Air",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Works for Violin",
+      "trackUri": "spotify:track:21rKK1lBgAMGqCShuqUyOf"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: III. Gavotte en rondeau (Arr. J. Milone for Violin & Orchestra)",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Works for Violin",
+      "trackUri": "spotify:track:7aRET8mgvTgAdL2LyT5LVN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:61dYvvfIRtIDFuqZypPAta"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 1 in G Major, BWV 1007: II. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:1gs4pls8VN4StOUYSVG0nU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 1 in G Major, BWV 1007: III. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:70rlzUf9y1skkI3agyvbjg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 1 in G Major, BWV 1007: IV. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:7jOJwH4kze92qMREpVI4cr"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 1 in G Major, BWV 1007: V. Menuets I & II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:4JXQV1LS3lw09MwCFFASso"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 1 in G Major, BWV 1007: VI. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:7BWwT75IPTKbHbxn4P6Bwm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 4 in E-Flat Major, BWV 1010: I. Prélude",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:0dDcSr2vBxvILNB8oTpI01"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 4 in E-Flat Major, BWV 1010: II. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:3oPPgAxqczl1Hx0rBhtTDH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 4 in E-Flat Major, BWV 1010: III. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:2oSSC6Si36uySfMMhqN3Ck"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 4 in E-Flat Major, BWV 1010: IV. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:2Ayg18tDjY3l4ZDNN5vq6O"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 4 in E-Flat Major, BWV 1010: V. Bourrées I & II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:7pEmROhQAmH6xGjhlaMTEm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 4 in E-Flat Major, BWV 1010: VI. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:2Y9HshitG2sK0LZjNHsVJC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 5 in C Minor, BWV 1011: I. Prélude",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:7ekIYM7PEFS47LwMes5Y5g"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 5 in C Minor, BWV 1011: II. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:4hB1M0RTIlrbC1DwA6XJ9Q"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 5 in C Minor, BWV 1011: III. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:7HMiAI8QmUWgm5gCWFNH9O"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 5 in C Minor, BWV 1011: IV. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:3TILjRV9ZYEEfJcF6Re3H4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 5 in C Minor, BWV 1011: V. Gavottes I & II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:45wXZS6elH1pyW5jMkYPrp"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 5 in C Minor, BWV 1011: VI. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:1QnlHWGQfBbX9q7smtCtSq"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 2 in D Minor, BWV 1008: I. Prélude",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:5BSTDnS8drJLOwpL4Co4K2"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 2 in D Minor, BWV 1008: II. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:5zlzCvtuUTEDWOTdqWlizb"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 2 in D Minor, BWV 1008: III. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:3foD7uASyvlyCwIq2y9zxB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 2 in D Minor, BWV 1008: IV. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:1hzmdkWXise3bM612puWKi"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 2 in D Minor, BWV 1008: V. Menuets I & II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:5jpgQbRi4tmOckoeF3v1ye"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 2 in D Minor, BWV 1008: VI. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:5A00HKycJpzTqjo8f9RzkR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 3 in C Major, BWV 1009: I. Prélude",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:5LhmKtk4jyC1J7eOmJTNBO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 3 in C Major, BWV 1009: II. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:3iTDxBDvLKwQCKd7OIbNPK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 3 in C Major, BWV 1009: III. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:2gKIaMUAXrVgjJBpxbPrSM"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 3 in C Major, BWV 1009: IV. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:5MvmCcMhBScIqli00VTblQ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 3 in C Major, BWV 1009: V. Bourrées I & II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:2smEq3BRk5JHBkBWFLupUr"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 3 in C Major, BWV 1009: VI. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:1M5hs1k7GLZU237dOqLdkH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 6 in D Major, BWV 1012: I. Prélude",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:7j8Zvc4SWkmjohXxuraria"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 6 in D Major, BWV 1012: II. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:3kCQjHGEzgy9JOqr6fgxDv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 6 in D Major, BWV 1012: III. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:1QSNIfsTBWNmQ2pplTD3xF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 6 in D Major, BWV 1012: IV. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:1X0ZNb4aZVPZhBrgWwJBJE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 6 in D Major, BWV 1012: V. Gavottes I & II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:4R4FvSsQcwvAha9z0rhkSC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Cello Suite No. 6 in D Major, BWV 1012: VI. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Unaccompanied Cello Suites",
+      "trackUri": "spotify:track:0w9xYEvm1nd4S9v04zftup"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 3 in D Major, BWV 1068: I. Overture",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:6GM4xjENIlm3NfxaOiHGY9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 3 in D Major, BWV 1068: II. Air",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:2MDFmo4qbTtlqLEAxWLp6k"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 3 in D Major, BWV 1068: III. Gavotte I - II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:7pQ9hdNBR5k2pyfDsy0y3h"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 3 in D Major, BWV 1068: IV. Bourree",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:6uUzupgC5xcCnnkJrL8SGj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 3 in D Major, BWV 1068: V. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:7GKcYNnDdnY8lFtIcdfPeO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: I. Overture",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:5NIDCPOGeBSfcOUO7OSwyy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: II. Rondeau",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:6DPvQxlzalH3EPvmbUrGtY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: III. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:6ZmCdePkbHRFX5OkTfOjJS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: IV. Bourre I - II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:3wzwGflOgWLaFl2AJqNJVc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: V. Polonaise - Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:1zz3XWwkZRXxombsX9jW37"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: VI. Menuet",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:3TfpFgoE2qwSzI9kfqYF5Z"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: VII. Badinerie",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:3K2LgQEpLHviUsvlu4ooJV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 1 in C Major, BWV 1066: I. Overture",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:3CGM8gCy5YRepwEgNipjZw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 1 in C Major, BWV 1066: II. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:3jrkbkLT9LvNNUYT7VOsfy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 1 in C Major, BWV 1066: III. Gavotte I - II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:2TlEC9sfX72DfVxgJPuRrd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 1 in C Major, BWV 1066: IV. Forlane",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:03hw8bM2MQZUXLL5bnHNO6"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 1 in C Major, BWV 1066: V. Menuet I - II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:3ZTH26YeteMfSBbwvsjnkr"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 1 in C Major, BWV 1066: VII. Passepied I - II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:3oH3jWjJd3BCiuWiZ8sgdz"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 4 in D Major, BWV 1069: I. Overture",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:5xzfAiugMurDr5mcaRNhFd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 4 in D Major, BWV 1069: II. Bourree I - II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:2byJELX1j22bxVsuU82XlC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 4 in D Major, BWV 1069: III. Gavotte",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:3CXlYdlhDQYuvnvcbJYeon"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 4 in D Major, BWV 1069: IV. Menuet I - II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:36XZJ0zGrCSGUeR0XSWpPZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 4 in D Major, BWV 1069: V. Rejouissance",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites Nos. 1-4",
+      "trackUri": "spotify:track:45ORVh3mBpqOOlQolkd3XY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 1 in C Major, BWV 1066: I. Overture",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:5eZmLQJzXyAfwZZ6V6Iucu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 1 in C Major, BWV 1066: II. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:7AGNFyqBEDk92hY0htd2Yl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 1 in C Major, BWV 1066: III. Gavotte I-II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:2P0kRXo0lZb65RUdhAS6Sm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 1 in C Major, BWV 1066: IV. Forlane",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:0JDrKyyZUP7RRvq5axKiP7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 1 in C Major, BWV 1066: V. Menuet I-II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:4c9b4OlLfoo9FWmh7oynLt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 1 in C Major, BWV 1066: VI. Bourree I-II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:4tvQGcrmlh0Bx7UsYZQ6nh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 1 in C Major, BWV 1066: VII. Passepied I-II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:70ii2SxATIooJqWT9uYp1L"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: I. Ouverture",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:5CKqVQHCTJUTxyz8gzogDT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: II. Rondeau",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:0eYqpxuo5Nhk5BU7eBr41t"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: III. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:2XxTRrGhBhK9xmLhFUuTKA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: IV. Bourree I-II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:2jsxS7Y8eEPSyWxk5nkj3k"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: V. Polonaise - Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:7rwLzZAyXbm80EZ9eJUUlp"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: VI. Menuet",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:3ZXAt0qgpeDCioiYloNj8j"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 2 in B Minor, BWV 1067: VII. Badinerie",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:3fItTDsAL2N57KZHEqgnFw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 3 in D Major, BWV 1068: I. Ouverture",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:1OedgRrIQhHz2MEVQqi2ZH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 3 in D Major, BWV 1068: II. Air, \"Air on a G String\"",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:0qa58UpusCVoEAEGC6FgSc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 3 in D Major, BWV 1068: III. Gavotte I-II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:25nJaMlXtEzaQA4eMC0XR0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 3 in D Major, BWV 1068: IV. Bourree",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:0GvR0U14eLzVJs6qHvQdbA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 3 in D Major, BWV 1068: V. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:1VUrU991yycSpFEKH75Shv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 4 in D Major, BWV 1069: I. Overture",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:59sIEWaopBfYwlRpWwXXaD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 4 in D Major, BWV 1069: II. Bourree I-II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:4koei5kFjqr2k6Eti2hLvZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 4 in D Major, BWV 1069: III. Gavotte",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:0QcdfwEUQRQlPW04V3a3IY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 4 in D Major, BWV 1069: IV. Menuet I-II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:5HBQ1pGqnxB6xpQQPvRTK1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Overture (Suite) No. 4 in D Major, BWV 1069: V. Rejouissance",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:0yoeg4CufXTA3RVKoytAJx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 4 in D Major, BWV 1069: Suite No. 4 in D Major, BWV 1069: I. Ouverture",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:2Et2L5CD3MleLlGvZkfDXC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 4 in D Major, BWV 1069: Suite No. 4 in D Major, BWV 1069: II. Bourrées I & II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:4MvWFTFV1CY7w2Iy58FR8F"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 4 in D Major, BWV 1069: Suite No. 4 in D Major, BWV 1069: III. Gavotte",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:6J45Gg6nsyRwyP3Xnuaze6"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 4 in D Major, BWV 1069: Suite No. 4 in D Major, BWV 1069: IV. Menuets I & II alternativement",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:3hymlx4WRcbIGTI6nNEqQF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 4 in D Major, BWV 1069: Suite No. 4 in D Major, BWV 1069: V. Réjouissance",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:71CQbNbXB6XlVWh4f8uZfu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 2 in B Minor, BWV 1067: Suite No. 2 in B Minor, BWV 1067: I. Ouverture",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:4l98pu3oSx3IqBnY2Gi0DT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 2 in B Minor, BWV 1067: Suite No. 2 in B Minor, BWV 1067: II. Rondeau",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:3FnTDkF46T98IzIaLpkk6p"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 2 in B Minor, BWV 1067: Suite No. 2 in B Minor, BWV 1067: III. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:3txQPaz3VrGpNf0G8mwJLm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 2 in B Minor, BWV 1067: Suite No. 2 in B Minor, BWV 1067: IV. Bourrées I & II alternativement",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:7sdcrq4QyNZLBqzqsUD6Z7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 2 in B Minor, BWV 1067: Suite No. 2 in B Minor, BWV 1067: V. Polonaise & Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:4ogNfDxaihmnKuVbraHwBm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 2 in B Minor, BWV 1067: Suite No. 2 in B Minor, BWV 1067: VI. Menuet",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:0aCEXAdoP7f0MnrsXhk8Rw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 2 in B Minor, BWV 1067: Suite No. 2 in B Minor, BWV 1067: VII. Badinerie",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:7w5UXRp7zMIv9nJnkPTzpR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 1 in C Major, BWV 1066: Suite No. 1 in C Major, BWV 1066: I. Ouverture",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:2rASLILwvyW9DdiRcrq3jA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 1 in C Major, BWV 1066: Suite No. 1 in C Major, BWV 1066: II. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:0S0zlxCrwEp3Z4CtvK641j"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 1 in C Major, BWV 1066: Suite No. 1 in C Major, BWV 1066: III. Gavottes I & II alternativement",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:6bZldOQyE2lPSpfPhzK84H"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 1 in C Major, BWV 1066: Suite No. 1 in C Major, BWV 1066: IV. Forlane",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:07mLif4otPSU5cpkDxZPgj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 1 in C Major, BWV 1066: Suite No. 1 in C Major, BWV 1066: V. Menuets I & II alternativement",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:465oJjOTnOjjmtkWsY6FDI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 1 in C Major, BWV 1066: Suite No. 1 in C Major, BWV 1066: VI. Bourrées I & II alternativement",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:6xX9odYDVhnO7WV0tw3vPu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 1 in C Major, BWV 1066: Suite No. 1 in C Major, BWV 1066: VII. Passepieds I & II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:0JOAjM1kVkUCQuoB44p56W"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 3 in D Major, BWV 1068: Suite No. 3 in D Major, BWV 1068: I. Ouverture",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:4irTmKmAoIpdhl6XyE0b4U"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 3 in D Major, BWV 1068: Suite No. 3 in D Major, BWV 1068: II. Air",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:3P15Mx8jlZd6CPrf9rGXBV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 3 in D Major, BWV 1068: Suite No. 3 in D Major, BWV 1068: III. Gavottes I & II alternativement",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:0SGZcEHfDw2IRiaIJZsOMg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 3 in D Major, BWV 1068: Suite No. 3 in D Major, BWV 1068: IV. Bourrée",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:15E4hFmHXUxzA7ac3nASKa"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Suite No. 3 in D Major, BWV 1068: Suite No. 3 in D Major, BWV 1068: V. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Orchestral Suites",
+      "trackUri": "spotify:track:1g7zSFNYnKjd2ANEUuwykH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Ave Maria",
+      "artistName": "Charles Gounod",
+      "albumName": "Songs from the Arc of Life",
+      "trackUri": "spotify:track:2kyEgPaAW8wdpvevPnkf0Z"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Aria",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations",
+      "trackUri": "spotify:track:2326UbALyWJSMaP5RnJ2vZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Aria",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:4MEB4FoKqoUOXAWQoK5RiK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 1. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:3F2WxJPuZSDhkkFCLafG5a"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 2. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:5Hj7bIa3WLdJW7kwMsKNpG"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 3. Canone all'Unisuono a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:1wdvLYd9rZ1z3rqnIjBHnH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 4. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:6b3zMKzLmXwGMMEG23WsH3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 5. a 1 o vero 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:0asOFMVpZv8DbdZfErmuTA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 6. Canone alla Seconda. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:1Mn263EnllevXQ54FzYkCi"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 7. a 1 o vero 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:3ebNCE0iVM35CVaLs9OSfN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 8. a 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:7uz73gUAyGEqNS5luY8MQ7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 9. Canone alla Terza. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:6D9gmDnRoDjJtM9OXOShjM"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 10. Fughetta. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:6zs7bY0DxsrC770AN62khN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 11. a 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:6O64YRngqY6ywhxNONdCmt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 12. Canone alla Quarta. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:19UKn8fgxTWNdNWbfja81K"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 13. a 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:27XMFPiMr1ZObT94GvQfkL"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 14. a 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:6bScJKYZ18g8XpbwQYH15h"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 15. Canone alla Quinta. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:6XIdqUyC17ZX4idzAeCqD7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 16. Ouverture. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:3V12HWPbjz7R4FF8QBaWtu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 17. a 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:3dqgEYidy6ILwUfWtmusPI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 18. Canone alla Sexta. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:0SR9wEXHeabrVAr0sYuzdF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 19. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:1beEMI4BrOfFGa7fwyYzJX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 20. a 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:3bBhLza0r02seFPFYcxHxD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 21. Canone alla Settima. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:0J2WZKSTS0c8ytPZQDYxed"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 22. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:7mreDWWXGTTecBMpz5pnz8"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 23. a 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:3L50wxUEYJW2DjMYfDdWXI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 24. Canone all'Ottava. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:4meigx9XGjypWC8aU6ha8e"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 25. a 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:53RPqD5vrXvRrQFB5WjRYy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 26. a 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:2dcLgRyTEwaerorXQi2fFg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 27. Canone alla Nona. a 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:51Z9xpgfXNu6oLzUv3VI4l"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 28. a 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:5DvoyUOLv0MeLpZrSCjmMv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 29. a 1 o vero 2 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:3v4S7LeNPuMxtjIjQMmLhU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Variatio 30. Quodlibet. a 1 Clav.",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:4VcpvOhI4MjHwFVcAe8V0z"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Goldberg Variations, BWV 988: Aria da capo",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Goldberg Variations, BWV 988 (Live)",
+      "trackUri": "spotify:track:3dopHijocIFAv1ySuTugPZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Prelude and Fugue in C Major, BWV 545",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Schübler-Chorales, Preludes & Fugues & Chorales",
+      "trackUri": "spotify:track:44SnM2HoxxXziOWmN0eb8Q"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Partite diverse sopra Sei gegrüßet, Jesu gütig, BWV 768",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Schübler-Chorales, Preludes & Fugues & Chorales",
+      "trackUri": "spotify:track:62pTSqM2Chpp1umnEeNBSq"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Fantasia and Fugue in C Minor, BWV 537",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Schübler-Chorales, Preludes & Fugues & Chorales",
+      "trackUri": "spotify:track:76Gi5hEyfFoNFeHmbhFfFj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "6 Chorale Preludes, Op. 5 \"Schübler-Chorales\": Wachet auf, ruft uns die Stimme, BWV 645",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Schübler-Chorales, Preludes & Fugues & Chorales",
+      "trackUri": "spotify:track:0FHBEoftTkbPMKK8pVTYoN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "6 Chorale Preludes, Op. 5 \"Schübler-Chorales\": Wo soll ich fliehen hin (Auf meinen lieben Gott), BWV 646",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Schübler-Chorales, Preludes & Fugues & Chorales",
+      "trackUri": "spotify:track:40gGaVYb8cq0oz6jcPpI1x"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "6 Chorale Preludes, Op. 5 \"Schübler-Chorales\": Wer nur den lieben Gott läßt walten, BWV 647",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Schübler-Chorales, Preludes & Fugues & Chorales",
+      "trackUri": "spotify:track:6B6kxVGfH5XjR1z8jt7K0M"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "6 Chorale Preludes, Op. 5 \"Schübler-Chorales\": Meine Seele erhebet den Herren, BWV 648",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Schübler-Chorales, Preludes & Fugues & Chorales",
+      "trackUri": "spotify:track:76c7xbB97Zw9Sw6IrfAnr0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "6 Chorale Preludes, Op. 5 \"Schübler-Chorales\": Ach bleib' bei uns, Herr Jesu Christ, BWV 649",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Schübler-Chorales, Preludes & Fugues & Chorales",
+      "trackUri": "spotify:track:5C1SyMWtFOSlhQqvuBVsxV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "6 Chorale Preludes, Op. 5 \"Schübler-Chorales\": Kommst du nun, Jesu, vom Himmel herunter, BWV 650",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Schübler-Chorales, Preludes & Fugues & Chorales",
+      "trackUri": "spotify:track:4G5uHJ8fexkWscblv8Gkkf"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Prelude and Fugue in A Major, BWV 536",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Schübler-Chorales, Preludes & Fugues & Chorales",
+      "trackUri": "spotify:track:0Bs0vNEbipED2p2LtDgumm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Prelude and Fugue in D Minor, BWV 539",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Schübler-Chorales, Preludes & Fugues & Chorales",
+      "trackUri": "spotify:track:3POWMteFM1W2GAyNVWGssT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "18 Chorales, BWV 651-668, \"Leipziger Chorale\": An Wasserflüssen Babylon, BWV 653b",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Schübler-Chorales, Preludes & Fugues & Chorales",
+      "trackUri": "spotify:track:4DNisKyuJCut9QaUXo9xRX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Prelude and Fugue in G Major, BWV 550",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Schübler-Chorales, Preludes & Fugues & Chorales",
+      "trackUri": "spotify:track:3iaZHKR7pqlMJn1kP6tqBE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 1 in G Minor, BWV 1001: I. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:72Zu2T66N2XO6cyQApbmVG"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 1 in G Minor, BWV 1001: II. Fugue: Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:44q4G5xcuHIq0QDfzW27yD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 1 in G Minor, BWV 1001: III. Siciliana",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:2EbU9bQ3CdLRPMTXpoWLEh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 1 in G Minor, BWV 1001: IV. Presto",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:5LZtXmR4JR9UD6qvRUqFMK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 1 in B Minor, BWV 1002: I. Allemanda",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:072LG3AfYbDxthZSTQ21Rn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 1 in B Minor, BWV 1002: II. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:38vZGr5n4libLK0uH7X4rD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 1 in B Minor, BWV 1002: III. Corrente",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:7tDqDYoiwz32HTqTMNo16q"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 1 in B Minor, BWV 1002: IV. Double. Presto",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:7Cy5tlAdfh4mfrHHOiSSNb"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 1 in B Minor, BWV 1002: V. Sarabanda",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:2UEhEVdlP28zCrVVQ0gqNe"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 1 in B Minor, BWV 1002: VI. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:6EALCpGkARVn1CjmeYpElY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 1 in B Minor, BWV 1002: VII. Tempo di Bourree",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:07CGZyRvCMCMgsM9laSfJO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 1 in B Minor, BWV 1002: VIII. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:6YmwPLofFI4VqUR05wDTu7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 2 in A Minor, BWV 1003: I. Grave",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:0lasmzN9Ci79MtBnPpM8cO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 2 in A Minor, BWV 1003: II. Fuga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:1BsXlQgfy5hyStLU0dBZ10"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 2 in A Minor, BWV 1003: III. Andante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:6NXMhTPdKc3nkiGA6Hv4V6"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 2 in A Minor, BWV 1003: IV. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:5KLThT5x6rfYJisbI4TmbV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: I. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:1WPh5rFZc1YPbOfS0CdOfl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: II. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:6GcMEako2PMAqgUCGh5zSN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: III. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:42dK8UuBRoZfXO8T7khHWI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: IV. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:4SRUm9c7UzpYnuJtqNgq9l"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 2 in D Minor, BWV 1004: V. Ciaccona",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:53zrDmrjJKs2cC8o98B0ag"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 3 in C Major, BWV 1005: I. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:5lUfaGvwbCQcsP2ndCuTE5"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 3 in C Major, BWV 1005: II. Fugue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:3oNvA8qz8qa2SAK513eEsu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 3 in C Major, BWV 1005: III. Largo",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:5pif99iwXrvWVLY9TVNyyW"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Sonata No. 3 in C Major, BWV 1005: IV. Allegro assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:2BLHHkr4SYgGt1y1tY3n4Y"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: I. Preludio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:3wBzqxST9GM23FssWkjcQu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: II. Loure",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:6Q9vvjNbmJOHoyvzOtOZsR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: III. Gavotte en rondeau",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:1x50UKkDTd1VBMZriJvU68"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: IV. Menuett I-II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:37L3sFiV0KQ4bWawIGcb76"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: V. Bourree",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:5r48mIJrGaduYjTsKOggTk"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Violin Partita No. 3 in E Major, BWV 1006: VI. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:2IUF1Wz5s3gLZSNLfaIZEf"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "Sonata for Violin Solo No. 1 in G Minor, BWV 1001: 1. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:5sBzR1J8WOzJTxNPWz6eia"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Sonata for Violin Solo No. 1 in G Minor, BWV 1001: 2. Fuga (Allegro)",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:3l8Gs3H5m2wLOz2lOeAs23"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Sonata for Violin Solo No. 1 in G Minor, BWV 1001: 3. Siciliana",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:5jboyug5horzw53eMkkYuU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Sonata for Violin Solo No. 1 in G Minor, BWV 1001: 4. Presto",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:2glv7zoMd35fRnEH4C2CYy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 1 in B Minor, BWV 1002: 1. Allemanda",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:23RxyqxohAyGSaKAHWaBTC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 1 in B Minor, BWV 1002: 2. Double (I)",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:0HsgxPbYVc6Lq6OGjJs32Z"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 1 in B Minor, BWV 1002: 3. Corrente",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:4zbuKXdMmy7qdUrIHzPKBx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita For Violin Solo No. 1 In B Minor, BWV 1002: 4. Double (Presto)",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:7oXt5OkX1HfGnesy8byX1L"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 1 in B Minor, BWV 1002: 5. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:6XQD1Fo26efo29qgubVFXc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 1 in B Minor, BWV 1002: 6. Double (II)",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:48dlbnuVuQTU2rphlYO4p1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 1 in B Minor, BWV 1002: 7. Tempo di Borea",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:1tQwb5whABO1JVSAPZRgvJ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 1 in B Minor, BWV 1002: 8. Double (III)",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:5RAF32UYm8sKcOXv0t1UeB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Sonata for Violin Solo No. 2 in A Minor, BWV 1003: 1. Grave",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:5kQ5QfMwZfriHsz3RaGb3h"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Sonata for Violin Solo No. 2 in A Minor, BWV 1003: 2. Fuga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:7kBU8F3h6Re6sWrQ6HIctK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Sonata for Violin Solo No. 2 in A Minor, BWV 1003: 3. Andante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:519xpVuWrj24dyou2Q9jZL"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Sonata for Violin Solo No. 2 in A Minor, BWV 1003: 4. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:7JZ9H7JMuZKwNYIOAZLN2Z"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 2 in D Minor, BWV 1004: 1. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:75YBhlKY2trI0XWDuK3Dzx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 2 in D Minor, BWV 1004: 2. Corrente",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:1cYHGiCHm3qVUEuFpfz1mN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 2 in D Minor, BWV 1004: 3. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:54xi7Mwi4NinHaJqsODv21"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 2 in D Minor, BWV 1004: 4. Giga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:3EeDuhbOT4WhNdFm72Ofmw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 2 in D Minor, BWV 1004: 5. Ciaccona",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:59C0Vy3oyizJw77a5keatg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Sonata for Violin Solo No. 3 in C Major, BWV 1005: 1. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:3aV8bFSA7yPi1bMW6dCEfB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Sonata for Violin Solo No. 3 in C Major, BWV 1005: 2. Fuga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:11qvKATX1zC4C4AgKVLoyk"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Sonata for Violin Solo No. 3 in C Major, BWV 1005: 3. Largo",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:0ekRSb9whZJasCX1fGLpIr"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Sonata for Violin Solo No. 3 in C Major, BWV 1005: 4. Allegro assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:3a3Jl1BRZo54lmpTwlHFRn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 3 in E Major, BWV 1006: 1. Preludio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:45GtH6c20NgEcosYBDcIfB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 3 in E Major, BWV 1006: 2. Loure",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:7wCKTp6MeFz19TvfGOlI1U"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 3 in E Major, BWV 1006: 3. Gavotte en Rondeau",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:5dwcBXswelF0sEYjFGM1LS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 3 in E Major, BWV 1006: 4a. Minuet I",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:2vnIxZ2pgChwuIOb8T9mhu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 3 in E Major, BWV 1006: 4b. Minuet II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:6MvgmO0ei6BGrgCjmj7wfV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 3 in E Major, BWV 1006: 5. Bourrée",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:5V7UQEdYGqOXDdZIOIV2yW"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Partita for Violin Solo No. 3 in E Major, BWV 1006: 6. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Sonatas And Partitas",
+      "trackUri": "spotify:track:6YpN3rWStI4Y8TzKUZc5rO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-02-21"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 1 in A minor, BWV 1041: 1. (Allegro moderato)",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: J.S.: Violin Concertos",
+      "trackUri": "spotify:track:0Q1ysI0BTtCG09MWXxYX9Y"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-10-02"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 1 in A minor, BWV 1041: 2. Andante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: J.S.: Violin Concertos",
+      "trackUri": "spotify:track:1QPgQdEtI8Ci44J2gUqWfB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-10-02"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 1 in A minor, BWV 1041: 3. Allegro assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: J.S.: Violin Concertos",
+      "trackUri": "spotify:track:6YUH5h6VZiKuycIdSOW5Uh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-10-02"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 2 in E, BWV 1042: 1. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: J.S.: Violin Concertos",
+      "trackUri": "spotify:track:5367lcrXS3pICJwirOKrWS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-10-02"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 2 in E, BWV 1042: 2. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: J.S.: Violin Concertos",
+      "trackUri": "spotify:track:7v69gh0hYxAqQ5ymWgTOEE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-10-02"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 2 in E, BWV 1042: 3. Allegro assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: J.S.: Violin Concertos",
+      "trackUri": "spotify:track:7zH80KFTIwp32teaZYftss"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-10-02"
+  },
+  {
+    "track": {
+      "trackName": "Concerto for 2 Violins in D Minor, BWV 1043: I. Vivace",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: J.S.: Violin Concertos",
+      "trackUri": "spotify:track:4i9gVBe4DY6F3u4mSqKyMd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-10-02"
+  },
+  {
+    "track": {
+      "trackName": "Concerto for 2 Violins in D Minor, BWV 1043: II. Largo ma non tanto",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: J.S.: Violin Concertos",
+      "trackUri": "spotify:track:5KLynX2k0jWmbQQmeFXQpG"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-10-02"
+  },
+  {
+    "track": {
+      "trackName": "Concerto for 2 Violins in D Minor, BWV 1043: III. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: J.S.: Violin Concertos",
+      "trackUri": "spotify:track:6eYADhQqlrf2qhfZjSAK05"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-10-02"
+  },
+  {
+    "track": {
+      "trackName": "Concerto for Oboe d'Amore, Strings & Continuo in D Major, BWV 1053R - Reconstr. Mehl: 1. (Allegro)",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: J.S.: Violin Concertos",
+      "trackUri": "spotify:track:715BP9813yFnSN2pSv4eL9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-10-02"
+  },
+  {
+    "track": {
+      "trackName": "Concerto for Oboe d'Amore, Strings & Continuo in D Major, BWV 1053R - Reconstr. Mehl: 2. Siciliano",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: J.S.: Violin Concertos",
+      "trackUri": "spotify:track:7qNNy5jDvrwBuexWuG3phm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-10-02"
+  },
+  {
+    "track": {
+      "trackName": "Concerto for Oboe d'Amore, Strings & Continuo in D Major, BWV 1053R - Reconstr. Mehl: 3. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: J.S.: Violin Concertos",
+      "trackUri": "spotify:track:39aBNuioZrmkAyjP512qfp"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-10-02"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 1 for Solo Violin in G Minor, BWV 1001: I. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:6Bv90OJjcmilKF7oyTnski"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 1 for Solo Violin in G Minor, BWV 1001: II. Fuga. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:34n385tuOOPWvC6P9N8N3E"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 1 for Solo Violin in G Minor, BWV 1001: III. Siciliana",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:3JlpNQeWAKGeLeJEpfe2zX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 1 for Solo Violin in G Minor, BWV 1001: IV. Presto",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:0sxRFkLyMUeveltNH0f59x"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 for Solo Violin in B Minor, BWV 1002: I. Allemanda",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:1Pj44wjMIKJGnmPJ2aBs4W"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 for Solo Violin in B Minor, BWV 1002: II. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:05oXQ0OM1q5KMpbRaYVSvN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 for Solo Violin in B Minor, BWV 1002: III. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:1mma7719FGpl6b9UchoJ2b"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 for Solo Violin in B Minor, BWV 1002: IV. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:6el4xgmr3YWAnfEuwSowWY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 for Solo Violin in B Minor, BWV 1002: V. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:4Z5AoPgBd3h0KNYqLn4UxY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 for Solo Violin in B Minor, BWV 1002: VI. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:5tcid5PZK7LtJiMV9ayt6G"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 for Solo Violin in B Minor, BWV 1002: VII. Bourrée \"Tempo di Borea\"",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:7jHKpqen1Hk6fzojKGdiR7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 for Solo Violin in B Minor, BWV 1002: VIII. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:3x1Rdpgy6QGSlW9tItHYdm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 2 for Solo Violin in A Minor, BWV 1003: I. Grave",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:2oSP2toNayPBHOYv0am00Z"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 2 for Solo Violin in A Minor, BWV 1003: II. Fuga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:6OaJkM4jDkeAiNMNBqRcnf"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 2 for Solo Violin in A Minor, BWV 1003: III. Andante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:21j7QrB7hLCOSzoSQLnqgV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 2 for Solo Violin in A Minor, BWV 1003: IV. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:0TZxoCjQfR2slIIOACcdef"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 for Solo Violin in D Minor, BWV 1004: I. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:1um5WmBBAekPfudiHZUANR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 for Solo Violin in D Minor, BWV 1004: II. Corrente",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:1ANzGIGRjPcNCFwp2wikGh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 for Solo Violin in D Minor, BWV 1004: III. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:0RFHqAjo18hVw61XNyC3IC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 for Solo Violin in D Minor, BWV 1004: IV. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:2UNXLKy9ddylMKvBQlisZD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 for Solo Violin in D Minor, BWV 1004: V. Chaconne",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:6OzOONxQ7SFhVcKxMZngra"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 3 for Solo Violin in C Major, BWV 1005: I. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:3f8NBdUUUtrfKKRz7NVzY1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 3 for Solo Violin in C Major, BWV 1005: II. Fuga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:5R5mgemtKniytx5cWuNx56"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 3 for Solo Violin in C Major, BWV 1005: III. Largo",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:3YXY5BXemDetmwDLbFOm5w"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 3 for Solo Violin in C Major, BWV 1005: IV. Allegro assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:67zevEGj7yP12LAJtNPkbT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 for Solo Violin in E Major, BWV 1006: I. Preludio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:5uyB0nvACy8gqvSbCfRjDD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 for Solo Violin in E Major, BWV 1006: II. Loure",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:57imsYkaS2Jp4KBfWNW1Jr"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 for Solo Violin in E Major, BWV 1006: III. Gavotte en Rondeau",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:3AlaixoDxT7XlBT7qjJ89b"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 for Solo Violin in E Major, BWV 1006: IVa. Menuet I",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:678CXZih5MrZkwuBGn7LYR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 for Solo Violin in E Major, BWV 1006: IVb. Menuet II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:2YOcebW2gjSg6daN0F6ww7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 for Solo Violin in E Major, BWV 1006: V. Bourrée",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:2o9sIn6z6PKR40v4vpGnWf"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 for Solo Violin in E Major, BWV 1006: VI. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Sonatas and Partitas for Violin Solo",
+      "trackUri": "spotify:track:2Udj05aGBeLDmBDSqRjrX6"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 1, BWV 1001, in G Minor: Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:0RDsH68EORKruV54G5SRRs"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 1, BWV 1001, in G Minor: Fugue: Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:7KnfiM9Slt0pox1X4zXNZy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 1, BWV 1001, in G Minor: Siciliano",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:0J5aIbk10vyzzJhHwiAtZ3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 1, BWV 1001, in G Minor: Presto",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:4UfBj8jRfwgEVO2clItDRM"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 2, BWV 1003, in A Minor: Grave",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:6vCCInccL8L6QlSAXtOJ0e"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 2, BWV 1003, in A Minor: Fugue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:2aTOCxBr6ak95rNsQFFSbR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 2, BWV 1003, in A Minor: Andante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:4V6VvYvoF7lvp5L6B6UsGl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 2, BWV 1003, in A Minor: Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:2YCRbJ4VJzRs5X6qoMD2zI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 3, BWV 1005, in C: Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:1wL6OG6I59mIMRzy3LsU8O"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 3, BWV 1005, in C: Fugue: Alla breve",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:1UnIIQhBAq2HbO9iS77qCK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 3, BWV 1005, in C: Largo",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:2E1Pcgdl8ZhRPzaAH7Sqai"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 3, BWV 1005, in C: Allegro assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:2ZNxWNmWJ2sx4NCZuh3GPh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: I. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:71WBhgtkyQFdYRKhY7oliF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: II. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:1NjEPjFCHNkUShgwE0aUIg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: III. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:7eyS9qC2FN9oqJT8C5fsKU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: IV. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:2OJjhTkCVH0vHBJCIoAtyw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: V. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:0jRdjOITJSGGHdpjjJeMhB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: VI. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:0RWpPQA2u6HmtKjPhrOP8L"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: VII. Bourrée",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:1UoNe3dXZedGHazUGGug6x"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: VIII. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:13RKM2n8vYnKBWgERMf9Bm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 in D Minor, BWV 1004: I. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:3O67QmR6pa4rb5L1Ojwt7b"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 in D Minor, BWV 1004: II. Courante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:7bCiXkqxlv24fsciLeQlwd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 in D Minor, BWV 1004: III. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:2tb04jj52j0WDTKTw27yZR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 in D Minor, BWV 1004: IV. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:5pCZVQQcFIJF1LcIpVSy8I"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 in D Minor, BWV 1004: V. Chaconne",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:4B9TTSnGcEWYvHbpH5AhHx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: I. Preludio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:11zIzXoFRMVTI5sF3CPe6A"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: II. Loure",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:01uVQxAmkh0AAvlbGAdzEA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: III. Gavotte en Rondeau",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:5qFM1Mlna08IrUyaaG0qaN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: IV. Menuet I",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:5sUXkJpoHnGOuQWkVDaULE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: V. Menuet II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:3voptaJxqu48CMjX7jd9gu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: VI. Bourée",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:7lTaHE0BCdPfy2i4piacYk"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: VII. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "The Heifetz Collection; Volume 17; Bach: Sonatas & Partitas",
+      "trackUri": "spotify:track:0jh0Ekh9KsAcY1PGHNbmly"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 1 in G Minor, BWV 1001: I. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:51TdrWC3guiLJQJyw9QMmH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 1 in G Minor, BWV 1001: II. Fuga: Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:5HCYMC2JSQcOBgWKnhhqcc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 1 in G Minor, BWV 1001: III. Siciliana",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:01zbbXlxFBXXz1wg3Xwd6D"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 1 in G Minor, BWV 1001: IV. Presto",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:7fpRv9cvQgdQZqt6COlvlj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: I. Allemanda",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:4YcFeJHDvkqmBgyO8H7bpe"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: II. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:36Iv1yPbtDyy2Vh9dcrwJj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: III. Corrente",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:3VOGm24U9NLPevGaEyZowS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: IV. Double: Presto",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:17AQ9MTLgEwY3Vt5jtkYiD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: V. Sarabanda",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:7xAOjghd9mED68XuRmgO5a"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: VI. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:6Goy0DDbQL0D5BKwfxWOIW"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: VII. Temp di Borea",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:1hY5o3Yw8G2tsU2yIa0J6C"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 1 in B Minor, BWV 1002: VIII. Double",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:4FCmR7IgoPI83FzrDWQGyC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 2 in A Minor, BWV 1003: I. Grave",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:51Q0UFcbrLpLwYDNJRBOMp"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 2 in A Minor, BWV 1003: II. Fuga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:1RjvgcjuzEou8qGelHDVju"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 2 in A Minor, BWV 1003: III. Andante",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:3YX6dxVZW6dUJR6ZbJjFIh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 2 in A Minor, BWV 1003: IV. Allegro",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:2Y0QP3fuUzjCXdj1XWUh9Y"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 in D Minor, BWV 1004: I. Allemanda",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:6EUVTEFKtsl6pCQ9KBw5u4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 in D Minor, BWV 1004: II. Corrente",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:2nqHmOpMjpYxe1K7YlYssy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 in D Minor, BWV 1004: III. Sarabanda",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:48MGxnQDbjQFzwCSJiYvGn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 in D Minor, BWV 1004: IV. Giga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:2ahShHnnr2BTZD7ex8yIPS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 in D Minor, BWV 1004: V. Ciaccona",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:2npywX8KFYYhzX4X7yfTWE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 3 in C Major, BWV 1005: I. Adagio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:6V0x9Nc3M8gt0Sed1KyaDL"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 3 in C Major, BWV 1005: II. Fuga",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:7k1wvMa1KwpEvsZeDGW4Pm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 3 in C Major, BWV 1005: II. Largo",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:2SiY5DaoBDG6WXFn1UmnrD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata No. 3 in C Major, BWV 1005: III. Allegro assai",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:2UyIKctx65N8QMx6siIK3b"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: I. Preludio",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:7egPeuqS9VmeRt7sISZAiB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: II. Loure",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:3bZHhjaOfhR5Zm9reVBDOJ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: III. Gavotte en rond",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:2tdxT1CU6iBf3T2xfSkVKA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: IV. Menuet I",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:2O51tDO1fzdHt5oaOPwQlz"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: V. Menuet II",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:6CNAWOEAflIpMnnzpIAkiF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: VI. Bourée",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:0QWZ0ZSjYv3fOGEglDPIRj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 3 in E Major, BWV 1006: VII. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: The Six Sonatas & Partitas for Solo Violin",
+      "trackUri": "spotify:track:7zFOCssTo9jw4TgGVJXUf6"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Sonata I in G Minor, BWV 1001: II. Fuga - Allegro - Remastered",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "J.S. Bach: The Six Sonatas & Partitas for Solo Violin (Remastered)",
+      "trackUri": "spotify:track:2UWWgLP5SvL0KHuuYIFb7M"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-04-11"
+  },
+  {
+    "track": {
+      "trackName": "Erforsche mich, Gott, und erfahre mein Herz, BWV 136: VI. Chorale. Auf meinen lieben Gott",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:3DktxmUZ74UnpITCxENckn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Christ lag in Todesbanden, BWV 4: Den Tod... - 1",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:73urn0iqIHzC5YvLS8q4e7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 for Solo Violin in D Minor, BWV 1004: I. Allemande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:6t4kqUufnqr5ACAmCWyBM3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Christ lag in Todesbanden, BWV 277 - 1",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:1EFXRW6fXizKiMtwb2VYfd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 for Solo Violin in D Minor, BWV 1004: II. Corrente",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:3UymXrRcHfmImUxaQuen1T"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Christ lag in Todesbanden, BWV 4: Den Tod niemand zwingen kunnt",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:1jDdCLgw3N9SzNzv1hyGUL"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 for Solo Violin in D Minor, BWV 1004: III. Sarabande",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:6AltKWvbCplu2q22yMiwYB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Cantata, BWV 89: Wo soll ich fliehen hin",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:3aiSd0DtK2p3Z1ptFhEzKp"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 for Solo Violin in D Minor, BWV 1004: IV. Gigue",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:7qcvfpg8fo2zMrvwg2Cu7T"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Christ lag in Todesbanden, BWV 4: Den Tod... - 2",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:70VzafxFTaOiS7eJLkzrM0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 for Solo Violin in D Minor, BWV 1004: V. Chaconne",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:2jk59TNoZDMrE0sG2BnXiQ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Christ lag in Todesbanden, BWV 277 - 2",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:5xEyxBE4MsSFzv7gnyQUzx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Johannes-Passion, BWV 245, Pt. 1: No. 5, Chorale. Dein Will gescheh, Herr Gott",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:6yt1ikmpWt1J93sT6km8Ur"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Matthäus-Passion, BWV 244, Pt. 2: No. 44, Chorale. Befiel du deine Wege",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:6Vkr7xs2qo9rr2YSP22dmV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Jesu Meine Freude, BWV 358",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:2CKxuQkKpLsw24a65GkBGT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Cantata, BWV 188: Auf meinen lieben Gott",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:3Xa1dRIcfHGfeC19rBSZdu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Johannes-Passion, BWV 245, Pt. 1: No. 2, Chorus: Jesu, deine Passion",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:01F1I6reN1EWnLH6EDJ0ke"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Johannes-Passion, BWV 245, Pt. 2: No. 26, Chorale. In meines Herzens Grunde",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:0bC2v6jqndkMtWAY53q3Am"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Nun lob, mein Seel, den Herren, BWV 389",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:61Uprz6YKlGGEmnzn6O0yV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Christ lag in Todesbanden, BWV 4: Den Tod... - 3",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:6WB4LXkGUe7CWDLOBQXbkZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 for Solo Violin in D Minor, BWV 1004: V. Chaconne",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:5vu7VDOVmKjtcYaGjBre4Z"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  },
+  {
+    "track": {
+      "trackName": "Christ lag in Todesbanden, BWV 4: Den Tod... - 4",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:3j0RsVlK6UaQo84DzvE20K"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-04-17"
+  }
+]

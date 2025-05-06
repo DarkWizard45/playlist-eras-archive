@@ -1,0 +1,38 @@
+[
+  {
+    "track": {
+      "trackName": "Don't Stop Believin'",
+      "artistName": "Journey",
+      "albumName": "The Essential Journey",
+      "trackUri": "spotify:track:77NNZQSqzLNqh2A9JhLRkg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-07-22"
+  },
+  {
+    "track": {
+      "trackName": "California Girls",
+      "artistName": "The Beach Boys",
+      "albumName": "50 Big Ones: Greatest Hits",
+      "trackUri": "spotify:track:0mwr3py9MZIOdvOrI31h6r"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-07-22"
+  },
+  {
+    "track": {
+      "trackName": "Dance to the Music",
+      "artistName": "Sly & The Family Stone",
+      "albumName": "Greatest Hits",
+      "trackUri": "spotify:track:6q701mead1QEHZdRiTsGCe"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-07-22"
+  }
+]

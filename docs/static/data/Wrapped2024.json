@@ -1,0 +1,135 @@
+{
+  "topArtists": {
+    "numUniqueArtists": 2616,
+    "topArtists": [
+      {
+        "artistUri": "spotify:artist:6XYvaoDGE0VmRt83Jss9Sn"
+      },
+      {
+        "artistUri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
+        "artistUri": "spotify:artist:2mVVjNmdjXZZDvhgQWiakk"
+      },
+      {
+        "artistUri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+      },
+      {
+        "artistUri": "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+      }
+    ],
+    "topArtistMilliseconds": 81164928,
+    "topArtistFanPercentage": 0.014193036
+  },
+  "topPodcasts": {
+    "topPodcastsUri": [
+      "spotify:show:4rOoJ6Egrf8K2IrywzwOMk"
+    ],
+    "topPodcastMilliseconds": 37762607,
+    "topPodcastPercentage": 0.0,
+    "totalPodcastMilliseconds": 64413245
+  },
+  "topTracks": {
+    "topTracks": [
+      "spotify:track:6QybVJMtaDCJjl2vPR2DcA",
+      "spotify:track:53QRPT9Z42ALxGL1YGT9x1",
+      "spotify:track:4tKGFmENO69tZR9ahgZu48",
+      "spotify:track:2HYUmAM8MQqtVv1pjf7jPn",
+      "spotify:track:1Xgg0bhjK57PJ6WLYOi3oY"
+    ],
+    "topTrackPlayCount": 46,
+    "topTrackFirstPlayedDate": "2024-02-22",
+    "distinctTracksPlayed": 4924
+  },
+  "yearlyMetrics": {
+    "totalMsListened": 2321875255,
+    "mostListenedDay": "2024-10-11",
+    "mostListenedDayMinutes": 1123.065,
+    "percentGreaterThanWorldwideUsers": 92.677185
+  },
+  "musicEvolution": {
+    "eras": [
+      {
+        "key": "0",
+        "peakMonth": 2,
+        "color": "red-green",
+        "genre": "rap",
+        "mood": "boujee",
+        "descriptor": "football",
+        "pivotalArtists": [
+          "spotify:artist:46SHBwWsqBkxI7EeeBEQG7",
+          "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x",
+          "spotify:artist:699OTQXzgjhIYAHMy9RyPD"
+        ],
+        "tracks": [
+          {
+            "trackName": "Lemme See",
+            "trackUri": "spotify:track:53QRPT9Z42ALxGL1YGT9x1"
+          },
+          {
+            "trackName": "Location",
+            "trackUri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf"
+          },
+          {
+            "trackName": "Donald Trump",
+            "trackUri": "spotify:track:6Aa7aDayiQHnUw1dUvdneZ"
+          }
+        ]
+      },
+      {
+        "key": "1",
+        "peakMonth": 4,
+        "color": "red",
+        "genre": "classical",
+        "mood": "romanticism",
+        "descriptor": "concert band",
+        "pivotalArtists": [
+          "spotify:artist:2wOqMjp9TyABvtHdOSOTUS",
+          "spotify:artist:2ANtgfhQkKpsW6EYSDqldz",
+          "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+        ],
+        "tracks": [
+          {
+            "trackName": "Capriccio espagnol, Op. 34: III. Alborada. Vivo e strepitoso",
+            "trackUri": "spotify:track:3UKaGr1Vif116pAYRWXMCD"
+          },
+          {
+            "trackName": "Leonore Overture No. 3, Op. 72a",
+            "trackUri": "spotify:track:0ql0lueYQEAXxqqWhYzofm"
+          },
+          {
+            "trackName": "Symphony No. 3 in D Minor, Erste Abteilung: I. Kräftig. Entschieden",
+            "trackUri": "spotify:track:5CZVhuJJKFlmM9PjrAmLS9"
+          }
+        ]
+      },
+      {
+        "key": "2",
+        "peakMonth": 10,
+        "color": "green-blue",
+        "genre": "neo-psychedelic",
+        "mood": "smooth",
+        "descriptor": "microtonal",
+        "pivotalArtists": [
+          "spotify:artist:6XYvaoDGE0VmRt83Jss9Sn",
+          "spotify:artist:2mVVjNmdjXZZDvhgQWiakk",
+          "spotify:artist:0hrb5WRiNlj8vh3WnCgXFq"
+        ],
+        "tracks": [
+          {
+            "trackName": "Willoughby's Beach",
+            "trackUri": "spotify:track:5fi6l2fwbUTSEmOiWEmBpp"
+          },
+          {
+            "trackName": "Mariella",
+            "trackUri": "spotify:track:3dvXRk7TZ929m21p49RR5P"
+          },
+          {
+            "trackName": "Alabaster",
+            "trackUri": "spotify:track:4CQwIJsYFk80DBWlwsDJGo"
+          }
+        ]
+      }
+    ]
+  }
+}

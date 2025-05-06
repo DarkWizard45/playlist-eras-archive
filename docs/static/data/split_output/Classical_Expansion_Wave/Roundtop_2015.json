@@ -1,0 +1,470 @@
+[
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in D Minor, Op. 47: I. Moderato",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony Nos. 5 & 9",
+      "trackUri": "spotify:track:1J3tBkRds4SCn6KGOhd1uP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in D Minor, Op. 47: II. Allegretto",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony Nos. 5 & 9",
+      "trackUri": "spotify:track:3fQOUiVP8L4OWhRm0mgSBa"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in D Minor, Op. 47: III. Largo",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony Nos. 5 & 9",
+      "trackUri": "spotify:track:3xMrmUAxxvQCPG8AW8lJ7s"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in D Minor, Op. 47: IV. Allegro non troppo",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony Nos. 5 & 9",
+      "trackUri": "spotify:track:4oczALo7rfDPhbIk1MK560"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Concerto in F Major for Piano and Orchestra: I. Allegro",
+      "artistName": "George Gershwin",
+      "albumName": "Gerswin - Rhapsody in Blue and Beyond",
+      "trackUri": "spotify:track:5lLh4zA9ya4GeW0mlUGmPE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Concerto in F Major for Piano and Orchestra: II. Adagio",
+      "artistName": "George Gershwin",
+      "albumName": "Gerswin - Rhapsody in Blue and Beyond",
+      "trackUri": "spotify:track:3gscaaY3377fjSEnUvFm8H"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Concerto in F Major for Piano and Orchestra: III. Allegro agitato",
+      "artistName": "George Gershwin",
+      "albumName": "Gerswin - Rhapsody in Blue and Beyond",
+      "trackUri": "spotify:track:1Q6C9jJznyZb4yRPATIyfj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Serenade: I. Phaedrus - Pausanias: Lento - Allegro",
+      "artistName": "Leonard Bernstein",
+      "albumName": "Bernstein: Serenade / Facsimile / Divertimento",
+      "trackUri": "spotify:track:5tBayyKSrojHyYMLC5STV9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Serenade: II. Aristophanes: Allegretto",
+      "artistName": "Leonard Bernstein",
+      "albumName": "Bernstein: Serenade / Facsimile / Divertimento",
+      "trackUri": "spotify:track:1wQErDbHA7p6iqYBaS65Vi"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Serenade: III. Erixymachos: Presto",
+      "artistName": "Leonard Bernstein",
+      "albumName": "Bernstein: Serenade / Facsimile / Divertimento",
+      "trackUri": "spotify:track:3ctIAR4bMAQp0fDKw7r3EL"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Serenade: IV. Agathon: Adagio",
+      "artistName": "Leonard Bernstein",
+      "albumName": "Bernstein: Serenade / Facsimile / Divertimento",
+      "trackUri": "spotify:track:0u0ooUJ9oLLbOUvVpq3WXZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Serenade: V. Socrates - Alcibiades: Molto tenuto - Allegro molto vivace",
+      "artistName": "Leonard Bernstein",
+      "albumName": "Bernstein: Serenade / Facsimile / Divertimento",
+      "trackUri": "spotify:track:6oK95Nvmy3GQJD90jcZ5Bn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in E Minor, Op. 64, TH 29: I. Andante - Allegro con anima",
+      "artistName": "Pyotr Ilyich Tchaikovsky",
+      "albumName": "Tchaikovsky: Symphony No. 5 in E Minor, Op. 64 & Serenade for Strings in C Major, Op. 48",
+      "trackUri": "spotify:track:0RhdjhqEJ9enG3wBAsAjHd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in E Minor, Op. 64, TH 29: II. Andante cantabile con alcuna licenza - Moderato con anima",
+      "artistName": "Pyotr Ilyich Tchaikovsky",
+      "albumName": "Tchaikovsky: Symphony No. 5 in E Minor, Op. 64 & Serenade for Strings in C Major, Op. 48",
+      "trackUri": "spotify:track:4tIDMam2tfYY18V1cIFlKE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in E Minor, Op. 64, TH 29: III. Valse. Allegro moderato",
+      "artistName": "Pyotr Ilyich Tchaikovsky",
+      "albumName": "Tchaikovsky: Symphony No. 5 in E Minor, Op. 64 & Serenade for Strings in C Major, Op. 48",
+      "trackUri": "spotify:track:3sLQ8T0tjonIw6e6PupWwg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in E Minor, Op. 64, TH 29: IV. Finale. Andante maestoso - Allegro vivace",
+      "artistName": "Pyotr Ilyich Tchaikovsky",
+      "albumName": "Tchaikovsky: Symphony No. 5 in E Minor, Op. 64 & Serenade for Strings in C Major, Op. 48",
+      "trackUri": "spotify:track:6lXhtMfAMLG5rPU4GoByXW"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-05-22"
+  },
+  {
+    "track": {
+      "trackName": "Symphonie fantastique, Op. 14: I. Rêveries - Passions",
+      "artistName": "Hector Berlioz",
+      "albumName": "Berlioz: Symphonie Fantastique, Waverley",
+      "trackUri": "spotify:track:6aHQ72ZVokIVJkLRM2oZNa"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-15"
+  },
+  {
+    "track": {
+      "trackName": "Symphonie fantastique, Op. 14: II. Un bal",
+      "artistName": "Hector Berlioz",
+      "albumName": "Berlioz: Symphonie Fantastique, Waverley",
+      "trackUri": "spotify:track:629l29MlEhBb3fMC9cJdKT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-15"
+  },
+  {
+    "track": {
+      "trackName": "Symphonie fantastique, Op. 14: III. Scène aux champs",
+      "artistName": "Hector Berlioz",
+      "albumName": "Berlioz: Symphonie Fantastique, Waverley",
+      "trackUri": "spotify:track:7v5Xe2dAPiziqt1eiW4oHv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-15"
+  },
+  {
+    "track": {
+      "trackName": "Symphonie fantastique, Op. 14: IV. Marche au supplice",
+      "artistName": "Hector Berlioz",
+      "albumName": "Berlioz: Symphonie Fantastique, Waverley",
+      "trackUri": "spotify:track:769ckxwO7BLiiYcb4xaCwL"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-15"
+  },
+  {
+    "track": {
+      "trackName": "Symphonie fantastique, Op. 14: V. Songe d'une nuit de sabbat",
+      "artistName": "Hector Berlioz",
+      "albumName": "Berlioz: Symphonie Fantastique, Waverley",
+      "trackUri": "spotify:track:50Jb07q4e7BAdotfh1AeMy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-15"
+  },
+  {
+    "track": {
+      "trackName": "The Sorcerer's Apprentice",
+      "artistName": "Leopold Stokowski",
+      "albumName": "Fantasia",
+      "trackUri": "spotify:track:0mTwh4PUZ5j9URVCX8WXSA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-15"
+  },
+  {
+    "track": {
+      "trackName": "Poème for Violin and Orchestra, Op. 25: I. Lento e misterioso – II. Poco lento",
+      "artistName": "Ernest Chausson",
+      "albumName": "Saint-Saëns: Introduction & Rondo Capriccioso; Havanaise / Sarasate: Carmen Fantasy / Chausson: Poème / Ravel: Tzigane",
+      "trackUri": "spotify:track:3fcmNlkmmVoipXuhrKrRnU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-15"
+  },
+  {
+    "track": {
+      "trackName": "Tzigane, M. 76 (Version for Violin & Orchestra)",
+      "artistName": "Maurice Ravel",
+      "albumName": "The Essential Itzhak Perlman",
+      "trackUri": "spotify:track:1OacCHsUQIAuUtlqv4I0c2"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-15"
+  },
+  {
+    "track": {
+      "trackName": "Peter and the Wolf, Op. 67",
+      "artistName": "Sergei Prokofiev",
+      "albumName": "Prokofiev: Peter and the Wolf - Saint-Saëns: Carnival of the Animals",
+      "trackUri": "spotify:track:6A3ANBC9KXmCAvyopf8egu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-15"
+  },
+  {
+    "track": {
+      "trackName": "Wagner: Tannhäuser: Overtüre",
+      "artistName": "Richard Wagner",
+      "albumName": "Wagner: Tannhäuser",
+      "trackUri": "spotify:track:12HLR2gsbbgoMizjP7Ex85"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-21"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in C-Sharp Minor: I. Trauermarsch: In gemessenem Schritt. Streng. Wie ein Kondukt",
+      "artistName": "Gustav Mahler",
+      "albumName": "Mahler, G.: Symphony No. 5",
+      "trackUri": "spotify:track:0uTTsDcgA69Gvb65qfl4ez"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-21"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in C-Sharp Minor: II. Sturmisch bewegt, mit grosster Vehemenz",
+      "artistName": "Gustav Mahler",
+      "albumName": "Mahler, G.: Symphony No. 5",
+      "trackUri": "spotify:track:6RX8fe26U8aVHvq552RXNV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-21"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in C-Sharp Minor: III. Scherzo: Kraftig, nicht zu schnell",
+      "artistName": "Gustav Mahler",
+      "albumName": "Mahler, G.: Symphony No. 5",
+      "trackUri": "spotify:track:24MALxTrXQ8GVZKwXRfIhk"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-21"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in C-Sharp Minor: IV. Adagietto: Sehr langsam",
+      "artistName": "Gustav Mahler",
+      "albumName": "Mahler, G.: Symphony No. 5",
+      "trackUri": "spotify:track:3uNh1Oi6y56ymIGQqvokLK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-21"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in C-Sharp Minor: V. Rondo-Finale: Allegro - Allegro giocoso. Frisch",
+      "artistName": "Gustav Mahler",
+      "albumName": "Mahler, G.: Symphony No. 5",
+      "trackUri": "spotify:track:1bjeMLCwXoYlmtGkO9lh1d"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-21"
+  },
+  {
+    "track": {
+      "trackName": "Symphonie No. 6 \"Fantaisies Symphoniques\": I. Lento - Andante Moderato - Allegro - Lento",
+      "artistName": "Bohuslav Martinů",
+      "albumName": "Martinů: The 6 Symphonies",
+      "trackUri": "spotify:track:2I246asAfdcjZhk8sm4Owv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-29"
+  },
+  {
+    "track": {
+      "trackName": "Symphonie No. 6 \"Fantaisies Symphoniques\": II. Poco Allegro",
+      "artistName": "Bohuslav Martinů",
+      "albumName": "Martinů: The 6 Symphonies",
+      "trackUri": "spotify:track:0YQYrcOD1HZlDZsuitTkdu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-28"
+  },
+  {
+    "track": {
+      "trackName": "Symphonie No. 6 \"Fantaisies Symphoniques\": III. Lento - Poco Vivo: Adagio - Allegro - Allegro Vivace - Lento",
+      "artistName": "Bohuslav Martinů",
+      "albumName": "Martinů: The 6 Symphonies",
+      "trackUri": "spotify:track:2T3IGTvIbdC2Lnv7cVd8v2"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-06-28"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in C minor, Op. 67: I. Allegro con brio",
+      "artistName": "Ludwig van Beethoven",
+      "albumName": "Beethoven: Symphony No. 5 and Piano Concerto No. 4",
+      "trackUri": "spotify:track:1UcsVXabDRUNnSUl65zdBT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-07-11"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in C minor, Op. 67: II. Andante con moto",
+      "artistName": "Ludwig van Beethoven",
+      "albumName": "Beethoven: Symphony No. 5 and Piano Concerto No. 4",
+      "trackUri": "spotify:track:3ZiUeMJ7Bjt6r0H7iAfh0V"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-07-11"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in C minor, Op. 67: III. Allegro",
+      "artistName": "Ludwig van Beethoven",
+      "albumName": "Beethoven: Symphony No. 5 and Piano Concerto No. 4",
+      "trackUri": "spotify:track:6TN2GpANsXgDrUPRcuzs1U"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-07-11"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in C minor, Op. 67: IV. Allegro",
+      "artistName": "Ludwig van Beethoven",
+      "albumName": "Beethoven: Symphony No. 5 and Piano Concerto No. 4",
+      "trackUri": "spotify:track:7xZ2cELWZ4o526QDrePkxi"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-07-11"
+  },
+  {
+    "track": {
+      "trackName": "You Never Give Me Your Money - Remastered 2009",
+      "artistName": "The Beatles",
+      "albumName": "Abbey Road",
+      "trackUri": "spotify:track:1jOLTO379yIu9aMnCkpMQl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-12-27"
+  }
+]

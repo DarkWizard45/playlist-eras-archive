@@ -1,0 +1,38 @@
+[
+  {
+    "track": {
+      "trackName": "Can't Be Friends",
+      "artistName": "Trey Songz",
+      "albumName": "Passion, Pain & Pleasure",
+      "trackUri": "spotify:track:0H6fDB7YaMZe1rXCmATx9l"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-08-08"
+  },
+  {
+    "track": {
+      "trackName": "Carless Whisper",
+      "artistName": "The Musicmakers",
+      "albumName": "Baladas de Oro",
+      "trackUri": "spotify:track:7JppuklyTgpZzYlOEmOBZE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-08-08"
+  },
+  {
+    "track": {
+      "trackName": "Huzzah",
+      "artistName": "Mr. Muthafuckin' eXquire",
+      "albumName": "Huzzah",
+      "trackUri": "spotify:track:3s8l3slpbvKgCh0uAlfB3y"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-08-08"
+  }
+]

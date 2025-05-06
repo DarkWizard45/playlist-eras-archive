@@ -1,0 +1,938 @@
+[
+  {
+    "track": {
+      "trackName": "Facades",
+      "artistName": "Philip Glass",
+      "albumName": "The Essential Philip Glass - Deluxe Edition",
+      "trackUri": "spotify:track:7l8R1sVoAm5Qde0lpT11wn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Past Life Melodies",
+      "artistName": "The Concordia Choir",
+      "albumName": "My Soul's Delight",
+      "trackUri": "spotify:track:0jM6Zl0kkembncgth5dYdp"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Bloom",
+      "artistName": "Radiohead",
+      "albumName": "The King Of Limbs",
+      "trackUri": "spotify:track:6LGIbzkYlHJIs4A8xuT54l"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "One Of These Days - 2011 Remastered Version",
+      "artistName": "Pink Floyd",
+      "albumName": "Meddle",
+      "trackUri": "spotify:track:7t6iW9FZVJH7wSH8HKYcC2"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Welcome To The Machine - 2011 Remastered Version",
+      "artistName": "Pink Floyd",
+      "albumName": "Wish You Were Here [2011 - Remaster]",
+      "trackUri": "spotify:track:107Jwc012wRPAvjI7WKCPI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Römische Brunnen: I. La fontana di Valle all'alba",
+      "artistName": "Ottorino Respighi",
+      "albumName": "Respighi, O.: Fountains of Rome / Pines of Rome / Roman Festivals",
+      "trackUri": "spotify:track:2Dbx5NYBHuu8sa8oLW9Q0w"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Symphonic Dances, Op. 45: II. Andante con moto (Tempo di valse)",
+      "artistName": "Sergei Rachmaninoff",
+      "albumName": "Stravinsky: Petrushka (1947 Version) - Rachmaninov: Symphonic Dances [Live]",
+      "trackUri": "spotify:track:37NHYTwcPevGlncH1XxWQu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Prokofiev: Cinderella, Op. 87, Act 1: No. 1, Introduction",
+      "artistName": "Sergei Prokofiev",
+      "albumName": "Prokofiev: Cinderella, Op. 87 - Glazunov: Suite from Raymonda, Op. 57a",
+      "trackUri": "spotify:track:3pXu8EoomioTWnkUpNChxc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Prokofiev: Cinderella, Op. 87, Act 1: No. 2, Pas de châle",
+      "artistName": "Sergei Prokofiev",
+      "albumName": "Prokofiev: Cinderella, Op. 87 - Glazunov: Suite from Raymonda, Op. 57a",
+      "trackUri": "spotify:track:3WLNPVTbodi5pP1RM3hqqg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Prokofiev: Cinderella, Op. 87, Act 1: No. 18, Clock Scene",
+      "artistName": "Sergei Prokofiev",
+      "albumName": "Prokofiev: Cinderella, Op. 87 - Glazunov: Suite from Raymonda, Op. 57a",
+      "trackUri": "spotify:track:778xSz6svkeE2wBpbjVgR1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Prokofiev: Cinderella, Op. 87, Act 2: No. 29, Cinderella's Arrival at the Ball",
+      "artistName": "Sergei Prokofiev",
+      "albumName": "Prokofiev: Cinderella, Op. 87 - Glazunov: Suite from Raymonda, Op. 57a",
+      "trackUri": "spotify:track:4b3lXbT8L9gKrdVRuTXUqS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Prokofiev: Cinderella, Op. 87, Act 2: No. 36, Duet of the Prince and Cinderella",
+      "artistName": "Sergei Prokofiev",
+      "albumName": "Prokofiev: Cinderella, Op. 87 - Glazunov: Suite from Raymonda, Op. 57a",
+      "trackUri": "spotify:track:5GxSNuPnUx6QecHb47rCax"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Prokofiev: Cinderella, Op. 87, Act 2: No. 38, Midnight",
+      "artistName": "Sergei Prokofiev",
+      "albumName": "Prokofiev: Cinderella, Op. 87 - Glazunov: Suite from Raymonda, Op. 57a",
+      "trackUri": "spotify:track:6hCuMvriMk84EPlfdSc0UR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Build A Pyre (Begin Again)",
+      "artistName": "Son Lux",
+      "albumName": "Alternate Worlds",
+      "trackUri": "spotify:track:0FUvGA1eZgwBzt0hVhOWUD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Convergence",
+      "artistName": "Jonny Greenwood",
+      "albumName": "Bodysong Original Soundtrack",
+      "trackUri": "spotify:track:2WWq6hvZHy8sKDq5g4cwO4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Pursuant to the Vibe",
+      "artistName": "Mice Parade",
+      "albumName": "Mokoondi",
+      "trackUri": "spotify:track:2VaF0eObfHjcY9zFFSCpAJ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 14, Op. 135: I. De Profundis, Adagio: 1. Prelude: Presentation of Main Theme",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony No.14",
+      "trackUri": "spotify:track:3s2N9iPaq5BebslPA89AMI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "String Quartet No. 8 in C Minor, Op. 110: IV. Largo",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: String Quartets Nos. 7, 8, 10 & Two Pieces for String Octet, Op. 11",
+      "trackUri": "spotify:track:6KkowxI22hl5LMhNHFzHbj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 10 in E Minor, Op. 93: III. Allegretto",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony No. 10",
+      "trackUri": "spotify:track:7bxKiis3Nz4bi0SOtFKQpV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 14, Op. 135: X. The Poet's Death, Largo: 1. Reappearance of First Theme of First Movt...",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony No.14",
+      "trackUri": "spotify:track:57cGaYwwJihPHrsJhsILlS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "String Quartet No. 7 in F-Sharp Minor, Op. 108: II. Lento",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: String Quartets Nos. 7, 8, 10 & Two Pieces for String Octet, Op. 11",
+      "trackUri": "spotify:track:5NQxT9Z7gMgD634YTUIIl1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "String Quartet No. 7 in F-Sharp Minor, Op. 108: IV. Allegretto",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: String Quartets Nos. 7, 8, 10 & Two Pieces for String Octet, Op. 11",
+      "trackUri": "spotify:track:1QcDx1aJSJJnXuFEexugfZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Pyramid Song",
+      "artistName": "Radiohead",
+      "albumName": "Amnesiac",
+      "trackUri": "spotify:track:3A9vIxzGBjEfqmDK7H9exS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Piano Trio No. 2 in E Minor, Op. 67: I. Andante - Moderato",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Piano Trio No. 2 in E Minor, Op. 67 & Cello Sonata in D Minor, Op. 40",
+      "trackUri": "spotify:track:4mDEdBHRw1xgFl7yv9kGOI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Burn the Witch",
+      "artistName": "Radiohead",
+      "albumName": "A Moon Shaped Pool",
+      "trackUri": "spotify:track:3pcCifdPTc2BbqmWpEhtUd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Give Up The Ghost (Thriller Houseghost Remix)",
+      "artistName": "Radiohead",
+      "albumName": "TKOL RMX 1234567",
+      "trackUri": "spotify:track:1gaAIZ4vGQ6QvDUgN2Xyus"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Bloom (Mark Pritchard Rmx)",
+      "artistName": "Radiohead",
+      "albumName": "TKOL RMX 1234567",
+      "trackUri": "spotify:track:2H7Y8wYixrSlKJoaZ1N2yl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Backdrifts",
+      "artistName": "Radiohead",
+      "albumName": "Hail to the Thief",
+      "trackUri": "spotify:track:0BI0130CmnZRKy1AJRoeK0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "String Quartet No. 11 in F minor, Op. 122: VII. Finale: Moderato",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Complete String Quartets",
+      "trackUri": "spotify:track:2cY9Wlnv8GO6u9D9NYyRtU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Morning Mr Magpie (Pearson Sound Scavenger RMX)",
+      "artistName": "Radiohead",
+      "albumName": "TKOL RMX 1234567",
+      "trackUri": "spotify:track:7KKglMFf5KV0PIDSAOqfnH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 2 in B Minor: Moderato",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:4ATmvcqZThXp1BRSgsA5WY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "We Suck Young Blood",
+      "artistName": "Radiohead",
+      "albumName": "Hail to the Thief",
+      "trackUri": "spotify:track:7cL2IiUjxbPUc4IQUmHvX1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "St. Luke Passion: Part II: Stabat Mater (Sequence)",
+      "artistName": "Krzysztof Penderecki",
+      "albumName": "Penderecki, K.: St. Luke Passion",
+      "trackUri": "spotify:track:3grTbNFwqOjwRo6oyNg2zY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Penderecki: Polymorphia",
+      "artistName": "Krzysztof Penderecki",
+      "albumName": "Penderecki & Greenwood: Threnody for the Victims of Hiroshima / Popcorn Superhet Receiver / Polymorphia / 48 Responses to Polymorphia",
+      "trackUri": "spotify:track:3T2w6OuypL2ou0We4jpyXt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Canticum Canticorum Salomonis (1970) - 1994 Remastered Version",
+      "artistName": "Krzysztof Penderecki",
+      "albumName": "Penderecki: Threnody to the Victims of Hiroshima, Canticum canticorum Salomonis, De natura sonoris Nos. 1 & 2",
+      "trackUri": "spotify:track:6Wb0gob6Nok1BI3Ec91jA8"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "The Dream of Jacob - 1994 Remastered Version",
+      "artistName": "Krzysztof Penderecki",
+      "albumName": "Penderecki: Threnody to the Victims of Hiroshima, Canticum canticorum Salomonis, De natura sonoris Nos. 1 & 2",
+      "trackUri": "spotify:track:2DyiDydMbuTEs2Z0wi7CSc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Atmospheres",
+      "artistName": "György Ligeti",
+      "albumName": "Ligeti: Violin Concerto, Lontano, Atmosphères & San Francisco Polyphony",
+      "trackUri": "spotify:track:7ei2fFrvTeea3ebvHpAZEf"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "The Fall Of The House Of Usher: Arrival - 1987 Remix",
+      "artistName": "The Alan Parsons Project",
+      "albumName": "Tales Of Mystery And Imagination",
+      "trackUri": "spotify:track:1aQDxlfhi3G0nMzFZgFoHc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "The Fall Of The House Of Usher: Intermezzo - 1987 Remix",
+      "artistName": "The Alan Parsons Project",
+      "albumName": "Tales Of Mystery And Imagination",
+      "trackUri": "spotify:track:1hTFPEfOlwff7uvj2yb6sD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "The Fall Of The House Of Usher: Pavane - 1987 Remix",
+      "artistName": "The Alan Parsons Project",
+      "albumName": "Tales Of Mystery And Imagination",
+      "trackUri": "spotify:track:7ILIPnsDos9HzLwgskM5gU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "CNN Predicts a Monster Storm",
+      "artistName": "Kronos Quartet",
+      "albumName": "Landfall",
+      "trackUri": "spotify:track:3umY6UFSZ1xIdivIuKDxgD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Barstow: Eight Hitchhikers' Inscriptions from a Highway Railing at Barstow, California",
+      "artistName": "Kronos Quartet",
+      "albumName": "Howl, U.S.A.",
+      "trackUri": "spotify:track:6Q0c7FZWYkKqJ3Kx3T73BG"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Cold War Suite from How It Happens (The Voice of I.F. Stone), Lawless Things",
+      "artistName": "Kronos Quartet",
+      "albumName": "Howl, U.S.A.",
+      "trackUri": "spotify:track:17YEX5pxqPy3vgvU0wIb3r"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Cold War Suite from How It Happens (The Voice of I.F. Stone), Perfect Weapon",
+      "artistName": "Kronos Quartet",
+      "albumName": "Howl, U.S.A.",
+      "trackUri": "spotify:track:6XLMjj09n6DmGXoCkFI2Mb"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Panic",
+      "artistName": "Forest Swords",
+      "albumName": "Compassion",
+      "trackUri": "spotify:track:1kETMAlYAqu5nNr1c8ld4n"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Providence",
+      "artistName": "Godspeed You! Black Emperor",
+      "albumName": "F♯ A♯ ∞",
+      "trackUri": "spotify:track:35MghvJDcBxKqb1VHL6ePy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "O Virtus Sapiente",
+      "artistName": "Hildegard von Bingen",
+      "albumName": "Early Music",
+      "trackUri": "spotify:track:6S2hqgDhJ0jAJcCfWNo2Hm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Psalom",
+      "artistName": "Arvo Pärt",
+      "albumName": "Early Music",
+      "trackUri": "spotify:track:5jp4Vw9WmztK4mutZu60X5"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Two Studies on Ancient Greek Scales: 1) Olympos' Pentatonic 2) Archytas' Enharmonic",
+      "artistName": "Harry Partch",
+      "albumName": "Early Music",
+      "trackUri": "spotify:track:7mnl3DqzeAjfoPQ0dgnBko"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Brudmarsch Fra Oesta",
+      "artistName": "Traditional",
+      "albumName": "Early Music",
+      "trackUri": "spotify:track:4o1QLVAMI8L91J5yD91HN9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Viderunt Omnes",
+      "artistName": "Pérotin",
+      "albumName": "Early Music",
+      "trackUri": "spotify:track:2G9m9ujYU9fX2aMr3g7ZsO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Uleg-Khem",
+      "artistName": "Traditional",
+      "albumName": "Early Music",
+      "trackUri": "spotify:track:2p3IwgijAUreUxMagQRAA1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Collected Songs Where Every Verse is Filled with Grief",
+      "artistName": "Alfred Schnittke",
+      "albumName": "Early Music",
+      "trackUri": "spotify:track:2oOKn2t0J92JPWjEy1MOXK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Bells",
+      "artistName": "Kronos Quartet",
+      "albumName": "Early Music",
+      "trackUri": "spotify:track:4XnzHCzMXL2dN3brhXNTVI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "They Are There! Fighting for the People's New Free World",
+      "artistName": "Kronos Quartet",
+      "albumName": "Black Angels",
+      "trackUri": "spotify:track:6jNGpJ7gAjIfN5PM8iTp9r"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Doom. A Sigh",
+      "artistName": "Kronos Quartet",
+      "albumName": "Black Angels",
+      "trackUri": "spotify:track:1hCNaY6jPujUZjS13qK6bP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Black Angels: II. Absence",
+      "artistName": "Kronos Quartet",
+      "albumName": "Black Angels",
+      "trackUri": "spotify:track:1HD0JfmZ0DzLLLogLFqJas"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Black Angels: III. Return",
+      "artistName": "Kronos Quartet",
+      "albumName": "Black Angels",
+      "trackUri": "spotify:track:4vEAb8bUzXQweIQyFnRKwd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Makrokosmos I: I. Primeval Sounds (Genesis I) - Cancer",
+      "artistName": "George Crumb",
+      "albumName": "Musical Zodiac: Makrokosmos I & II",
+      "trackUri": "spotify:track:6B6RlnC5hkS2WyUjoF1CAm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Psalms of Repentance for Mixed Choir: Psalm 9",
+      "artistName": "Alfred Schnittke",
+      "albumName": "Schnittke: Psalms of Repentance",
+      "trackUri": "spotify:track:6Tr7fGeq37mMykg3REwtJC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Shostakovich: Symphony No. 4 in C Minor, Op. 43: II. Moderato con moto",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony No. 4, Op. 43",
+      "trackUri": "spotify:track:1aA4JaPg7LS5VIYkKPCtGX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "O.N.E.",
+      "artistName": "King Gizzard & The Lizard Wizard",
+      "albumName": "L.W.",
+      "trackUri": "spotify:track:5Tr57zEsUBRckxVrwgsoQU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Supercollider",
+      "artistName": "Radiohead",
+      "albumName": "Supercollider / The Butcher",
+      "trackUri": "spotify:track:2fON3O4nCFXPu9l5YB7UqK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Piano Quintet: In Tempo di Valse",
+      "artistName": "Alfred Schnittke",
+      "albumName": "Shostakovich / Schnittke: Piano Quintets",
+      "trackUri": "spotify:track:7Em6H6R6T3KzmsdXceF8rr"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 15 in A Major, Op. 141: I. Allegretto",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony No. 15 & Piano Sonata No. 2",
+      "trackUri": "spotify:track:01NorvI0yfXoGL7kKOYL2r"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Sonata for Violin and Piano: Interlude",
+      "artistName": "Karel Husa",
+      "albumName": "Karel Husa",
+      "trackUri": "spotify:track:3cJw2O1DlpaNbPIpEmqfCd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Flying Microtonal Banana",
+      "artistName": "King Gizzard & The Lizard Wizard",
+      "albumName": "Flying Microtonal Banana",
+      "trackUri": "spotify:track:1c2ToOnJ05xO02P0iReM6o"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "A New World",
+      "artistName": "King Gizzard & The Lizard Wizard",
+      "albumName": "Murder of the Universe",
+      "trackUri": "spotify:track:5RjA2PDLhygSEAQ0YXKhxE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Altered Beast II",
+      "artistName": "King Gizzard & The Lizard Wizard",
+      "albumName": "Murder of the Universe",
+      "trackUri": "spotify:track:7JaPaEAL7th9C5mWe6d1WY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Alter Me II",
+      "artistName": "King Gizzard & The Lizard Wizard",
+      "albumName": "Murder of the Universe",
+      "trackUri": "spotify:track:6Q3Ul4JtiGBuhZLapHdOdm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Alter Me III",
+      "artistName": "King Gizzard & The Lizard Wizard",
+      "albumName": "Murder of the Universe",
+      "trackUri": "spotify:track:3l9LeooxlZwDisVGeEJ9HU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Some Context",
+      "artistName": "King Gizzard & The Lizard Wizard",
+      "albumName": "Murder of the Universe",
+      "trackUri": "spotify:track:6WdxrB3aF5tiGn2vf6Dpbu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "The Reticent Raconteur",
+      "artistName": "King Gizzard & The Lizard Wizard",
+      "albumName": "Murder of the Universe",
+      "trackUri": "spotify:track:5VihZu4dLpEHV005NzuQih"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "The Acrid Corpse",
+      "artistName": "King Gizzard & The Lizard Wizard",
+      "albumName": "Murder of the Universe",
+      "trackUri": "spotify:track:7F2PyUY4zpC4VvaM1TaiP7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Welcome to an Altered Future",
+      "artistName": "King Gizzard & The Lizard Wizard",
+      "albumName": "Murder of the Universe",
+      "trackUri": "spotify:track:5V2tisrnJqNQ19kfYlWhgF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Han-Tyumi, The Confused Cyborg",
+      "artistName": "King Gizzard & The Lizard Wizard",
+      "albumName": "Murder of the Universe",
+      "trackUri": "spotify:track:0ygAoz3haF1jLcHHB7NWf4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "Dissolution",
+      "artistName": "Colourform",
+      "albumName": "Visions Of Surya",
+      "trackUri": "spotify:track:03fNqV7eiI6UOijkoSweQj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-03-20"
+  },
+  {
+    "track": {
+      "trackName": "A Dream Within A Dream - Original 1976 Version",
+      "artistName": "The Alan Parsons Project",
+      "albumName": "Tales Of Mystery And Imagination",
+      "trackUri": "spotify:track:3WRJ36yKsVXMlBIVctJpww"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-08-15"
+  }
+]

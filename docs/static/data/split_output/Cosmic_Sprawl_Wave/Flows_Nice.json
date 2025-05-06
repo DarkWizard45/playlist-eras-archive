@@ -1,0 +1,146 @@
+[
+  {
+    "track": {
+      "trackName": "Alright",
+      "artistName": "Kendrick Lamar",
+      "albumName": "To Pimp A Butterfly",
+      "trackUri": "spotify:track:3iVcZ5G6tvkXZkZKlMpIUs"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-14"
+  },
+  {
+    "track": {
+      "trackName": "Time Moves Slow",
+      "artistName": "BADBADNOTGOOD",
+      "albumName": "IV",
+      "trackUri": "spotify:track:1I40L32fTSSkBkPeArX9Ul"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-14"
+  },
+  {
+    "track": {
+      "trackName": "Casio",
+      "artistName": "Jungle",
+      "albumName": "For Ever",
+      "trackUri": "spotify:track:44ZKnfWEkp7wPs035j4Tua"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-15"
+  },
+  {
+    "track": {
+      "trackName": "Night Flight",
+      "artistName": "Franc Moody",
+      "albumName": "Dream in Colour",
+      "trackUri": "spotify:track:3DBI5q6Mq97653Dj9Nd6Px"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-17"
+  },
+  {
+    "track": {
+      "trackName": "America",
+      "artistName": "Allen Ginsberg",
+      "albumName": "Howl",
+      "trackUri": "spotify:track:6XVVPboSP8bsaNHRditnk9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-24"
+  },
+  {
+    "track": {
+      "trackName": "Everything in Its Right Place",
+      "artistName": "Radiohead",
+      "albumName": "Kid A",
+      "trackUri": "spotify:track:3Gk0l7D2cL1JQaA1bT8i15"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-24"
+  },
+  {
+    "track": {
+      "trackName": "Tannhäuser / Act 1: Bacchanale",
+      "artistName": "Richard Wagner",
+      "albumName": "Wagner: Overtures",
+      "trackUri": "spotify:track:7nn5VSx0TKflLGSmISPwiL"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-05-12"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 10 in E Minor, Op. 93: II. Allegro",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony No. 10",
+      "trackUri": "spotify:track:3qFIwHZMt9EOhNjouKSstx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-05-12"
+  },
+  {
+    "track": {
+      "trackName": "Prokofiev: Cinderella, Op. 87, Act 1: No. 18, Clock Scene",
+      "artistName": "Sergei Prokofiev",
+      "albumName": "Prokofiev: Cinderella, Op. 87 - Glazunov: Suite from Raymonda, Op. 57a",
+      "trackUri": "spotify:track:778xSz6svkeE2wBpbjVgR1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-06-17"
+  },
+  {
+    "track": {
+      "trackName": "Othello Suite: XI. Finale",
+      "artistName": "Viktor Simcisko",
+      "albumName": "Khachaturian: Othello Suite & The Battle of Stalingrad Suite",
+      "trackUri": "spotify:track:7zorxLRV3TsC2icJbOQLTl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-06-17"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5: IV. Adagietto. Sehr langsam",
+      "artistName": "Gustav Mahler",
+      "albumName": "Mahler: Symphony No.5",
+      "trackUri": "spotify:track:1FDMJ0sheMse5ELss1p7s0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-09-06"
+  },
+  {
+    "track": {
+      "trackName": "Britten: Peter Grimes, Op. 33, Prologue: Interlude. Dawn",
+      "artistName": "Benjamin Britten",
+      "albumName": "Britten: Peter Grimes",
+      "trackUri": "spotify:track:0NUa8uZUiXFkBmkhoCj9er"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-09-06"
+  }
+]

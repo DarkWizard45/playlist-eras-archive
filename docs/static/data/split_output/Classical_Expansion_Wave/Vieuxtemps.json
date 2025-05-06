@@ -1,0 +1,38 @@
+[
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 5 in A Minor, Op. 37: I. Allegro non troppo - Redbook Stereo",
+      "artistName": "Henri Vieuxtemps",
+      "albumName": "Vieuxtemps: Violin Concerto No. 5 in A Minor, Op. 37, Bruch: Scottish Fantasy, Op. 46",
+      "trackUri": "spotify:track:5S86cXQ6bvasXguskg9NIQ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-02-06"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 5 in A Minor, Op. 37: II. Adagio - Redbook Stereo",
+      "artistName": "Henri Vieuxtemps",
+      "albumName": "Vieuxtemps: Violin Concerto No. 5 in A Minor, Op. 37, Bruch: Scottish Fantasy, Op. 46",
+      "trackUri": "spotify:track:6R48JJTjkA2uG8gDUZ49Qh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-02-06"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 5 in A Minor, Op. 37: III. Allegro con fuoco - Redbook Stereo",
+      "artistName": "Henri Vieuxtemps",
+      "albumName": "Vieuxtemps: Violin Concerto No. 5 in A Minor, Op. 37, Bruch: Scottish Fantasy, Op. 46",
+      "trackUri": "spotify:track:1HHffZw8CfKA6iHxcYWuME"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-02-06"
+  }
+]

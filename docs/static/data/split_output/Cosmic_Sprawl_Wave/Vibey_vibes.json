@@ -1,0 +1,878 @@
+[
+  {
+    "track": {
+      "trackName": "Spread Too Thin (feat. Lindsay Olsen)",
+      "artistName": "Joomanji",
+      "albumName": "Manj",
+      "trackUri": "spotify:track:0Lgk4pD3Y0iE9w2xDilhjj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Chief",
+      "artistName": "Lettuce",
+      "albumName": "Crush",
+      "trackUri": "spotify:track:4y240kPyWOHF4MEtNyWokA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Doomsday",
+      "artistName": "MF DOOM",
+      "albumName": "Operation: Doomsday (Complete)",
+      "trackUri": "spotify:track:7lT1dCz96jANsLAAADlfIg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Smile Meditation",
+      "artistName": "Vulfpeck",
+      "albumName": "Thrill of the Arts",
+      "trackUri": "spotify:track:7a00cQDulg05uPkHuFoQiS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Amigos",
+      "artistName": "Richard Houghten",
+      "albumName": "Music for Drifters",
+      "trackUri": "spotify:track:0hhUzxoJUqzOHjOG5y6HXX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Trailer Park Boys Theme Song",
+      "artistName": "Brooklyn Boogaloo Blowout",
+      "albumName": "The Boog at Sunny's",
+      "trackUri": "spotify:track:6ttRYAio3PJsYZtnclCkGp"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Evening Star",
+      "artistName": "Robert Fripp",
+      "albumName": "Evening Star",
+      "trackUri": "spotify:track:5lpw5NewnpIgO1yal6Vjl4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Magic in the Moonlight",
+      "artistName": "Magic Tramps",
+      "albumName": "Kickin' Up Moonlight Dust",
+      "trackUri": "spotify:track:7rWqIzIBoGOqRuDM2KsYCT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Asleep in the Desert - Instrumental",
+      "artistName": "ZZ Top",
+      "albumName": "Tejas",
+      "trackUri": "spotify:track:0ukb39j9T97cToQVbxnn9a"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Degrees of Light",
+      "artistName": "Taylor McFerrin",
+      "albumName": "Early Riser",
+      "trackUri": "spotify:track:0LVXBYDm3GVcdtBSRH0vlI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Mind Mischief - The Field Remix",
+      "artistName": "Tame Impala",
+      "albumName": "Lonerism B-Sides & Remixes",
+      "trackUri": "spotify:track:3F1hZN0HKt1YA83t2OwEFo"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Restless",
+      "artistName": "BIBI",
+      "albumName": "LISTEN 035 Restless",
+      "trackUri": "spotify:track:4AHNi316rl3KI3hKIsdxZe"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Late Night",
+      "artistName": "Lucky Daye",
+      "albumName": "Painted",
+      "trackUri": "spotify:track:1Fwppfa2qKDAETKveNFsHR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Passport - シングル版",
+      "artistName": "Masego",
+      "albumName": "Passport",
+      "trackUri": "spotify:track:4DkSghl14yN70T0RX5pe9x"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Memory Digital",
+      "artistName": "Taylor McFerrin",
+      "albumName": "Love's Last Chance",
+      "trackUri": "spotify:track:6idUXmVXKR8mfBhKKuP3Kf"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Now That You Need Me",
+      "artistName": "Taylor McFerrin",
+      "albumName": "Love's Last Chance",
+      "trackUri": "spotify:track:6Gc5Ve2ZZ6JaOWqxY23D5J"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Chance to Say My Piece",
+      "artistName": "Taylor McFerrin",
+      "albumName": "Chance to Say My Piece",
+      "trackUri": "spotify:track:5156TsGL5qwZfzIfFxCueZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Place in My Heart",
+      "artistName": "Taylor McFerrin",
+      "albumName": "Early Riser",
+      "trackUri": "spotify:track:6sz0fwdONBDxML8l9JcepX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Flow (Marked Red)",
+      "artistName": "Lambert",
+      "albumName": "Flow (Marked Red)",
+      "trackUri": "spotify:track:2Yap1AsebJSPoMbhT27dSt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Dragonball Durag",
+      "artistName": "Thundercat",
+      "albumName": "It Is What It Is",
+      "trackUri": "spotify:track:7eWGnKg4B44sbBPpQp4y2c"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Freeze Tag (feat. Phoelix)",
+      "artistName": "Terrace Martin",
+      "albumName": "Dinner Party",
+      "trackUri": "spotify:track:47v4uUtj5AukJmCbMq4Kry"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Psychic Love Damage",
+      "artistName": "Black Moth Super Rainbow",
+      "albumName": "Cobra Juicy",
+      "trackUri": "spotify:track:3HRWUA7jZHMbxcb5ik9SAO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Delorean Dynamite",
+      "artistName": "Todd Terje",
+      "albumName": "It's Album Time",
+      "trackUri": "spotify:track:43DnalVz4tL1pR1GWCpfCj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Pass the Vibes",
+      "artistName": "Nico Segal",
+      "albumName": "Surf",
+      "trackUri": "spotify:track:3w04cXVTLNvkl6foI4K1ze"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Brazilian Vibes",
+      "artistName": "Richard Houghten",
+      "albumName": "Music for Drifters",
+      "trackUri": "spotify:track:19Fb0dfu8mx8Zm7axdY5no"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Broken Promises - Original Mix",
+      "artistName": "Roberto Traista",
+      "albumName": "Broken Promises",
+      "trackUri": "spotify:track:7dylncDcF3dNYDXW7cGoLh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "The Level",
+      "artistName": "Lusine",
+      "albumName": "Sensorimotor",
+      "trackUri": "spotify:track:4fhBLgkdrO8oloctMjA0wv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Hallogallo",
+      "artistName": "NEU!",
+      "albumName": "Neu!",
+      "trackUri": "spotify:track:1GkZZHT9uJjdzrrksrpczR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Passin' Me By",
+      "artistName": "The Pharcyde",
+      "albumName": "Bizarre Ride II The Pharcyde",
+      "trackUri": "spotify:track:4G3dZN9o3o2X4VKwt4CLts"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Liftoff",
+      "artistName": "B-Side",
+      "albumName": "Journey To Badlands",
+      "trackUri": "spotify:track:1m8yuQD9abcOj3Y2zE2nKH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "How It Goes",
+      "artistName": "Mocky",
+      "albumName": "Music Save Me (One More Time)",
+      "trackUri": "spotify:track:2rIzolYxlQr9JoitK2BeC4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Cashmere",
+      "artistName": "BADBADNOTGOOD",
+      "albumName": "IV",
+      "trackUri": "spotify:track:55o7nZpmNuJJTxYHf4cIg1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Time Moves Slow",
+      "artistName": "BADBADNOTGOOD",
+      "albumName": "IV",
+      "trackUri": "spotify:track:1I40L32fTSSkBkPeArX9Ul"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Red and Gold",
+      "artistName": "MF DOOM",
+      "albumName": "Operation: Doomsday (Complete)",
+      "trackUri": "spotify:track:03sEEzFv7vnD54KRwU47Ue"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Guv'nor",
+      "artistName": "JJ DOOM",
+      "albumName": "Key to the Kuffs",
+      "trackUri": "spotify:track:53x8zbNUFO9QE4ih75ybGO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "3030",
+      "artistName": "Deltron 3030",
+      "albumName": "Deltron 3030",
+      "trackUri": "spotify:track:39GBFwBe4GGk7i3yr3F46P"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Funk City",
+      "artistName": "Leonardus",
+      "albumName": "Miami",
+      "trackUri": "spotify:track:6OVbPGWfPbmnbm3yu4o6Q3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Purple Sun",
+      "artistName": "Honom",
+      "albumName": "Purple Sun",
+      "trackUri": "spotify:track:5GorBkISuzSRgEuiq3dJu6"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Hypnic",
+      "artistName": "Lazerhawk",
+      "albumName": "Dreamrider",
+      "trackUri": "spotify:track:2H55QFDo3vexV4gu85WUTl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Nomad City",
+      "artistName": "Phaserland",
+      "albumName": "Cosmic Boundaries",
+      "trackUri": "spotify:track:4bAVPOzkidrMsZHbbn8uI8"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Silicon Tare",
+      "artistName": "Com Truise",
+      "albumName": "Silicon Tare",
+      "trackUri": "spotify:track:6YYpEOBjVdQbn9Inrl0Ja0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Propagation",
+      "artistName": "Com Truise",
+      "albumName": "Iteration",
+      "trackUri": "spotify:track:3DOZrIy0OP3wtyDbJAALcu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Skylab",
+      "artistName": "Dan Lacksman",
+      "albumName": "The Sound Of Belgium Vol. 3",
+      "trackUri": "spotify:track:5Qtyn8oZBfhPJeeycVPEfu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Gooey",
+      "artistName": "Glass Animals",
+      "albumName": "ZABA",
+      "trackUri": "spotify:track:1gk3FhAV07q9Jg77UxnVjX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Sola Sistim",
+      "artistName": "Underworld",
+      "albumName": "A Hundred Days Off",
+      "trackUri": "spotify:track:4hWuNTCyQeQkzBPjjVE9rX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Rough Soul (feat. April George)",
+      "artistName": "GoldLink",
+      "albumName": "Rough Soul (feat. April George)",
+      "trackUri": "spotify:track:5v0C3nNNDMhZ3nWzzP0W4T"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Blinding Lights",
+      "artistName": "The Weeknd",
+      "albumName": "Blinding Lights",
+      "trackUri": "spotify:track:0sf12qNH5qcw8qpgymFOqD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Vibin' Out",
+      "artistName": "FKJ",
+      "albumName": "French Kiwi Juice",
+      "trackUri": "spotify:track:6SEolIp22t0DzeBfCBo3hr"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Locket",
+      "artistName": "Crumb",
+      "albumName": "Locket",
+      "trackUri": "spotify:track:0bxcUgWlOURkU6lZt4zog0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra)",
+      "artistName": "Free Nationals",
+      "albumName": "Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra)",
+      "trackUri": "spotify:track:4ej94zqr9xYLbWphCH3TcD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Tadow",
+      "artistName": "Masego",
+      "albumName": "Lady Lady",
+      "trackUri": "spotify:track:51rPRW8NjxZoWPPjnRGzHw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Sheetz",
+      "artistName": "Wet Fruit",
+      "albumName": "Wet Fruit",
+      "trackUri": "spotify:track:3dih7kbv1FFZEs9wfYZENk"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Underwater",
+      "artistName": "Porches",
+      "albumName": "Pool",
+      "trackUri": "spotify:track:47RDzk3uT014BXqc4oevq5"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Flyin' Bamboo feat. MNDSGN",
+      "artistName": "Nitai Hershkovits",
+      "albumName": "Puzzles vol. 3",
+      "trackUri": "spotify:track:1YjUJoiRkznLCYMLi7tdxg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Tezeta",
+      "artistName": "Mulatu Astatke",
+      "albumName": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
+      "trackUri": "spotify:track:0Dv2dILPDIqPjCqGbW9WTN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Yèkèrmo Sèw",
+      "artistName": "Mulatu Astatke",
+      "albumName": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
+      "trackUri": "spotify:track:4cGYXOl7T3q7oLFj4loAUc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Congratulations",
+      "artistName": "MGMT",
+      "albumName": "Congratulations",
+      "trackUri": "spotify:track:6kblAEj0T0312fv5QWsXzo"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Electric Feel",
+      "artistName": "MGMT",
+      "albumName": "Oracular Spectacular",
+      "trackUri": "spotify:track:3FtYbEfBqAlGO46NUDQSAt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Chanson",
+      "artistName": "Art Farmer",
+      "albumName": "Crawl Space",
+      "trackUri": "spotify:track:6zSHjRauxTzsyqvwZdXaSP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Time Inflation (Message to R2)",
+      "artistName": "Mocky",
+      "albumName": "Key Change",
+      "trackUri": "spotify:track:5OHZtnsgHJgGRyffYC96gQ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-07"
+  },
+  {
+    "track": {
+      "trackName": "Losing Interest",
+      "artistName": "itssvd",
+      "albumName": "Missing",
+      "trackUri": "spotify:track:1LGFhRGycG5VI9cU8gFgVP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-12"
+  },
+  {
+    "track": {
+      "trackName": "Moonlight",
+      "artistName": "XXXTENTACION",
+      "albumName": "?",
+      "trackUri": "spotify:track:0JP9xo3adEtGSdUEISiszL"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-12"
+  },
+  {
+    "track": {
+      "trackName": "BAD!",
+      "artistName": "XXXTENTACION",
+      "albumName": "SKINS",
+      "trackUri": "spotify:track:22An65gG31JLf9n18qjdhZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-12"
+  },
+  {
+    "track": {
+      "trackName": "Loosing Interest",
+      "artistName": "timmies",
+      "albumName": "Passion & Confusion",
+      "trackUri": "spotify:track:49gXK8uoqUEHgzzHdkELMh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-12"
+  },
+  {
+    "track": {
+      "trackName": "HIGHEST IN THE ROOM",
+      "artistName": "Travis Scott",
+      "albumName": "HIGHEST IN THE ROOM",
+      "trackUri": "spotify:track:3eekarcy7kvN4yt5ZFzltW"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-12"
+  },
+  {
+    "track": {
+      "trackName": "Everyday",
+      "artistName": "Logic",
+      "albumName": "Bobby Tarantino II",
+      "trackUri": "spotify:track:4EAV2cKiqKP5UPZmY6dejk"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-12"
+  },
+  {
+    "track": {
+      "trackName": "High Tide",
+      "artistName": "Brothertiger",
+      "albumName": "Out of Touch",
+      "trackUri": "spotify:track:0IrkbWuQq0WToJ5SA0Id76"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-14"
+  },
+  {
+    "track": {
+      "trackName": "Do U Want Me",
+      "artistName": "Giraffage",
+      "albumName": "Too Real",
+      "trackUri": "spotify:track:2eTLxOZY8owibk7b2iETad"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-14"
+  },
+  {
+    "track": {
+      "trackName": "Feel It All Around",
+      "artistName": "Washed Out",
+      "albumName": "Life of Leisure",
+      "trackUri": "spotify:track:4V0x90QcMh4ZxwHzEWOdtK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-14"
+  },
+  {
+    "track": {
+      "trackName": "Ether Drift",
+      "artistName": "Com Truise",
+      "albumName": "Galactic Melt",
+      "trackUri": "spotify:track:6pAVBul1gqqqpkhxpIOyUO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-14"
+  },
+  {
+    "track": {
+      "trackName": "Song 32",
+      "artistName": "Noname",
+      "albumName": "Song 32",
+      "trackUri": "spotify:track:0EgmhYPgButfoBvtnidyR0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-02-17"
+  },
+  {
+    "track": {
+      "trackName": "Heather",
+      "artistName": "Billy Cobham",
+      "albumName": "Crosswinds",
+      "trackUri": "spotify:track:4mraRJO2iZA5WQ5dxlSQx9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-03-06"
+  },
+  {
+    "track": {
+      "trackName": "Murmuration",
+      "artistName": "GoGo Penguin",
+      "albumName": "v2.0",
+      "trackUri": "spotify:track:1r8kRDtkDZPhHvP0dwaYDd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-05-25"
+  }
+]

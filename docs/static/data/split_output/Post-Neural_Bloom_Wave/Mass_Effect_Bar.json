@@ -1,0 +1,26 @@
+[
+  {
+    "track": {
+      "trackName": "Cryptic Signals",
+      "artistName": "Tommy Guerrero",
+      "albumName": "Cryptic Signals",
+      "trackUri": "spotify:track:3n6iZpBSwX7gA6RpJSIEUn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2025-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Ring Tail",
+      "artistName": "Monster Rally",
+      "albumName": "Ring Tail",
+      "trackUri": "spotify:track:1wVNi51JyuLkBa1Q7JeUTN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2025-04-01"
+  }
+]

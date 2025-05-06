@@ -1,0 +1,806 @@
+[
+  {
+    "track": {
+      "trackName": "Stranglehold",
+      "artistName": "Ted Nugent",
+      "albumName": "Ted Nugent",
+      "trackUri": "spotify:track:1yl4Lly0mQBJwDeocjsbxc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Purple Haze",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Experience Hendrix: The Best Of Jimi Hendrix",
+      "trackUri": "spotify:track:4BYGxv4rxSNcTgT3DsFB9o"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-23"
+  },
+  {
+    "track": {
+      "trackName": "Time of the Season",
+      "artistName": "The Zombies",
+      "albumName": "Odessey and Oracle",
+      "trackUri": "spotify:track:1ZwDntATen2rdQxz03rtTe"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Don't Step On The Grass, Sam",
+      "artistName": "Steppenwolf",
+      "albumName": "The Second",
+      "trackUri": "spotify:track:4hXFaRVHANKX0kuieBB3qq"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Rainy Day Women #12 & 35",
+      "artistName": "Bob Dylan",
+      "albumName": "Blonde On Blonde",
+      "trackUri": "spotify:track:7BkAlVpGwXXl3sYNn5OoJ7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "(Don't Fear) The Reaper",
+      "artistName": "Blue Öyster Cult",
+      "albumName": "The Essential Blue Öyster Cult",
+      "trackUri": "spotify:track:2NL4BBBSgypHnxUKmQdYcT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Black Betty",
+      "artistName": "Ram Jam",
+      "albumName": "The Definitive 70's",
+      "trackUri": "spotify:track:4FFKYMQcqGIKLp4pJRdkbm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "War",
+      "artistName": "Edwin Starr",
+      "albumName": "The Hits Of Edwin Starr",
+      "trackUri": "spotify:track:0cs3dkKsYJwdauvRRJaCOm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Cars",
+      "artistName": "Gary Numan",
+      "albumName": "Premier Hits",
+      "trackUri": "spotify:track:3CKLPDN1AIOYa7QPpy6oDH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "The Chain",
+      "artistName": "Fleetwood Mac",
+      "albumName": "Rumours",
+      "trackUri": "spotify:track:2X6gdRlGOQgfaXU9ALUQFQ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Rocket Man (I Think It's Going To Be A Long Long Time)",
+      "artistName": "Elton John",
+      "albumName": "Honky Chateau",
+      "trackUri": "spotify:track:2zvot9pY2FNl1E94kc4K8M"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Mississippi Queen",
+      "artistName": "Mountain",
+      "albumName": "Drivin' South: Southern Rockin' Smash Hits",
+      "trackUri": "spotify:track:5Ny6yVg3LRfz3jicFcIMlm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Smoke on the Water",
+      "artistName": "Deep Purple",
+      "albumName": "Rhino Hi-Five: Deep Purple",
+      "trackUri": "spotify:track:5dIgg4mrQHOlVm1ZFYHW29"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "In-A-Gadda-Da-Vida - Single Version",
+      "artistName": "Iron Butterfly",
+      "albumName": "Rhino Hi-Five: Iron Butterfly",
+      "trackUri": "spotify:track:6gjOXtpuILSt4KB5vptcVY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "La Grange",
+      "artistName": "ZZ Top",
+      "albumName": "Armageddon - The Album",
+      "trackUri": "spotify:track:4jyYkGAGjkvssoW8N6Mg6C"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Hey Joe",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Experience Hendrix: The Best Of Jimi Hendrix",
+      "trackUri": "spotify:track:3VMMmMR4IYL28n7oKHyUoD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Mannish Boy",
+      "artistName": "Muddy Waters",
+      "albumName": "GoodFellas - Music From The Motion Picture",
+      "trackUri": "spotify:track:5vhKxsDsCQH9kWURFwmQAj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-06-02"
+  },
+  {
+    "track": {
+      "trackName": "Slow Ride",
+      "artistName": "Foghat",
+      "albumName": "Fool for the City",
+      "trackUri": "spotify:track:5aYVqxyetmT5OYmvZCA90X"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Space Child",
+      "artistName": "Spirit",
+      "albumName": "Twelve Dreams Of Dr. Sardonicus",
+      "trackUri": "spotify:track:6LiAUfANyOXGygP2FX80zg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Had To Cry Today",
+      "artistName": "Blind Faith",
+      "albumName": "Blind Faith",
+      "trackUri": "spotify:track:5zNCFqfUZ0qsrnDRjcJLdW"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Frankenstein",
+      "artistName": "The Edgar Winter Group",
+      "albumName": "A Monstrous Psychedelic Bubble Exploding In Your Mind",
+      "trackUri": "spotify:track:6iICO3IUj5WXVEi5fUd9n5"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "We're An American Band - Remastered 2002",
+      "artistName": "Grand Funk Railroad",
+      "albumName": "We're An American Band",
+      "trackUri": "spotify:track:3XcjIvaZVUFAIdIYZqY9bd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "It's A Hard Rain Gonna Fall",
+      "artistName": "Leon Russell",
+      "albumName": "Retrospective",
+      "trackUri": "spotify:track:4eh67nubmsyFPzcST1yFw8"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Tom Sawyer",
+      "artistName": "Rush",
+      "albumName": "Moving Pictures",
+      "trackUri": "spotify:track:3QZ7uX97s82HFYSmQUAN1D"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "The Spirit Of Radio",
+      "artistName": "Rush",
+      "albumName": "The Spirit Of Radio: Greatest Hits (1974-1987)",
+      "trackUri": "spotify:track:0XOTynfmaPyqaHwdOcDqWl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Owner Of A Lonely Heart",
+      "artistName": "Yes",
+      "albumName": "Highlights: The Very Best Of Yes",
+      "trackUri": "spotify:track:4uLo3el3oXuxQxHhDHJr40"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Foreplay / Long Time",
+      "artistName": "Boston",
+      "albumName": "Boston",
+      "trackUri": "spotify:track:5UYPZZDQfpCE7A0FDDqv4k"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Sweet Emotion",
+      "artistName": "Aerosmith",
+      "albumName": "Toys In The Attic",
+      "trackUri": "spotify:track:24NwBd5vZ2CK8VOQVnqdxr"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Detroit Rock City",
+      "artistName": "KISS",
+      "albumName": "Smashes Thrashes & Hits",
+      "trackUri": "spotify:track:3uz0O62HqYoyRiWZjS61KK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "All Right Now",
+      "artistName": "Free",
+      "albumName": "70s Classic Rock",
+      "trackUri": "spotify:track:2h03TyqUWCAYuxrKPTEj7n"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Feel Like Makin' Love (Remastered Album Version)",
+      "artistName": "Bad Company",
+      "albumName": "Straight Shooter",
+      "trackUri": "spotify:track:3HKthdb7Ejnydb74BvmQW0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Fly Like An Eagle",
+      "artistName": "Steve Miller Band",
+      "albumName": "Fly Like An Eagle",
+      "trackUri": "spotify:track:0BTYL86ryKRHvAndNeoiuP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Good Times Roll",
+      "artistName": "The Cars",
+      "albumName": "The Cars",
+      "trackUri": "spotify:track:7hVhRCDV100Jq26NGR7adw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Take On Me",
+      "artistName": "a-ha",
+      "albumName": "Rhino Hi-Five: A-Ha",
+      "trackUri": "spotify:track:1nbMkRhfldXcmCyB83x8lK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-20"
+  },
+  {
+    "track": {
+      "trackName": "Take Five",
+      "artistName": "Dave Brubeck",
+      "albumName": "On Time",
+      "trackUri": "spotify:track:5p6me2mwQrGfH30eExHn6v"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-23"
+  },
+  {
+    "track": {
+      "trackName": "The Low Spark Of High-Heeled Boys",
+      "artistName": "Traffic",
+      "albumName": "The Low Spark Of High Heeled Boys",
+      "trackUri": "spotify:track:1yW6y8RufwB4WEAQeip0tx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-04-23"
+  },
+  {
+    "track": {
+      "trackName": "Remember When (Side A)",
+      "artistName": "The Black Keys",
+      "albumName": "Attack & Release",
+      "trackUri": "spotify:track:0RzIBj9u73vIo82NyHZDi8"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-06-01"
+  },
+  {
+    "track": {
+      "trackName": "These Days",
+      "artistName": "The Black Keys",
+      "albumName": "Brothers",
+      "trackUri": "spotify:track:3ghXwIS6cr3P5InauKlqFy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-06-25"
+  },
+  {
+    "track": {
+      "trackName": "Midnight In Harlem (Swamp Raga intro with Little Martha) - Live",
+      "artistName": "Tedeschi Trucks Band",
+      "albumName": "Everybody's Talkin'",
+      "trackUri": "spotify:track:72UfjeC5R2SWpe9TTzwhKT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-07-05"
+  },
+  {
+    "track": {
+      "trackName": "Come Sail Away",
+      "artistName": "Styx",
+      "albumName": "Gold",
+      "trackUri": "spotify:track:11G0yprQtMU53BLPMSr093"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-09-26"
+  },
+  {
+    "track": {
+      "trackName": "Rollup - Baauer Remix",
+      "artistName": "Flosstradamus",
+      "albumName": "Fool's Gold Clubhouse Vol. 2",
+      "trackUri": "spotify:track:2OeWuXE76CouxtnTwOPFym"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-10-12"
+  },
+  {
+    "track": {
+      "trackName": "Adams: The Dharma at Big Sur, Pt. I: A New Day",
+      "artistName": "John Adams",
+      "albumName": "The Dharma at Big Sur/My Father Knew Charles Ives",
+      "trackUri": "spotify:track:5ym63GuRZfWvPi7tgwF2oY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-10-30"
+  },
+  {
+    "track": {
+      "trackName": "Ride Wit Me",
+      "artistName": "Nelly",
+      "albumName": "6 Pack",
+      "trackUri": "spotify:track:1DsPnnKm02m1nU1VqHZDNA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-05"
+  },
+  {
+    "track": {
+      "trackName": "Adams: The Dharma at Big Sur, Pt. II: Sri Moonshine",
+      "artistName": "John Adams",
+      "albumName": "The Dharma at Big Sur/My Father Knew Charles Ives",
+      "trackUri": "spotify:track:2WkoPhiXq9JQSGqYDnBrsF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-10-30"
+  },
+  {
+    "track": {
+      "trackName": "Sahib Teri Bandi - Maki Madni",
+      "artistName": "The Derek Trucks Band",
+      "albumName": "Songlines",
+      "trackUri": "spotify:track:3J7ftHdeBesSHblVt5629o"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2012-12-25"
+  },
+  {
+    "track": {
+      "trackName": "Just Dropped In",
+      "artistName": "Kenny Rogers",
+      "albumName": "Always Leaving",
+      "trackUri": "spotify:track:49jutHWl8NTY8WPS1vmU1A"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-02-01"
+  },
+  {
+    "track": {
+      "trackName": "Walk on the Wild Side",
+      "artistName": "Lou Reed",
+      "albumName": "Transformer",
+      "trackUri": "spotify:track:0EFEkt29P7Icr7dO4vN6yk"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-02-27"
+  },
+  {
+    "track": {
+      "trackName": "Ride Wit Me",
+      "artistName": "Nelly",
+      "albumName": "6 Pack",
+      "trackUri": "spotify:track:1DsPnnKm02m1nU1VqHZDNA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-02-27"
+  },
+  {
+    "track": {
+      "trackName": "Jimi Thing",
+      "artistName": "Dave Matthews Band",
+      "albumName": "Under The Table And Dreaming",
+      "trackUri": "spotify:track:1ZqWroaJ6jk1CiufXZnQBr"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-02-27"
+  },
+  {
+    "track": {
+      "trackName": "Satellite",
+      "artistName": "Dave Matthews Band",
+      "albumName": "Under The Table And Dreaming",
+      "trackUri": "spotify:track:7FXoionVqQVZISNUgCIenZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-02-27"
+  },
+  {
+    "track": {
+      "trackName": "#34",
+      "artistName": "Dave Matthews Band",
+      "albumName": "Under The Table And Dreaming",
+      "trackUri": "spotify:track:2BmNotNtTxHZLrYOss81RZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-02-27"
+  },
+  {
+    "track": {
+      "trackName": "Lie in Our Graves",
+      "artistName": "Dave Matthews Band",
+      "albumName": "Crash",
+      "trackUri": "spotify:track:3R8APSFlJuawCg1qi5Ed3E"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-02-27"
+  },
+  {
+    "track": {
+      "trackName": "Samba Pa Ti",
+      "artistName": "Santana",
+      "albumName": "Abraxas",
+      "trackUri": "spotify:track:56ATkd0sc9lROPXflbqUHo"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-03-27"
+  },
+  {
+    "track": {
+      "trackName": "Space Oddity - 2009 Remastered Version",
+      "artistName": "David Bowie",
+      "albumName": "Space Oddity [Space Oddity 40th Anniversary Edition]",
+      "trackUri": "spotify:track:3sb66av9ZpdI1JmPDHVa18"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-04-02"
+  },
+  {
+    "track": {
+      "trackName": "Pay for What You Get",
+      "artistName": "Dave Matthews Band",
+      "albumName": "Under The Table And Dreaming",
+      "trackUri": "spotify:track:7opfROxsnFm7yFJBkfYLJC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-02-27"
+  },
+  {
+    "track": {
+      "trackName": "Super Rich Kids",
+      "artistName": "Frank Ocean",
+      "albumName": "channel ORANGE",
+      "trackUri": "spotify:track:0725YWm6Z0TpZ6wrNk64Eb"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-04-29"
+  },
+  {
+    "track": {
+      "trackName": "Fly",
+      "artistName": "Sugar Ray",
+      "albumName": "Rhino Hi-Five: Sugar Ray",
+      "trackUri": "spotify:track:5fuGP7Dze9tkadS9WoPbar"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-05-02"
+  },
+  {
+    "track": {
+      "trackName": "Sun Cycle",
+      "artistName": "Blue Cheer",
+      "albumName": "Outsideinside",
+      "trackUri": "spotify:track:3TWrkH6F7M6RSkAJ8HOZ2Q"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-05-05"
+  },
+  {
+    "track": {
+      "trackName": "I Just Wasn't Made For These Times - Mono",
+      "artistName": "The Beach Boys",
+      "albumName": "Pet Sounds",
+      "trackUri": "spotify:track:4CuO8TINNqM3D7aUdNQ3zG"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-05-06"
+  },
+  {
+    "track": {
+      "trackName": "Don't Bogart Me (A.K.A. Don't Bogart That Joint)",
+      "artistName": "The Fraternity Of Man",
+      "albumName": "Taboo Garage, Vol. 2",
+      "trackUri": "spotify:track:0jaKn7k5sb6doR1gSGmica"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-05-18"
+  },
+  {
+    "track": {
+      "trackName": "The Bomber",
+      "artistName": "James Gang",
+      "albumName": "Joe Walsh's Greatest Hits: Little Did He Know...",
+      "trackUri": "spotify:track:5en7uduhlSrbYeR5HPgn2g"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-05-26"
+  },
+  {
+    "track": {
+      "trackName": "I Had Too Much to Dream (Last Night)",
+      "artistName": "The Electric Prunes",
+      "albumName": "Rhino Hi-Five: The Electric Prunes",
+      "trackUri": "spotify:track:7Fz4uqfZNhhtqItTVGibiZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-06-12"
+  },
+  {
+    "track": {
+      "trackName": "Get Me to the World on Time",
+      "artistName": "The Electric Prunes",
+      "albumName": "Rhino Hi-Five: The Electric Prunes",
+      "trackUri": "spotify:track:4pRk41LkZ0K2IJzWpYVILJ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-06-12"
+  },
+  {
+    "track": {
+      "trackName": "Slip Inside This House - Original [Extended]",
+      "artistName": "13th Floor Elevators",
+      "albumName": "Easter Everywhere",
+      "trackUri": "spotify:track:5tbeXkzP3AUGPtmSXgWwBj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-06-12"
+  },
+  {
+    "track": {
+      "trackName": "Roller Coaster - Original",
+      "artistName": "13th Floor Elevators",
+      "albumName": "The Psychedelic World Of The 13th Floor Elevators CD1",
+      "trackUri": "spotify:track:5QOixttnGuWk9llbtLX1by"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-06-12"
+  },
+  {
+    "track": {
+      "trackName": "Unwashed And Somewhat Slightly Dazed - 2009 Remastered Version",
+      "artistName": "David Bowie",
+      "albumName": "Space Oddity [Space Oddity 40th Anniversary Edition]",
+      "trackUri": "spotify:track:103atkqnrKsq3cPCMOAyAe"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2013-09-04"
+  },
+  {
+    "track": {
+      "trackName": "D Song",
+      "artistName": "Bonobo",
+      "albumName": "Dial 'M' for Monkey",
+      "trackUri": "spotify:track:0kuCcDu31Aqy4sgYL1ERQM"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-10"
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 1 in E Major: Andante",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:6xe42YfUl8WJ7jzYTATMgl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 2 in B Minor: Moderato",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:4ATmvcqZThXp1BRSgsA5WY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 3 in E Minor: Sostenuto - Presto",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:771JVrCjyN17o6JoTax3UW"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 4 in C Minor: Maestoso",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:6in3xT9xdzIOMRtyUeJDhC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 5 in A Minor: Agitato",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:4fPHGSZTYZOylLLM4Md1je"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 6 in G Minor: Adagio",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:5KblingnMgqoNjolTJHvig"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 7 in A Minor: Posato",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:1ALa5p23G2Rq3NKMVTCGiX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 8 in E-Flat Major: Maestoso",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:5OgALjh2xQbLE5kMQgIiHJ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 9 in E Major: Allegretto",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:0ytYz05PzXK9TZawRBy9OX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 10 in G Minor: Vivace",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:6UQgLyFHcyR811g6yorwG3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 11 in C Major: Andante - Presto",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:6cRHxYuw3iCJVH5b56A98r"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 12 in A-Flat Major: Allegro",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:2lEdsJ1zdLszJTPT6pReoq"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 13 in B-Flat Major: Moderato",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:4X7TIxcec8PkMEeJEHWb3Q"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 14 in E-Flat Major: Moderato",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:4mJsEHKQBpoOzgq0jBl2q2"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 15 in E Minor: Posato",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:729xASyXlviQ5W7ay5YY3k"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 16 in G Minor: Presto",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:6wESXaHoAHT2c6Ld2ZFeWU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 17 in E-Flat Major: Sostenuto - Andante",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:1fNVLMqc8EolihtLFFCB5W"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 18 in C Major: Corrente - Allegro",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:7MDFYxL68IPfzngwFsHrel"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 19 in E-Flat Major: Lento - Allegro assai",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:2Kos0yCcGFxiKY8OavUSWS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 20 in D Major: Allegretto",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:0mOV77biOnonIcEHgSlogL"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 21 in A Major: Amoroso - Presto",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:6ICyVEgbcJyqCsCNxHKCyT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 22 in F Major: Marcato",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:3cEArTMUz6xaMPviRE7wEq"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 23 in E-Flat Major: Posato",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:5oXrdirqCkdeLbTkj9OuW3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices, Op. 1: No. 24 in A Minor: Tema quasi presto",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices",
+      "trackUri": "spotify:track:0lSooEpHYXjvplQOozLNZH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-01-13"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 1 in E",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:5s3ec1na2FbymJFTEiTqbF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 2 in B minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:1alMrVBPdQFWKZrIEvs2Mo"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 3 in E minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:5pH2LCMH6Q6EMwEX1T0e5i"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 4 in C minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:4XwNMBZsq5Qrc2Oc0nKv5c"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 5 in a minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:1FamPztLO4easwRS6FacSl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 6 in G minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:7LMMJqbN1doLP3nojGbyph"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 7 in A minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:6FJ8JpJ2NdQzA7Vyh3arur"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 8 in E flat",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:651Zdb6vstejASUhcW2xfA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 9 in E",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:120VHkq3lcCXrj5u2pTHOS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 10 in G minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:0seGCOuZF6uW3rp8H6tnLv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 11 in C",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:4XC0lMCk29FFQa1n22mc3g"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 12 in A flat",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:65cdJHIz3JXQofxgT4mD8h"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 13 in B flat",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:5vSEfS5GkocTctAL80Foz7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 14 in E flat",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:0gaRJQc3HZHcUvjdgOnS9Z"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 15 in E minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:5L7fEluzinMJmMNFLTMFIm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 16 in G minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:6XBqrg2o1dDbrRfdHYn0qS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 17 in E flat",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:0EKReZHbihSijkzPLjswnN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 18 in C",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:4ttQ4TQsVnAXskJpnOMrPM"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 19 in E flat",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:1JCot0f4wEI009zWJBxVNY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 20 in D",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:6FsgjzlCfP1rmREufJpK7G"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 21 in A",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:6NSO4Tg7vmV3n5oZ1CLAOC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 22 in F",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:7aOgAzk1sV6MI7Oa0x5Fkb"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 23 in E",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:5sHwAWqYznrBS3wC4PhBGA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "24 Caprices for Violin, Op. 1: No. 24 in A minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: Caprices",
+      "trackUri": "spotify:track:0wAnIUK8FZUHbWFi7ZSxnt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-09-25"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 1 in E Major",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:5DaiHJOeI95tPjccnmG19g"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 2 in B Minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:4o5P16MmZGAsrPYpHfstFI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 3 in E Minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:6wziKP8IBJCjAq25POrpDH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 4 in C Minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:4zZqYXzSghYkKF3NyF7Yes"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 5 in A Minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:63qRj7UEIEIOFphPBCTtC3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 6 in G Minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:5qtxjrmnjLy1PpHAtDUHzM"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 7 in A Minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:4o3elS8dauooJfNxtKZTOy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 8 in E-Flat Major",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:4b2glu5cuSnseu3cb6UKUn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 9 in E Major",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:5iGlMkqmQolo61m5fO6Ark"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 10 in G Minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:5qdIXle1Aj7hJMz5KPsqPH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 11 in C Major",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:0J5hc6EQt2zYmfxiTwy0Xf"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 12 in A-Flat Major",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:6gMXaB4yQWQzdRySXTK2e5"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 13 in B-Flat",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:0sNbF5zjoGOPYuHD90kjgI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 14 in E-Flat Major",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:2VhGLELLXC5AMVSvgFoEjQ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 15 in E Minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:6FRc3h837jNriPxcrJBBjS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 16 in G Minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:4l8ZFOqGUnIIJNo694BFZQ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 17 in E-Flat Major",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:6n818KPLjN6EnKuMVv6zSy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 18 in C Major",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:5hkW6XK9dM9GuzkVCLLK70"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 19 in E-Flat Major",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:0tzI0IIugXeJ4A8z2RXO8A"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 20 in D Major",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:22fCPaDMvrDN4TrZFneCM1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 21 in A Major",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:5x54qWpgApoNgKhqQ8D5wn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 22 in F Major",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:0XeNujjt3a7rjjrgPvz4mU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 23 in E-Flat Major",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:7KXBH7Uvf4KheSSc1ETKYq"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  },
+  {
+    "track": {
+      "trackName": "Paganini: 24 Caprices, Op. 1: No. 24 in A Minor",
+      "artistName": "Niccolò Paganini",
+      "albumName": "Paganini: 24 Caprices, Op. 1",
+      "trackUri": "spotify:track:3qCBpdbbLn8tbxM45NnJAI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-08"
+  }
+]

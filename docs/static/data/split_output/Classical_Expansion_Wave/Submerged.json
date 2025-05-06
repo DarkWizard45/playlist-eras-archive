@@ -1,0 +1,554 @@
+[
+  {
+    "track": {
+      "trackName": "Debussy: La Mer, CD 111, L. 109: I. De l'aube à midi sur la mer",
+      "artistName": "Claude Debussy",
+      "albumName": "Debussy: La mer - La boîte à joujoux - Prélude à l'après-midi d'un faune & 3 Préludes",
+      "trackUri": "spotify:track:3hH9CWIMxv9lbfw6cc7ekX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Boots of Spanish Leather",
+      "artistName": "Bob Dylan",
+      "albumName": "The Times They Are A-Changin'",
+      "trackUri": "spotify:track:6QHYEZlm9wyfXfEM1vSu1P"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "The Wreck of the Edmund Fitzgerald",
+      "artistName": "Gordon Lightfoot",
+      "albumName": "Rhino Hi-Five: Gordon Lightfoot",
+      "trackUri": "spotify:track:1FZYlrtXXPK9ajGPhrpQxO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Riders on the Storm - New Stereo Mix",
+      "artistName": "The Doors",
+      "albumName": "The Very Best of the Doors",
+      "trackUri": "spotify:track:5j5VvsEHLlWT6IaEKSGDj9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Subterranean Homesick Alien",
+      "artistName": "Radiohead",
+      "albumName": "OK Computer",
+      "trackUri": "spotify:track:38TyhPZapwLZ4f3a0srbaB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Debussy: La Mer, CD 111, L. 109: II. Jeux de vagues",
+      "artistName": "Claude Debussy",
+      "albumName": "Debussy: La mer - La boîte à joujoux - Prélude à l'après-midi d'un faune & 3 Préludes",
+      "trackUri": "spotify:track:4LoWuClzKiqLXZjrDMaQvw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Paris, Texas (From Paris, Texas) - 2008 Remaster",
+      "artistName": "Ry Cooder",
+      "albumName": "The Ry Cooder Anthology: The UFO Has Landed",
+      "trackUri": "spotify:track:33OXrW25FbtmmA1DHBTPN0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Any Colour You Like - Live",
+      "artistName": "Pink Floyd",
+      "albumName": "Pulse",
+      "trackUri": "spotify:track:4FZ8qDZXYlslVjalb2G0io"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "No Surprises",
+      "artistName": "Radiohead",
+      "albumName": "OK Computer",
+      "trackUri": "spotify:track:5PIbVWsxoBEgH3JjdF5iQK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "What Is and What Should Never Be - 1990 Remaster",
+      "artistName": "Led Zeppelin",
+      "albumName": "Led Zeppelin II",
+      "trackUri": "spotify:track:5G7uLHtoEW140QOcBpJlfz"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Bloom",
+      "artistName": "Radiohead",
+      "albumName": "The King Of Limbs",
+      "trackUri": "spotify:track:6LGIbzkYlHJIs4A8xuT54l"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Rocket Man (I Think It's Going To Be A Long Long Time)",
+      "artistName": "Elton John",
+      "albumName": "Honky Chateau",
+      "trackUri": "spotify:track:2zvot9pY2FNl1E94kc4K8M"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Astronomy Domine (Live) [2011 - Remaster]",
+      "artistName": "Pink Floyd",
+      "albumName": "Ummagumma",
+      "trackUri": "spotify:track:0YXa8J5EV0gjjTWI4HVcPU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Wooden Ships",
+      "artistName": "Crosby, Stills & Nash",
+      "albumName": "Greatest Hits",
+      "trackUri": "spotify:track:1HKmoAuX4b9cg6yuZ8HV0Q"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Dark Star - Single Version",
+      "artistName": "Grateful Dead",
+      "albumName": "What a Long Strange Trip It's Been: The Best of the Grateful Dead",
+      "trackUri": "spotify:track:2AF1drAUmMi8ZX0U97UJLw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Space Child",
+      "artistName": "Spirit",
+      "albumName": "Twelve Dreams Of Dr. Sardonicus",
+      "trackUri": "spotify:track:6LiAUfANyOXGygP2FX80zg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "I Had Too Much to Dream (Last Night)",
+      "artistName": "The Electric Prunes",
+      "albumName": "Rhino Hi-Five: The Electric Prunes",
+      "trackUri": "spotify:track:7Fz4uqfZNhhtqItTVGibiZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Third Stone From The Sun",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Are You Experienced",
+      "trackUri": "spotify:track:34jAhU99TNRvYwwOEoINl3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Speak To Me - 2011 Remastered Version",
+      "artistName": "Pink Floyd",
+      "albumName": "The Dark Side Of The Moon",
+      "trackUri": "spotify:track:6rqhFgbbKwnb9MLmUQDhG6"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Breathe (In The Air) [2011 Remastered Version]",
+      "artistName": "Pink Floyd",
+      "albumName": "The Dark Side Of The Moon",
+      "trackUri": "spotify:track:4AzyYHQKBphpQonm3Hx15E"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Enchanted",
+      "artistName": "The Platters",
+      "albumName": "20th Century Masters: The Millennium Series: Best of The Platters",
+      "trackUri": "spotify:track:1wGWKXMjKffv84Y0LsxvcP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Strange Days - New Stereo Mix",
+      "artistName": "The Doors",
+      "albumName": "The Very Best of the Doors",
+      "trackUri": "spotify:track:09u4nne4200RgQp65ywKqW"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "All Along the Watchtower",
+      "artistName": "Bob Dylan",
+      "albumName": "John Wesley Harding",
+      "trackUri": "spotify:track:0Fnb2pfBfu0ka33d6Yki17"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Who's Gonna Save My Soul",
+      "artistName": "Gnarls Barkley",
+      "albumName": "The Odd Couple",
+      "trackUri": "spotify:track:5QUuPcnKApzahddKVQTcpl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "I'd Love To Change The World",
+      "artistName": "Ten Years After",
+      "albumName": "The Essential Ten Years After",
+      "trackUri": "spotify:track:1RctbtqgPhJGUjI4A6JYhg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "These Days",
+      "artistName": "Nico",
+      "albumName": "The Velvet Underground & Nico 45th Anniversary",
+      "trackUri": "spotify:track:1gWPkS4xum4XbSt1ueNpUu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "On a Clear Day You Can See Forever",
+      "artistName": "The Peddlers",
+      "albumName": "Part One",
+      "trackUri": "spotify:track:3FzBRKgDtjtv0Xu0diOzib"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Rainy Day, Dream Away",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Electric Ladyland",
+      "trackUri": "spotify:track:0xwG5stzrc5B70TycPwenY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "1983...(A Merman I Should Turn to Be)",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Electric Ladyland",
+      "trackUri": "spotify:track:5uDpwSGjljhIgDB1ZYdp9c"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Moon, Turn the Tides...Gently Gently Away",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Electric Ladyland",
+      "trackUri": "spotify:track:3q3gK9I4mj03565IGtVA0d"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "...And the Gods Made Love",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Electric Ladyland",
+      "trackUri": "spotify:track:4COmeKH1pLNNpXcgtMcyQH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Still Raining, Still Dreaming",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Electric Ladyland",
+      "trackUri": "spotify:track:0xKcrFF5ed7U4EPdG6vE4f"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Don't Think Twice, It's All Right - Witmark Demo - 1963",
+      "artistName": "Bob Dylan",
+      "albumName": "The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9)",
+      "trackUri": "spotify:track:6qMUnzlt6ELNmYqbxXtEpP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Wish You Were Here - 2011 Remastered Version",
+      "artistName": "Pink Floyd",
+      "albumName": "Wish You Were Here [2011 - Remaster]",
+      "trackUri": "spotify:track:1wHSxWBfPr3GO31y8KGrWe"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "The Rain Song - 1990 Remaster",
+      "artistName": "Led Zeppelin",
+      "albumName": "Houses of the Holy",
+      "trackUri": "spotify:track:2X0wYy6mbVh2GpFEYIvCp6"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Adams: The Dharma at Big Sur, Pt. I: A New Day",
+      "artistName": "John Adams",
+      "albumName": "The Dharma at Big Sur/My Father Knew Charles Ives",
+      "trackUri": "spotify:track:5ym63GuRZfWvPi7tgwF2oY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Adams: The Dharma at Big Sur, Pt. II: Sri Moonshine",
+      "artistName": "John Adams",
+      "albumName": "The Dharma at Big Sur/My Father Knew Charles Ives",
+      "trackUri": "spotify:track:2WkoPhiXq9JQSGqYDnBrsF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "The Low Spark Of High-Heeled Boys",
+      "artistName": "Traffic",
+      "albumName": "The Low Spark Of High Heeled Boys",
+      "trackUri": "spotify:track:1yW6y8RufwB4WEAQeip0tx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Voodoo Chile",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Electric Ladyland",
+      "trackUri": "spotify:track:0auKlivXpm76wR63mMJ3pR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "The End - New Stereo Mix Advanced Resolution",
+      "artistName": "The Doors",
+      "albumName": "The Doors [40th Anniversary Mixes]",
+      "trackUri": "spotify:track:0ATxvG3F86ZPIsl09XCubb"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Echoes - 2011 Remastered Version",
+      "artistName": "Pink Floyd",
+      "albumName": "Meddle",
+      "trackUri": "spotify:track:6nfXfoFwVyQZ6AJjokeFzi"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Wild Signals",
+      "artistName": "John Williams",
+      "albumName": "Close Encounters Of The Third Kind",
+      "trackUri": "spotify:track:6tvzakkt80JJBQDwv7gOJ2"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Debussy: La Mer, CD 111, L. 109: III. Dialogue du vent et de la mer",
+      "artistName": "Claude Debussy",
+      "albumName": "Debussy: La mer - La boîte à joujoux - Prélude à l'après-midi d'un faune & 3 Préludes",
+      "trackUri": "spotify:track:3caqGmPS3mdmwkGn7S0Xl5"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-01-22"
+  },
+  {
+    "track": {
+      "trackName": "Fat Angel",
+      "artistName": "Jefferson Airplane",
+      "albumName": "Bless Its Pointed Little Head",
+      "trackUri": "spotify:track:6faf5wMEDIvAzxwZvw3Omt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2014-10-25"
+  },
+  {
+    "track": {
+      "trackName": "Voyage to Atlantis",
+      "artistName": "The Isley Brothers",
+      "albumName": "The Essential Isley Brothers",
+      "trackUri": "spotify:track:0xbO1HtijM72XgMWHyPctg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2015-08-13"
+  },
+  {
+    "track": {
+      "trackName": "Britten: Peter Grimes, Op. 33, Prologue: Interlude. Dawn",
+      "artistName": "Benjamin Britten",
+      "albumName": "Britten: Peter Grimes",
+      "trackUri": "spotify:track:0NUa8uZUiXFkBmkhoCj9er"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2017-03-05"
+  }
+]

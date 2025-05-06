@@ -1,0 +1,638 @@
+[
+  {
+    "track": {
+      "trackName": "Tomorrow Never Knows - Remastered 2009",
+      "artistName": "The Beatles",
+      "albumName": "Revolver",
+      "trackUri": "spotify:track:00oZhqZIQfL9P5CjOP6JsO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Let's Go Away For Awhile",
+      "artistName": "The Beach Boys",
+      "albumName": "Pet Sounds",
+      "trackUri": "spotify:track:2Pn1dH7WNVIl8Q06NEwCxZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Kogarashi",
+      "artistName": "Kikagaku Moyo",
+      "albumName": "House in the Tall Grass",
+      "trackUri": "spotify:track:1dNVXjJxMvu8agaXXD80Q2"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Cardigan Song",
+      "artistName": "Kikagaku Moyo",
+      "albumName": "House in the Tall Grass",
+      "trackUri": "spotify:track:5PsGfCv1s5iEwEy27e2poj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Green Sugar",
+      "artistName": "Kikagaku Moyo",
+      "albumName": "House in the Tall Grass",
+      "trackUri": "spotify:track:7FhKuFopFs9DZqocoHOvVs"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Reality In Motion",
+      "artistName": "Tame Impala",
+      "albumName": "Currents",
+      "trackUri": "spotify:track:3I7OmVsk4Hm5LBbs2GmhlD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Within You Without You - Remastered 2009",
+      "artistName": "The Beatles",
+      "albumName": "Sgt. Pepper's Lonely Hearts Club Band",
+      "trackUri": "spotify:track:3Umg8CDhO8dOSj7yBTInYb"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "A Day In The Life - Remastered 2009",
+      "artistName": "The Beatles",
+      "albumName": "Sgt. Pepper's Lonely Hearts Club Band",
+      "trackUri": "spotify:track:0hKRSZhUGEhKU6aNSPBACZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Flying - Remastered 2009",
+      "artistName": "The Beatles",
+      "albumName": "Magical Mystery Tour",
+      "trackUri": "spotify:track:1itLKsCWHtLnxALkgBk1Fa"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Blue Jay Way - Remastered 2009",
+      "artistName": "The Beatles",
+      "albumName": "Magical Mystery Tour",
+      "trackUri": "spotify:track:0QIX9BS0AUCQcHYvyrsMkV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Strawberry Fields Forever - Remastered 2009",
+      "artistName": "The Beatles",
+      "albumName": "Magical Mystery Tour",
+      "trackUri": "spotify:track:3Am0IbOxmvlSXro7N5iSfZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Dear Prudence - Remastered 2009",
+      "artistName": "The Beatles",
+      "albumName": "The Beatles",
+      "trackUri": "spotify:track:5NQYyej46WQkgCbnzGD21W"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Across The Universe - Remastered 2009",
+      "artistName": "The Beatles",
+      "albumName": "Let It Be",
+      "trackUri": "spotify:track:4dkoqJrP0L8FXftrMZongF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Indian Summer",
+      "artistName": "The Doors",
+      "albumName": "Morrison Hotel",
+      "trackUri": "spotify:track:2hdeaGl9nT3UoQIgSqctHj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Spanish Caravan",
+      "artistName": "The Doors",
+      "albumName": "Waiting for the Sun",
+      "trackUri": "spotify:track:32bJv8V2Xgi5mtxdPcsi8B"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Embryonic Journey",
+      "artistName": "Jefferson Airplane",
+      "albumName": "Surrealistic Pillow",
+      "trackUri": "spotify:track:2zbGXr2XCcRR40R7ymEENc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Fat Angel - Live at the Fillmore East, New York, NY - November 1968",
+      "artistName": "Jefferson Airplane",
+      "albumName": "Bless Its Pointed Little Head",
+      "trackUri": "spotify:track:4ocyXlYaeGcI5Bq9VuVq6j"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Black Mountain Side - 1993 Remaster",
+      "artistName": "Led Zeppelin",
+      "albumName": "Led Zeppelin",
+      "trackUri": "spotify:track:6rmEV2YtvWkigxPZocINO3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Dreams",
+      "artistName": "Allman Brothers Band",
+      "albumName": "The Allman Brothers Band",
+      "trackUri": "spotify:track:2JnWQFCtEJ1Q8dftyIXOmF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Samba Pa Ti",
+      "artistName": "Santana",
+      "albumName": "Abraxas",
+      "trackUri": "spotify:track:56ATkd0sc9lROPXflbqUHo"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Dark Star - Single Version",
+      "artistName": "Grateful Dead",
+      "albumName": "What a Long Strange Trip It's Been: The Best of the Grateful Dead",
+      "trackUri": "spotify:track:2AF1drAUmMi8ZX0U97UJLw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Enchanted",
+      "artistName": "The Platters",
+      "albumName": "20th Century Masters: The Millennium Series: Best of The Platters",
+      "trackUri": "spotify:track:1wGWKXMjKffv84Y0LsxvcP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Fearless - 2011 Remastered Version",
+      "artistName": "Pink Floyd",
+      "albumName": "Meddle",
+      "trackUri": "spotify:track:6SHabvVeSeZW4UOGIo8OpG"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Melissa",
+      "artistName": "Allman Brothers Band",
+      "albumName": "Eat A Peach",
+      "trackUri": "spotify:track:4bltr2sgQOeU13onNoHUTc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "May This Be Love",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Are You Experienced",
+      "trackUri": "spotify:track:1Y6Dv0tWYUP3Za2Es9FUL2"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "My Girls",
+      "artistName": "Animal Collective",
+      "albumName": "Merriweather Post Pavilion",
+      "trackUri": "spotify:track:1kn0qoZsAYz2IEOSmWGrvX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "What Would I Want? Sky",
+      "artistName": "Animal Collective",
+      "albumName": "Fall Be Kind",
+      "trackUri": "spotify:track:4MWMEFY2a9YrUR2yuck2fA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Take Pills",
+      "artistName": "Panda Bear",
+      "albumName": "Person Pitch",
+      "trackUri": "spotify:track:3eC5vBtH9ryvr47sZaLIBg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Comfy in Nautica",
+      "artistName": "Panda Bear",
+      "albumName": "Person Pitch",
+      "trackUri": "spotify:track:6aHgzHMJX5XZGYMSGkSGxh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Boys Latin",
+      "artistName": "Panda Bear",
+      "albumName": "Panda Bear Meets The Grim Reaper",
+      "trackUri": "spotify:track:178yi3jvbIHwnaxeAVUCD9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Bros",
+      "artistName": "Panda Bear",
+      "albumName": "Person Pitch",
+      "trackUri": "spotify:track:6PxonwpNSxGQ9XlWbpukV1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "A Rainbow in the Curved Air - Instrumental",
+      "artistName": "Terry Riley",
+      "albumName": "Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band",
+      "trackUri": "spotify:track:0aGvcIUEdMq9PelZIGJOBU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Patchwork",
+      "artistName": "Laurie Spiegel",
+      "albumName": "The Expanding Universe",
+      "trackUri": "spotify:track:5Hj8GJmZa7HEaJMSplZETT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Music for 18 Musicians",
+      "artistName": "Steve Reich",
+      "albumName": "Steve Reich - The ECM Recordings",
+      "trackUri": "spotify:track:4x48SRR0MmHwZFqKlN0zRr"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Celestial Valley",
+      "artistName": "Terry Riley",
+      "albumName": "Terry Riley: Shri Camel",
+      "trackUri": "spotify:track:0qoFbRRIO9V8Pz99TkFk0H"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Desert of Ice",
+      "artistName": "Terry Riley",
+      "albumName": "Terry Riley: Shri Camel",
+      "trackUri": "spotify:track:2N1cxjxCFGJ7BQu6S5k7Cq"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "In a Silent Way",
+      "artistName": "Miles Davis",
+      "albumName": "In A Silent Way",
+      "trackUri": "spotify:track:54a3lHJAwce1dOKrsDPEHv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Shhh / Peaceful",
+      "artistName": "Miles Davis",
+      "albumName": "In A Silent Way",
+      "trackUri": "spotify:track:267lVml7gJ9xefwgO6E2Ag"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Sahib Teri Bandi - Maki Madni",
+      "artistName": "The Derek Trucks Band",
+      "albumName": "Songlines",
+      "trackUri": "spotify:track:3J7ftHdeBesSHblVt5629o"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Nights In White Satin - Single Version",
+      "artistName": "The Moody Blues",
+      "albumName": "Easy Rider DELUXE EDITION",
+      "trackUri": "spotify:track:73yYCzq4f66WA6O6SFnuoU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Caravan",
+      "artistName": "Duke Ellington",
+      "albumName": "The Best of Duke Ellington",
+      "trackUri": "spotify:track:0NkaaJCFsoVIzzXZPRt2Wv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Mood Indigo",
+      "artistName": "Duke Ellington",
+      "albumName": "The Complete Columbia Studio Albums Collection 1951-1958",
+      "trackUri": "spotify:track:5o7KBb4EgCQ6s0RfeUd4bj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Ascent",
+      "artistName": "Miles Davis",
+      "albumName": "Directions",
+      "trackUri": "spotify:track:61xdJPuJsbF3Cli4wnwpZA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Paris, Texas (From Paris, Texas) - 2008 Remaster",
+      "artistName": "Ry Cooder",
+      "albumName": "The Ry Cooder Anthology: The UFO Has Landed",
+      "trackUri": "spotify:track:33OXrW25FbtmmA1DHBTPN0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Franklin's Tower - 2006 Remaster",
+      "artistName": "Grateful Dead",
+      "albumName": "The Very Best of the Grateful Dead",
+      "trackUri": "spotify:track:6wmzz9dCztW1zgNXrZIyw8"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Ripple - 2001 Remaster",
+      "artistName": "Grateful Dead",
+      "albumName": "American Beauty",
+      "trackUri": "spotify:track:1pEyysRo6PylWXG17v7IDE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Don't Worry Baby - Remastered 2001",
+      "artistName": "The Beach Boys",
+      "albumName": "The Beach Boys Love Songs",
+      "trackUri": "spotify:track:0vBPA3c3M5FEzjmMJ3ByFK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "You Still Believe In Me - Mono",
+      "artistName": "The Beach Boys",
+      "albumName": "Pet Sounds",
+      "trackUri": "spotify:track:4fJtDPJ2NiLfFfZfu8HyYc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Have You Ever Been (To Electric Ladyland)",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Electric Ladyland",
+      "trackUri": "spotify:track:3Yh64aiu2ANBwDFztyPDkT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "The Wind Cries Mary",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Are You Experienced",
+      "trackUri": "spotify:track:5H6Jp0syB5yEPk7SWYdlmk"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2020-01-17"
+  },
+  {
+    "track": {
+      "trackName": "Jackson Bed Maker - Live At Jackson Hole Center For The Arts, Jackson Hole, WY / August 18, 2012",
+      "artistName": "Andrew Bird",
+      "albumName": "Are We Not Burning: The Devolution Of Capsized",
+      "trackUri": "spotify:track:44CVcBX3KAhFTgTzCeUOje"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-11-21"
+  },
+  {
+    "track": {
+      "trackName": "Raga Jog - Remastered",
+      "artistName": "Ravi Shankar",
+      "albumName": "The Ravi Shankar Collection: Three Ragas",
+      "trackUri": "spotify:track:0aQtGaicAWaJjUt4dFTYyn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-11-23"
+  },
+  {
+    "track": {
+      "trackName": "Ben's My Friend",
+      "artistName": "Sun Kil Moon",
+      "albumName": "Benji",
+      "trackUri": "spotify:track:6kXzroTvu7rGdvrPnQRh9X"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-09-14"
+  }
+]

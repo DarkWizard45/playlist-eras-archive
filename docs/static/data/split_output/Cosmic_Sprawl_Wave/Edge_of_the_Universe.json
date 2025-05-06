@@ -1,0 +1,1190 @@
+[
+  {
+    "track": {
+      "trackName": "The End",
+      "artistName": "The Doors",
+      "albumName": "The Doors",
+      "trackUri": "spotify:track:5UgT7w6zVZjP3oyawMzbiK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Echoes",
+      "artistName": "Pink Floyd",
+      "albumName": "Meddle",
+      "trackUri": "spotify:track:7kriFJLY2KOhw5en9iI2jb"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
+      "artistName": "Miles Davis",
+      "albumName": "Bitches Brew",
+      "trackUri": "spotify:track:15tLhnzO4o8fMOEjdZGfII"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Mapping the Heavens",
+      "artistName": "Alpha Wave Movement",
+      "albumName": "A Distant Signal",
+      "trackUri": "spotify:track:2d2a2ekknp3UrDEBXcHx8N"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Space is the Place",
+      "artistName": "Sun Ra",
+      "albumName": "The Other Side of the Sun",
+      "trackUri": "spotify:track:1hpdVGEaZovrlcnY0Yqcc9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Door of the Cosmos",
+      "artistName": "Sun Ra",
+      "albumName": "Sleeping Beauty",
+      "trackUri": "spotify:track:32Lg670koSWkUZQ4ExgMzD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Atom Heart Mother",
+      "artistName": "Pink Floyd",
+      "albumName": "Atom Heart Mother",
+      "trackUri": "spotify:track:1Pt7RPrjEQfzpPA9PS5aZj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Astronomy Domine - Live",
+      "artistName": "Pink Floyd",
+      "albumName": "Ummagumma",
+      "trackUri": "spotify:track:2Daa7Ho3dsxTcdkrFABz0D"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Set the Controls for the Heart of the Sun - Live",
+      "artistName": "Pink Floyd",
+      "albumName": "Ummagumma",
+      "trackUri": "spotify:track:62ZkQKB8UpUZkIqGPCxKN4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Careful with That Axe, Eugene - Live",
+      "artistName": "Pink Floyd",
+      "albumName": "Ummagumma",
+      "trackUri": "spotify:track:60WujjVzXLbbx4D6pSVg56"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "A Saucerful of Secrets - Live",
+      "artistName": "Pink Floyd",
+      "albumName": "Ummagumma",
+      "trackUri": "spotify:track:2TA0hmeMz6xVkfMI2rLkZe"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Voodoo Chile",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Electric Ladyland",
+      "trackUri": "spotify:track:0auKlivXpm76wR63mMJ3pR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "All Along the Watchtower",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Electric Ladyland",
+      "trackUri": "spotify:track:2aoo2jlRnM3A0NyLQqMN2f"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Also sprach Zarathustra, Op. 30: I. Prelude. Sonnenaufgang",
+      "artistName": "Richard Strauss",
+      "albumName": "Strauss, R.: Also sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils",
+      "trackUri": "spotify:track:43YwOmGUOS3zzGvj1Feszb"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Also sprach Zarathustra, Op. 30: II. Von den Hinterweltlern",
+      "artistName": "Richard Strauss",
+      "albumName": "Strauss, R.: Also sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils",
+      "trackUri": "spotify:track:5oiNWu69Hw91ykvX70BSkE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Also sprach Zarathustra, Op. 30: III. Von der großen Sehnsucht",
+      "artistName": "Richard Strauss",
+      "albumName": "Strauss, R.: Also sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils",
+      "trackUri": "spotify:track:66K4LuOq13wlcHoUYUeL8m"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Also sprach Zarathustra, Op. 30: IV. Von den Freuden und Leidenschaften",
+      "artistName": "Richard Strauss",
+      "albumName": "Strauss, R.: Also sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils",
+      "trackUri": "spotify:track:31wY598fRC3qGBv9QgtXzx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Also sprach Zarathustra, Op. 30: V. Das Grablied",
+      "artistName": "Richard Strauss",
+      "albumName": "Strauss, R.: Also sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils",
+      "trackUri": "spotify:track:2eVANDQvXMqnoPriKhCP24"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Also sprach Zarathustra, Op. 30: VI. Von der Wissenschaft",
+      "artistName": "Richard Strauss",
+      "albumName": "Strauss, R.: Also sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils",
+      "trackUri": "spotify:track:0sZFSiYgNHAD856txnF9z0"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Also sprach Zarathustra, Op. 30: VII. Der Genesende",
+      "artistName": "Richard Strauss",
+      "albumName": "Strauss, R.: Also sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils",
+      "trackUri": "spotify:track:6N5jzLEl7XBypZdbxApZYj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Also sprach Zarathustra, Op. 30: VIII. Das Tanzlied – Das Nachtlied",
+      "artistName": "Richard Strauss",
+      "albumName": "Strauss, R.: Also sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils",
+      "trackUri": "spotify:track:4afI5BMhzbgmwC1Tj1qHRQ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Also sprach Zarathustra, Op. 30: IX. Das Nachtwandlerlied",
+      "artistName": "Richard Strauss",
+      "albumName": "Strauss, R.: Also sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils",
+      "trackUri": "spotify:track:5apXOdpCSHYXYwLhyGc29W"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5 in C-Sharp Minor: IV. Adagietto: Sehr langsam",
+      "artistName": "Gustav Mahler",
+      "albumName": "Mahler, G.: Symphony No. 5",
+      "trackUri": "spotify:track:3uNh1Oi6y56ymIGQqvokLK"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 4: iii. Ruhewoll",
+      "artistName": "Gustav Mahler",
+      "albumName": "Mahler: Symphonies Nos 1-9",
+      "trackUri": "spotify:track:494to27Sl0aYX9bFFgXGqR"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Sonatas & Partitas for solo violin, BWV 1001-1006: Partita No.2 in D minor, BWV 1004 - Ciaccona",
+      "artistName": "Stanley Ritchie",
+      "albumName": "Johann Sebastian Bach - Sonatas & Partitas for solo violin, BWV 1001-1006",
+      "trackUri": "spotify:track:3GwmcmkNAKuDOW5DU6gPDJ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-04-01"
+  },
+  {
+    "track": {
+      "trackName": "Sound Bath",
+      "artistName": "Sufy",
+      "albumName": "Sleep",
+      "trackUri": "spotify:track:3C9GpXM8wsLa9UY3wFGz3U"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-05-03"
+  },
+  {
+    "track": {
+      "trackName": "Komorebi",
+      "artistName": "Pulse Mandala",
+      "albumName": "Ephemeral Phenomena EP",
+      "trackUri": "spotify:track:7LEYdmQTQC93Qj3Kvug58z"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-05-03"
+  },
+  {
+    "track": {
+      "trackName": "Złota Dusza",
+      "artistName": "EnyO",
+      "albumName": "Across Distant Shores",
+      "trackUri": "spotify:track:6KWpqH9AkaqgZ8ry44CmWn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-05-03"
+  },
+  {
+    "track": {
+      "trackName": "Didgsynth",
+      "artistName": "Sufy",
+      "albumName": "Flight of the Honey Bee",
+      "trackUri": "spotify:track:4iQXvQChywqO7Ou54eJJL7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-05-03"
+  },
+  {
+    "track": {
+      "trackName": "Inca Roads",
+      "artistName": "Frank Zappa",
+      "albumName": "One Size Fits All",
+      "trackUri": "spotify:track:0txIkFgdvURMOn35C2fvI3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "1983...(A Merman I Should Turn to Be)",
+      "artistName": "Jimi Hendrix",
+      "albumName": "Electric Ladyland",
+      "trackUri": "spotify:track:5uDpwSGjljhIgDB1ZYdp9c"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Heart of the Sunrise - 2003 Remaster",
+      "artistName": "Yes",
+      "albumName": "Fragile",
+      "trackUri": "spotify:track:7gC6Rbllqf1yXNC02e5jz2"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "The Rite of Spring: Part One: Adoration of the Earth: Spring Rounds",
+      "artistName": "Igor Stravinsky",
+      "albumName": "Stravinsky: Le Sacre du Printemps",
+      "trackUri": "spotify:track:4ZDySlKu1W9kHHqHEvSevc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Song For Our Ancestors",
+      "artistName": "Steve Miller Band",
+      "albumName": "Sailor",
+      "trackUri": "spotify:track:3a4tMwQGoRWXOdf1n69Pqy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "The Rite of Spring: Part One: Adoration of the Earth: Introduction",
+      "artistName": "Igor Stravinsky",
+      "albumName": "Stravinsky: Le Sacre du Printemps",
+      "trackUri": "spotify:track:1MiWGSGDC5mGoP3MNclZ7s"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "The Rite of Spring: Part One: Adoration of the Earth: The Augurs of Spring - Dance of the Young Girls",
+      "artistName": "Igor Stravinsky",
+      "albumName": "Stravinsky: Le Sacre du Printemps",
+      "trackUri": "spotify:track:5MSHxf0zVSajZknoxJC9Nj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Starless",
+      "artistName": "King Crimson",
+      "albumName": "Red (Expanded & Remastered Original Album Mix)",
+      "trackUri": "spotify:track:2gLJXznQp4kGsVz8BptfHS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Black Market",
+      "artistName": "Weather Report",
+      "albumName": "Black Market",
+      "trackUri": "spotify:track:2AsjFgg7ImLpxySqCw0b0L"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Meeting of the Spirits (with John McLaughlin)",
+      "artistName": "Mahavishnu Orchestra",
+      "albumName": "The Inner Mounting Flame (with John McLaughlin)",
+      "trackUri": "spotify:track:41ZgVC4H14ajbV2adh3D7s"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Chunga's Revenge",
+      "artistName": "Frank Zappa",
+      "albumName": "Chunga's Revenge",
+      "trackUri": "spotify:track:0RJXlhTXtLqU73IfZBMqmE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "G-Spot Tornado",
+      "artistName": "Frank Zappa",
+      "albumName": "The Yellow Shark",
+      "trackUri": "spotify:track:6hYgpeGZW8aodrJS7s6qQQ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Nothing At All",
+      "artistName": "Gentle Giant",
+      "albumName": "Gentle Giant",
+      "trackUri": "spotify:track:2JUlUvPH2erBIezhIkPUrP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Invocation And Ritual Dance Of The Young Pumpkin",
+      "artistName": "Frank Zappa",
+      "albumName": "Absolutely Free",
+      "trackUri": "spotify:track:7lUqfEQAeN54vEvzTTBssG"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "We Know You Know (with John McLaughlin)",
+      "artistName": "Mahavishnu Orchestra",
+      "albumName": "The Inner Mounting Flame (with John McLaughlin)",
+      "trackUri": "spotify:track:6A8IR5kVgXncIBC9W0YHjL"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Future Days",
+      "artistName": "CAN",
+      "albumName": "Future Days",
+      "trackUri": "spotify:track:4KdjQ2DMs845e6Ag6TO6Yg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Phaedra - Remastered 2018",
+      "artistName": "Tangerine Dream",
+      "albumName": "Phaedra",
+      "trackUri": "spotify:track:6Qx7IRv8VmRTppmnks6fDm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Master Builder - Remastered 2018",
+      "artistName": "Gong",
+      "albumName": "You",
+      "trackUri": "spotify:track:2EkcPq9mOsnx4oJDIkhCp9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "I Never Glid Before - 2015 Remaster",
+      "artistName": "Gong",
+      "albumName": "Radio Gnome Invisible Trilogy",
+      "trackUri": "spotify:track:4TCvgX3FTdardvEJSEF7mw"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Hope For Happiness",
+      "artistName": "Soft Machine",
+      "albumName": "The Soft Machine",
+      "trackUri": "spotify:track:4R7fnKGO9DRRychhhZybjk"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Formentera Lady",
+      "artistName": "King Crimson",
+      "albumName": "Islands",
+      "trackUri": "spotify:track:28cj2OUozhatkBNkhYUA87"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Halluzination Guillotine",
+      "artistName": "Amon Düül II",
+      "albumName": "Yeti",
+      "trackUri": "spotify:track:7amgpA4js0FJqwM3oyum0L"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Mother Sky (from Deep End)",
+      "artistName": "CAN",
+      "albumName": "Soundtracks",
+      "trackUri": "spotify:track:7aR4gpyRg8cOHGH2YSkHEV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Be Happy",
+      "artistName": "Mahavishnu Orchestra",
+      "albumName": "Visions of the Emerald Beyond",
+      "trackUri": "spotify:track:2tjkwLNeVDrtpnX13UsycD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Cloudburst Flight",
+      "artistName": "Tangerine Dream",
+      "albumName": "Force Majeure",
+      "trackUri": "spotify:track:3vGCZR6nHYd3be31turwDA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "First Communication",
+      "artistName": "Agitation Free",
+      "albumName": "2nd",
+      "trackUri": "spotify:track:0L4niw6Pf4HfuFUuZgWkOs"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Little Neutrino",
+      "artistName": "Klaatu",
+      "albumName": "3:47 EST",
+      "trackUri": "spotify:track:0goXjUKO38asbdtYTkdwEB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Sailor's Tale",
+      "artistName": "King Crimson",
+      "albumName": "Islands",
+      "trackUri": "spotify:track:6yd1sNwdyVMajFkmXxPPtk"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Nuclear Burn",
+      "artistName": "Brand X",
+      "albumName": "Unorthodox Behaviour",
+      "trackUri": "spotify:track:0aVwclUm2FsksllwpJRlaX"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Rhayader Goes To Town",
+      "artistName": "Camel",
+      "albumName": "The Snow Goose",
+      "trackUri": "spotify:track:07wbIsFWkJSfkbVFSsp7Ne"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Cosmic Messenger",
+      "artistName": "Jean-Luc Ponty",
+      "albumName": "Cosmic Messenger",
+      "trackUri": "spotify:track:5ePk7GMQIBbvgqVVQH8Xes"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Ah!",
+      "artistName": "Popol Vuh",
+      "albumName": "Hosianna Mantra",
+      "trackUri": "spotify:track:62C7oq11SRC0TlY1xvMneC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Cerberus",
+      "artistName": "Amon Düül II",
+      "albumName": "Yeti",
+      "trackUri": "spotify:track:0WkUpN68FK74F7oYUJ3L3Q"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Theme One - Original Version / 2005 Remaster",
+      "artistName": "Van Der Graaf Generator",
+      "albumName": "Pawn Hearts",
+      "trackUri": "spotify:track:5laKMHPXWIIJMsuMhSgnwV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-07-23"
+  },
+  {
+    "track": {
+      "trackName": "Fanfare for the Common Man",
+      "artistName": "Aaron Copland",
+      "albumName": "Copland: Appalachian Spring, Rodeo, Billy the Kid & Fanfare for the Common Man",
+      "trackUri": "spotify:track:2Wfx8epGfn7L8cRGzNdA2e"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-02"
+  },
+  {
+    "track": {
+      "trackName": "Total Eclipse",
+      "artistName": "John Tavener",
+      "albumName": "Tavener: Total Eclipse & Agraphon",
+      "trackUri": "spotify:track:0wkW4FauUriFlQzpa6Icjk"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-04"
+  },
+  {
+    "track": {
+      "trackName": "The Lamb (For String Orchestra)",
+      "artistName": "John Tavener",
+      "albumName": "Children Of Men",
+      "trackUri": "spotify:track:5Ctje9srugvwbYZGgZxarl"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-04"
+  },
+  {
+    "track": {
+      "trackName": "Missa Wellensis: I. Kyrie",
+      "artistName": "John Tavener",
+      "albumName": "John Tavener: Missa Wellensis",
+      "trackUri": "spotify:track:6Jpkc6TAHUfZ5dNCJDTWJc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-04"
+  },
+  {
+    "track": {
+      "trackName": "Zephyr",
+      "artistName": "Terry Riley",
+      "albumName": "Zephyr",
+      "trackUri": "spotify:track:4V59PwkkFB2bd7mcleV0yL"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-06"
+  },
+  {
+    "track": {
+      "trackName": "Spin Glass",
+      "artistName": "Forma",
+      "albumName": "Physicalist",
+      "trackUri": "spotify:track:2sG9p0Ovjh5tr8dfNoBMV2"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-14"
+  },
+  {
+    "track": {
+      "trackName": "Piano Quintet: Moderato pastorale",
+      "artistName": "Alfred Schnittke",
+      "albumName": "Shostakovich / Schnittke: Piano Quintets",
+      "trackUri": "spotify:track:3iH7DJ4DSEoTVTWKjWsTwb"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-21"
+  },
+  {
+    "track": {
+      "trackName": "Utopia and Visions",
+      "artistName": "Don Cherry",
+      "albumName": "Organic Music Society",
+      "trackUri": "spotify:track:7tSGcD2FFsf2VaWWIaqcfN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-24"
+  },
+  {
+    "track": {
+      "trackName": "Flamingo",
+      "artistName": "Sun Ra",
+      "albumName": "The Other Side of the Sun",
+      "trackUri": "spotify:track:6qjVVUWQniCKBetNqQqDDH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-24"
+  },
+  {
+    "track": {
+      "trackName": "Sustain",
+      "artistName": "Sam Gendel",
+      "albumName": "Sustain",
+      "trackUri": "spotify:track:5kbLE9EySwCysh8gd5Aco6"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-24"
+  },
+  {
+    "track": {
+      "trackName": "Brown Rice",
+      "artistName": "Don Cherry",
+      "albumName": "Don Cherry",
+      "trackUri": "spotify:track:2u7vy4E7raAt291mJwxxK4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-24"
+  },
+  {
+    "track": {
+      "trackName": "Holy Thursday",
+      "artistName": "David Axelrod",
+      "albumName": "Song Of Innocence",
+      "trackUri": "spotify:track:0VF21fEzB6OszZcJlKzyg5"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-24"
+  },
+  {
+    "track": {
+      "trackName": "Angels and Demons at Play",
+      "artistName": "Sun Ra",
+      "albumName": "Angels and Demons at Play",
+      "trackUri": "spotify:track:5du1OixazM7zg9vXxoIzJh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-24"
+  },
+  {
+    "track": {
+      "trackName": "Tod und Verklärung, Op. 24, TrV 158 (Death and Transfiguration)",
+      "artistName": "Richard Strauss",
+      "albumName": "R. Strauss: Don Juan, Op. 20, Death and Transfiguration, Op. 24 & Till Eulenspiegel's Merry Pranks, Op. 28",
+      "trackUri": "spotify:track:4zivdobcTJyMbQjP719Sph"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-08-31"
+  },
+  {
+    "track": {
+      "trackName": "Sechs Klavierstücke, Op. 118: II. Intermezzo in A Major",
+      "artistName": "Johannes Brahms",
+      "albumName": "Volodos Plays Brahms",
+      "trackUri": "spotify:track:1Oo7XEqkrwifJn17aA0ocF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-09-08"
+  },
+  {
+    "track": {
+      "trackName": "Geistliches Lied, Op. 30",
+      "artistName": "Johannes Brahms",
+      "albumName": "Brahms: Motets",
+      "trackUri": "spotify:track:3a9rwEwEzo19D22HxWL0UI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-09-08"
+  },
+  {
+    "track": {
+      "trackName": "The Unanswered Question",
+      "artistName": "Charles Ives",
+      "albumName": "Ives, C.: Universe Symphony (Completed by L. Austin) / Orchestral Set No. 2 / The Unanswered Question",
+      "trackUri": "spotify:track:7umTDygSNRwDVYvdp9CGNG"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-09-09"
+  },
+  {
+    "track": {
+      "trackName": "Last Night The Moon Came",
+      "artistName": "Jon Hassell",
+      "albumName": "Last Night The Moon Came Dropping Its Clothes In The Street",
+      "trackUri": "spotify:track:7EVB8TpxzTh6llHIcPANAi"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2021-09-09"
+  },
+  {
+    "track": {
+      "trackName": "Octavarium",
+      "artistName": "Dream Theater",
+      "albumName": "Octavarium",
+      "trackUri": "spotify:track:4TZo49HN2MkbWmHMTf4NcH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-01-01"
+  },
+  {
+    "track": {
+      "trackName": "Piano Sonata No. 8 in C minor, Op. 13 -\"Pathétique\": 2. Adagio cantabile",
+      "artistName": "Ludwig van Beethoven",
+      "albumName": "Beethoven - Pathétique, Moonlight, Appassionata",
+      "trackUri": "spotify:track:0QPY8Vkk80qZHYJEfQwqhj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-01-18"
+  },
+  {
+    "track": {
+      "trackName": "Atmospheres",
+      "artistName": "György Ligeti",
+      "albumName": "Ligeti: Violin Concerto, Lontano, Atmosphères & San Francisco Polyphony",
+      "trackUri": "spotify:track:7ei2fFrvTeea3ebvHpAZEf"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-23"
+  },
+  {
+    "track": {
+      "trackName": "The Dream of Jacob - 1994 Remastered Version",
+      "artistName": "Krzysztof Penderecki",
+      "albumName": "Penderecki: Threnody to the Victims of Hiroshima, Canticum canticorum Salomonis, De natura sonoris Nos. 1 & 2",
+      "trackUri": "spotify:track:2DyiDydMbuTEs2Z0wi7CSc"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-23"
+  },
+  {
+    "track": {
+      "trackName": "Symphony, Op. 21: II. Variationen",
+      "artistName": "Anton Webern",
+      "albumName": "Webern, A.: Symphony / 6 Pieces, Op. 6 / Concerto",
+      "trackUri": "spotify:track:60j855wbXowg9ZHPlLmn8w"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-03-09"
+  },
+  {
+    "track": {
+      "trackName": "Lontano",
+      "artistName": "György Ligeti",
+      "albumName": "Stravinsky, I.: Concerto for Piano and Wind Instruments / Zimmermann, B. / Fortner, W.: Symphony / Ligeti, G.: Lontano",
+      "trackUri": "spotify:track:7sSWpiXGy9HiORZisijJk2"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-03-09"
+  },
+  {
+    "track": {
+      "trackName": "Who Will Know (24 Bigslow)",
+      "artistName": "Shiro SAGISU",
+      "albumName": "Shin Godzilla (Original Motion Picture Soundtrack)",
+      "trackUri": "spotify:track:2AGOWiKGKnKre5zvSyP5Ql"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-10-18"
+  },
+  {
+    "track": {
+      "trackName": "Edge of the Edge",
+      "artistName": "Panda Bear",
+      "albumName": "Reset",
+      "trackUri": "spotify:track:4NbOlTgtufOpRVd7h1fsyA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-10-18"
+  },
+  {
+    "track": {
+      "trackName": "Partita No. 2 for Solo Violin in D Minor, BWV 1004: V. Chaconne",
+      "artistName": "Johann Sebastian Bach",
+      "albumName": "Bach: Morimur",
+      "trackUri": "spotify:track:5vu7VDOVmKjtcYaGjBre4Z"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-10-18"
+  },
+  {
+    "track": {
+      "trackName": "Where Pathways Meet - Remastered",
+      "artistName": "Sun Ra",
+      "albumName": "Lanquidity (Definitive Edition)",
+      "trackUri": "spotify:track:4OhX1Gi7CEySPoGLC2JckS"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-12-02"
+  },
+  {
+    "track": {
+      "trackName": "DAYDREAM",
+      "artistName": "Fishmans",
+      "albumName": "宇宙 日本 世田谷",
+      "trackUri": "spotify:track:2BVeeIDSD2dCnkNMhGDYK4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-12-14"
+  },
+  {
+    "track": {
+      "trackName": "Acid Crusher",
+      "artistName": "Earthless",
+      "albumName": "Acid Crusher / Mount Swan",
+      "trackUri": "spotify:track:1Jl2QiqrBXJOVxDx2WqnvO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-12-20"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto: II. Chaconne (Body Through Which the Dream Flows)",
+      "artistName": "John Adams",
+      "albumName": "Violin Concertos of John Adams & Philip Glass",
+      "trackUri": "spotify:track:4BWGEtcdtRSPNHvssc5JPJ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-05-07"
+  },
+  {
+    "track": {
+      "trackName": "Main Title - From \"Aliens\"",
+      "artistName": "James Horner",
+      "albumName": "Aliens: The Deluxe Edition",
+      "trackUri": "spotify:track:5QN0ljN1VqlPOYsXkta0gZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-05-18"
+  },
+  {
+    "track": {
+      "trackName": "LV-426",
+      "artistName": "James Horner",
+      "albumName": "Aliens: The Deluxe Edition",
+      "trackUri": "spotify:track:32TnZjjztBs9U9SOJJwN1j"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-05-18"
+  },
+  {
+    "track": {
+      "trackName": "Main Title",
+      "artistName": "Jerry Goldsmith",
+      "albumName": "Alien",
+      "trackUri": "spotify:track:4Rhue1CTPr3n1P3Zs0jPwU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-05-18"
+  },
+  {
+    "track": {
+      "trackName": "Main Title - Sorcerer/Sountrack Version",
+      "artistName": "Tangerine Dream",
+      "albumName": "Sorcerer",
+      "trackUri": "spotify:track:5bBis7ui3HWvffZB52aj0a"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-05-18"
+  },
+  {
+    "track": {
+      "trackName": "Poème électronique (1958) - Remastered",
+      "artistName": "Edgard Varèse",
+      "albumName": "Les Espaces Électroacoustiques",
+      "trackUri": "spotify:track:1qe5DDPJiOGpITneZlnuQt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2024-05-18"
+  }
+]

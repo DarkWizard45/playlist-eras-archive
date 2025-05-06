@@ -1,0 +1,38 @@
+[
+  {
+    "track": {
+      "trackName": "Mother Goose: VII. Le jardin feerique",
+      "artistName": "Maurice Ravel",
+      "albumName": "Saint-Saëns: Carnival of the Animals, Bizet: Jeux d'enfants & Ravel: Mother Goose",
+      "trackUri": "spotify:track:4hD0CqhMMFKb4WNQkkiC58"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2018-07-31"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 7 in E Major, WAB 107 (Ed. Haas): I. Allegro moderato",
+      "artistName": "Anton Bruckner",
+      "albumName": "Bruckner: Symphony No. 7 / Wagner: Siegfried's Funeral March",
+      "trackUri": "spotify:track:16cQx14puwLQVDO9q4H5Od"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2018-07-31"
+  },
+  {
+    "track": {
+      "trackName": "Beethoven: Symphony No. 1 in C Major, Op. 21: IV. Adagio - Allegro molto e vivace",
+      "artistName": "Ludwig van Beethoven",
+      "albumName": "Beethoven: Symphonies Nos. 1 - 9",
+      "trackUri": "spotify:track:7B7Lnj7G1JwQBuXxQI9Tbt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2018-07-31"
+  }
+]

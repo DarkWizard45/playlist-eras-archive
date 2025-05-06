@@ -1,0 +1,422 @@
+[
+  {
+    "track": {
+      "trackName": "Don't Stop Believin'",
+      "artistName": "Journey",
+      "albumName": "Escape",
+      "trackUri": "spotify:track:4bHsxqR3GMrXTxEPLuK5ue"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Won't Get Fooled Again - Remix",
+      "artistName": "The Who",
+      "albumName": "Who's Next",
+      "trackUri": "spotify:track:1W1GpfPujmgp2vQqcpUhtU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Fight the Power - Pt. 1 & 2",
+      "artistName": "The Isley Brothers",
+      "albumName": "It's Your Thing: The Story Of The Isley Brothers",
+      "trackUri": "spotify:track:5q5qmdfdJAVOv1mbSk7xxN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Uptown Funk (feat. Bruno Mars)",
+      "artistName": "Mark Ronson",
+      "albumName": "Uptown Funk (feat. Bruno Mars)",
+      "trackUri": "spotify:track:4rmPQGwcLQjCoFq5NrTA0D"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "It Was Always You",
+      "artistName": "Maroon 5",
+      "albumName": "V",
+      "trackUri": "spotify:track:2PLo8T3kGE9URFvBy3tUdt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Bang Bang",
+      "artistName": "Jessie J",
+      "albumName": "Sweet Talker",
+      "trackUri": "spotify:track:3SaIsrEzrQGDcG1jCeaK8q"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Turbulence - Radio Edit",
+      "artistName": "Steve Aoki",
+      "albumName": "Turbulence (feat. Lil Jon)",
+      "trackUri": "spotify:track:2Kf2mWshxgnyz5NG6q7YwE"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Stir Fry",
+      "artistName": "Migos",
+      "albumName": "Culture II",
+      "trackUri": "spotify:track:2tek8UnoiJdkmpPMqa5KRQ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "The Battle Of Stirling",
+      "artistName": "James Horner",
+      "albumName": "Braveheart",
+      "trackUri": "spotify:track:3qu9KFcekXA3QJLiK2QW6v"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Promentory",
+      "artistName": "Trevor Jones",
+      "albumName": "The Last Of The Mohicans",
+      "trackUri": "spotify:track:0l4seNH8AyE2kvjxFfpWi1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "U Got That",
+      "artistName": "Halogen",
+      "albumName": "U Got That",
+      "trackUri": "spotify:track:55gKq9bOAPRAcOQInZ76tH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Bad Reputation",
+      "artistName": "Joan Jett & the Blackhearts",
+      "albumName": "Bad Reputation (Expanded Edition)",
+      "trackUri": "spotify:track:7pu8AhGUxHZSCWTkQ2eb5M"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Revolution",
+      "artistName": "Dr. John",
+      "albumName": "Locked Down",
+      "trackUri": "spotify:track:4TGXJ20QXg31PuRIn66XG7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "The Man Comes Around",
+      "artistName": "Johnny Cash",
+      "albumName": "American IV: The Man Comes Around",
+      "trackUri": "spotify:track:3Jq9rsqmRtqcVKtzP9dnxZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Express Yourself",
+      "artistName": "Charles Wright & The Watts 103rd Street Rhythm Band",
+      "albumName": "Express Yourself",
+      "trackUri": "spotify:track:4pW3aTX3kAmOaPJfc9UM12"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Dance to the Music",
+      "artistName": "Sly & The Family Stone",
+      "albumName": "Greatest Hits",
+      "trackUri": "spotify:track:6q701mead1QEHZdRiTsGCe"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Around the World",
+      "artistName": "Daft Punk",
+      "albumName": "Homework",
+      "trackUri": "spotify:track:1pKYYY0dkg23sQQXi0Q5zN"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "artistName": "Maroon 5",
+      "albumName": "Hands All Over",
+      "trackUri": "spotify:track:2LNbLA2JSQlv6NRz1xdZRj"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "I Gotta Feeling",
+      "artistName": "Black Eyed Peas",
+      "albumName": "THE E.N.D. (THE ENERGY NEVER DIES)",
+      "trackUri": "spotify:track:4vp2J1l5RD4gMZwGFLfRAu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Wagon Wheel",
+      "artistName": "Old Crow Medicine Show",
+      "albumName": "O.C.M.S.",
+      "trackUri": "spotify:track:359krpyCKcFF8SFvqWES9L"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Should I Stay or Should I Go",
+      "artistName": "The Clash",
+      "albumName": "The Essential Clash",
+      "trackUri": "spotify:track:2CaudH3u0OVioRmaIXmVml"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "artistName": "Daft Punk",
+      "albumName": "Random Access Memories",
+      "trackUri": "spotify:track:69kOkLUCkxIZYexIgSG8rq"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Electric Feel",
+      "artistName": "MGMT",
+      "albumName": "Oracular Spectacular",
+      "trackUri": "spotify:track:3FtYbEfBqAlGO46NUDQSAt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Jump Around",
+      "artistName": "House Of Pain",
+      "albumName": "House Of Pain",
+      "trackUri": "spotify:track:2oTDOIAdsxPTE7yAp4YOcv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Don't Stop 'Til You Get Enough",
+      "artistName": "Michael Jackson",
+      "albumName": "The Essential Michael Jackson",
+      "trackUri": "spotify:track:6AZZzlQD1FThgAcWIgu3g1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "This Is How We Do It",
+      "artistName": "Montell Jordan",
+      "albumName": "This Is How We Do It",
+      "trackUri": "spotify:track:6uQKuonTU8VKBz5SHZuQXD"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Good Vibrations",
+      "artistName": "Marky Mark And The Funky Bunch",
+      "albumName": "Music For The People",
+      "trackUri": "spotify:track:5hWdgGVcfTeLPAiHM6EZG9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "We Run The Night",
+      "artistName": "Havana Brown",
+      "albumName": "We Run The Night",
+      "trackUri": "spotify:track:0mtPNQl5vePVwiI9Vykp7L"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Touch The Sky",
+      "artistName": "Kanye West",
+      "albumName": "Late Registration",
+      "trackUri": "spotify:track:2dxjKgT0li4qBI3QwuN9Ih"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "We Found Love",
+      "artistName": "Rihanna",
+      "albumName": "We Found Love",
+      "trackUri": "spotify:track:14fmbvjYLqRZEXz1VZdM2M"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Roar",
+      "artistName": "Katy Perry",
+      "albumName": "Roar",
+      "trackUri": "spotify:track:3wepnWWqG3Kn8yt3tj1wDy"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Time of Our Lives",
+      "artistName": "Pitbull",
+      "albumName": "Globalization",
+      "trackUri": "spotify:track:2bJvI42r8EF3wxjOuDav4r"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Never Be Alone",
+      "artistName": "TheFatRat",
+      "albumName": "Never Be Alone",
+      "trackUri": "spotify:track:67YkHJvLYOR1mKdpQSTsUr"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Get Into Something",
+      "artistName": "The Isley Brothers",
+      "albumName": "Get Into Something",
+      "trackUri": "spotify:track:0BrWuWKYkqHOH7u1Hq3L5e"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  },
+  {
+    "track": {
+      "trackName": "Express Yourself - Remastered 2000",
+      "artistName": "N.W.A.",
+      "albumName": "N.W.A. And Their Family Reunion",
+      "trackUri": "spotify:track:0Qp37xG9JmIpYURi8xJl3E"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-02-22"
+  }
+]

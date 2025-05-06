@@ -1,0 +1,50 @@
+[
+  {
+    "track": {
+      "trackName": "Symphony No. 1 in D Major, \"Titan\": I. Langsam, schleppend",
+      "artistName": "Gustav Mahler",
+      "albumName": "Mahler, G.: Symphony No. 1, \"Titan\"",
+      "trackUri": "spotify:track:26SxasDEOSGUl2coJTpIcI"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-03-21"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto, Op. 14: I. Allegro",
+      "artistName": "Samuel Barber",
+      "albumName": "Barber & Meyer: Violin Concertos",
+      "trackUri": "spotify:track:0BGUfUKgOnYquhvzNDd0PW"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-03-21"
+  },
+  {
+    "track": {
+      "trackName": "California Girls",
+      "artistName": "Brian Wilson",
+      "albumName": "At My Piano",
+      "trackUri": "spotify:track:1RECfcqfO4h2PahKPU5arx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-03-21"
+  },
+  {
+    "track": {
+      "trackName": "Appalachian Spring: I. Very Slowly",
+      "artistName": "Aaron Copland",
+      "albumName": "Copland: Appalachian Spring, Rodeo, Billy the Kid & Fanfare for the Common Man",
+      "trackUri": "spotify:track:0n3hKCBizwg7LKRpy1Iz5R"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2022-03-21"
+  }
+]

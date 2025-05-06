@@ -1,0 +1,878 @@
+[
+  {
+    "track": {
+      "trackName": "Concert Românesc (Romanian Concerto): I. Andantino",
+      "artistName": "György Ligeti",
+      "albumName": "Bartok - Kodály - Ligeti",
+      "trackUri": "spotify:track:7qkd2lLXvtd3FQTrDfkL8H"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Concert Românesc (Romanian Concerto): II. Allegro vivace",
+      "artistName": "György Ligeti",
+      "albumName": "Bartok - Kodály - Ligeti",
+      "trackUri": "spotify:track:6KrfAHCOK57x6fWvARj4GA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Concert Românesc (Romanian Concerto): III. Adagio ma non troppo",
+      "artistName": "György Ligeti",
+      "albumName": "Bartok - Kodály - Ligeti",
+      "trackUri": "spotify:track:0oaylYqcUYyCRTxs1gql8C"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Concert Românesc (Romanian Concerto): IV. Molto vivace - Presto",
+      "artistName": "György Ligeti",
+      "albumName": "Bartok - Kodály - Ligeti",
+      "trackUri": "spotify:track:0OHybxN8gJA7rwdxjBob0j"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Piano Concerto No. 2 in F minor, Op. 21: I. Maestoso",
+      "artistName": "Frédéric Chopin",
+      "albumName": "Chopin: Piano Concerto No. 2 - Variations on La ci darem - Andante spianato and Grande polonaise brillante",
+      "trackUri": "spotify:track:6RxMj0c9bbALLbT6QOOqzO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Piano Concerto No. 2 in F minor, Op. 21: II. Larghetto",
+      "artistName": "Frédéric Chopin",
+      "albumName": "Chopin: Piano Concerto No. 2 - Variations on La ci darem - Andante spianato and Grande polonaise brillante",
+      "trackUri": "spotify:track:1XWZXXac1UvCVRd8eO3O1R"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Piano Concerto No. 2 in F minor, Op. 21: III. Allegretto vivace",
+      "artistName": "Frédéric Chopin",
+      "albumName": "Chopin: Piano Concerto No. 2 - Variations on La ci darem - Andante spianato and Grande polonaise brillante",
+      "trackUri": "spotify:track:2kcCOdVpLqhGmUN0r2tKBz"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 2, Op. 61: I.Sostenuto assai - Allegro, ma non troppo",
+      "artistName": "American Symphony Orchestra",
+      "albumName": "Schumann: Symphony No. 2, Op. 61",
+      "trackUri": "spotify:track:2fGk7rRsCKduUIyHOMYTau"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 2, Op. 61: II. Scherzo - Allegro vivace",
+      "artistName": "American Symphony Orchestra",
+      "albumName": "Schumann: Symphony No. 2, Op. 61",
+      "trackUri": "spotify:track:1KIhbQ1SYBCe2ajL3Lm4SJ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 2, Op. 61: III. Adagio espressivo",
+      "artistName": "American Symphony Orchestra",
+      "albumName": "Schumann: Symphony No. 2, Op. 61",
+      "trackUri": "spotify:track:5Osnr9KBYN0sNqFyF4OTLP"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 2, Op. 61: IV. Allegro molto vivace",
+      "artistName": "American Symphony Orchestra",
+      "albumName": "Schumann: Symphony No. 2, Op. 61",
+      "trackUri": "spotify:track:71auLGhDmPjsyOpuPrPFGH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphonic Dance, Op. 45, No. 1: Non allegro",
+      "artistName": "Sergei Rachmaninoff",
+      "albumName": "Rachmaninov (The Very Best Of)",
+      "trackUri": "spotify:track:6MxKOGlApk7IVd5uQMUM2O"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphonic Dances, Op. 45: II. Andante con moto (Tempo di valse)",
+      "artistName": "Sergei Rachmaninoff",
+      "albumName": "Stravinsky: Petrushka (1947 Version) - Rachmaninov: Symphonic Dances [Live]",
+      "trackUri": "spotify:track:37NHYTwcPevGlncH1XxWQu"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphonic Dances, Op. 45: III. Lento assai - Allegro vivace",
+      "artistName": "Sergei Rachmaninoff",
+      "albumName": "Rachmaninoff: Classical Favourites",
+      "trackUri": "spotify:track:7iC9mMNS3nLbq1UYN7BmXF"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in D Major, Op. 35: I. Moderato nobile",
+      "artistName": "Erich Wolfgang Korngold",
+      "albumName": "Korngold: Violin Concerto, Op. 35, in D, Lalo: Symphonie espagnole, Op. 21",
+      "trackUri": "spotify:track:0UObA2ieyLGgzxykJNzJ5Q"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in D Major, Op. 35: II. Romance",
+      "artistName": "Erich Wolfgang Korngold",
+      "albumName": "Korngold: Violin Concerto, Op. 35, in D, Lalo: Symphonie espagnole, Op. 21",
+      "trackUri": "spotify:track:25PIheGK7nVxqL7coB8579"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in D Major, Op. 35: III. Finale - Allegro assai vivace",
+      "artistName": "Erich Wolfgang Korngold",
+      "albumName": "Korngold: Violin Concerto, Op. 35, in D, Lalo: Symphonie espagnole, Op. 21",
+      "trackUri": "spotify:track:6hxnYgg8lEn7z4QVwQGvqt"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 1 in E Minor, Op. 39: I. Andante, ma non troppo - Allegro energico",
+      "artistName": "Jean Sibelius",
+      "albumName": "Sibelius: Symphonies Nos. 1 & 6",
+      "trackUri": "spotify:track:1yf3Vy6khHlaliGeM58bOs"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 1 in E Minor, Op. 39: II. Andante (ma non troppo lento)",
+      "artistName": "Jean Sibelius",
+      "albumName": "Sibelius: Symphonies Nos. 1 & 6",
+      "trackUri": "spotify:track:2Am9z38jNlaich6PJxv6cJ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 1 in E Minor, Op. 39: III. Scherzo. Allegro",
+      "artistName": "Jean Sibelius",
+      "albumName": "Sibelius: Symphonies Nos. 1 & 6",
+      "trackUri": "spotify:track:1UxCbh29u19EMeqdCeRDX4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 1 in E Minor, Op. 39: IV. Finale (quasi una fantasia)",
+      "artistName": "Jean Sibelius",
+      "albumName": "Sibelius: Symphonies Nos. 1 & 6",
+      "trackUri": "spotify:track:0zvLka13tNTtSNuIAvgIkn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Flute Concerto in D Minor, Wq. 22, H. 425: I. Allegro",
+      "artistName": "Carl Philipp Emanuel Bach",
+      "albumName": "Bach, C.P.E.: Flute Concertos in G Major / D Minor / A Major",
+      "trackUri": "spotify:track:0W0dsIebqA4jm6Wpm2wIGY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Flute Concerto in D Minor, Wq. 22, H. 425: II. Un poco andante",
+      "artistName": "Carl Philipp Emanuel Bach",
+      "albumName": "Bach, C.P.E.: Flute Concertos in G Major / D Minor / A Major",
+      "trackUri": "spotify:track:2W8UZmk0A7ktXHXzlp2sW1"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Flute Concerto in D Minor, Wq. 22, H. 425: III. Allegro di molto",
+      "artistName": "Carl Philipp Emanuel Bach",
+      "albumName": "Bach, C.P.E.: Flute Concertos in G Major / D Minor / A Major",
+      "trackUri": "spotify:track:7LUwf6Pfy9uptSrG5LLg6k"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 1 in G minor, Op. 26: 1. Vorspiel (Allegro moderato)",
+      "artistName": "Max Bruch",
+      "albumName": "Bruch: Violin Concerto No.1 In G Minor Opus 26",
+      "trackUri": "spotify:track:5VwXgnNyxC7B32cKeaM9oU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 1 in G minor, Op. 26: 2. Adagio",
+      "artistName": "Max Bruch",
+      "albumName": "Bruch: Violin Concerto No.1 In G Minor Opus 26",
+      "trackUri": "spotify:track:4iVCDTyGHZfggFV6bg7jUT"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 1 in G minor, Op. 26: 3. Finale (Allegro energico)",
+      "artistName": "Max Bruch",
+      "albumName": "Bruch: Violin Concerto No.1 In G Minor Opus 26",
+      "trackUri": "spotify:track:15yMw4u4PhWfZFyRMb6oHm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Andante for Flute and Orchestra in C Major, K. 315 - Cadenza: Susan Palma",
+      "artistName": "Wolfgang Amadeus Mozart",
+      "albumName": "Mozart: Flute Concerto No.1 K.313; Concerto for Flute & Harp K.299; Andante K.315",
+      "trackUri": "spotify:track:0W5X40Q8xnevYIbbGUo0Ja"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 7 in A Major, Op. 92: I. Poco sostenuto - Vivace",
+      "artistName": "Ludwig van Beethoven",
+      "albumName": "Beethoven: Symphonies Nos. 2 & 7",
+      "trackUri": "spotify:track:5lBaNgt6yweCSl2Xq2mFJg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 7 in A Major, Op. 92: II. Allegretto",
+      "artistName": "Ludwig van Beethoven",
+      "albumName": "Beethoven: Symphonies Nos. 2 & 7",
+      "trackUri": "spotify:track:39ZBv0BWVhcY2d2dniNuTd"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 7 in A Major, Op. 92: III. Presto, assai meno presto",
+      "artistName": "Ludwig van Beethoven",
+      "albumName": "Beethoven: Symphonies Nos. 2 & 7",
+      "trackUri": "spotify:track:5EUuM9zjeMzIg9wwY8zkg4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 7 in A Major, Op. 92: IV. Allegro con brio",
+      "artistName": "Ludwig van Beethoven",
+      "albumName": "Beethoven: Symphonies Nos. 2 & 7",
+      "trackUri": "spotify:track:0EHUWSHQHmeJ7kXqBqXdDZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Le Corsaire - overture Op. 21",
+      "artistName": "Hector Berlioz",
+      "albumName": "Berlioz: Symphonie Fantastique; Le Carnaval Romain; Le Corsaire",
+      "trackUri": "spotify:track:2YBKxGRcyt1OhEwMmzbCX3"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in A Minor Op. 53 : I.Allegro ma non Troppo",
+      "artistName": "Antonín Dvořák",
+      "albumName": "Dvorak: Violin Concerto in A Minor - Tchaikovsky: Piano Trio No. 2",
+      "trackUri": "spotify:track:4TXS0xPOC2nXiphHXxWt3f"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in A Minor Op. 53 : II.Adagio ma non Troppo",
+      "artistName": "Antonín Dvořák",
+      "albumName": "Dvorak: Violin Concerto in A Minor - Tchaikovsky: Piano Trio No. 2",
+      "trackUri": "spotify:track:3PkkybpRw9fDIORTAXopUH"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in A Minor Op. 53 : III.Allegro Giocoso ma non Troppo",
+      "artistName": "Antonín Dvořák",
+      "albumName": "Dvorak: Violin Concerto in A Minor - Tchaikovsky: Piano Trio No. 2",
+      "trackUri": "spotify:track:4HWViQD2N5aKhrR8zRMnNh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony in C, K61: I. Moderato alla breve – Tempo agitato senza troppo accelerare – Tempo I - Live",
+      "artistName": "Igor Stravinsky",
+      "albumName": "100 Great Symphonies",
+      "trackUri": "spotify:track:1xeEunUehnN9s4HjfTWMDi"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony in C, K61: II. Larghetto concertante – - Live",
+      "artistName": "Igor Stravinsky",
+      "albumName": "100 Great Symphonies",
+      "trackUri": "spotify:track:6NJBkwE9MEilfGKXiPbGir"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony in C, K61: III. Allegretto – Meno mosso – Tempo I – Più mosso – Tempo I - Live",
+      "artistName": "Igor Stravinsky",
+      "albumName": "100 Great Symphonies",
+      "trackUri": "spotify:track:521cV8yDRK5x9c0HMpqk05"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Symphony in C, K61: IV. Largo – Tempo giusto, alla breve – Poco meno mosso - Live",
+      "artistName": "Igor Stravinsky",
+      "albumName": "100 Great Symphonies",
+      "trackUri": "spotify:track:6u4SUE1f2JhujUNemJRtaJ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "La valse - poeme choregraphique",
+      "artistName": "Maurice Ravel",
+      "albumName": "Ravel: La Valse / Stravinsky: 3 Movements From Petrushka / Petrushka",
+      "trackUri": "spotify:track:3URLBpguU4SzMrNxsMI4Gx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-05-24"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 3 in G Major, K. 216: I. Allegro - Cadenza by Oistrakh",
+      "artistName": "Wolfgang Amadeus Mozart",
+      "albumName": "Mozart: Violin Concerto No. 3 - Beethoven: Violin Concerto in D Major",
+      "trackUri": "spotify:track:1Y95bTRNcY14GHmX9fGwZh"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 3 in G Major, K. 216: II. Adiago - Cadenza by Oistrakh",
+      "artistName": "Wolfgang Amadeus Mozart",
+      "albumName": "Mozart: Violin Concerto No. 3 - Beethoven: Violin Concerto in D Major",
+      "trackUri": "spotify:track:3yvhSpWN9euvMt8TbZwaMx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 3 in G Major, K. 216: III. Rondo - Allegro",
+      "artistName": "Wolfgang Amadeus Mozart",
+      "albumName": "Mozart: Violin Concerto No. 3 - Beethoven: Violin Concerto in D Major",
+      "trackUri": "spotify:track:3wIPzugst731wYcspWNkN9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5",
+      "artistName": "Peter Mennin",
+      "albumName": "Peter Mennin: Symphony No. 5 ^ 6",
+      "trackUri": "spotify:track:5gCUX6407tD2nLAgX338ns"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5: II",
+      "artistName": "Peter Mennin",
+      "albumName": "Peter Mennin: Symphony No. 5 ^ 6",
+      "trackUri": "spotify:track:5gBNSRWqQyABWFF7kyhWL7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 5: III",
+      "artistName": "Peter Mennin",
+      "albumName": "Peter Mennin: Symphony No. 5 ^ 6",
+      "trackUri": "spotify:track:0UcLg1gmrfIkOcv1JhV8O7"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 2: Moderato",
+      "artistName": "Walter Piston",
+      "albumName": "Piston: Symphonies Nos. 2 and 6",
+      "trackUri": "spotify:track:6JUEi2y9XMwtjwhgLRTbYx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 2: Adagio",
+      "artistName": "Walter Piston",
+      "albumName": "Piston: Symphonies Nos. 2 and 6",
+      "trackUri": "spotify:track:4ds111ppvKUCnC883emaxe"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 2: Allegro",
+      "artistName": "Walter Piston",
+      "albumName": "Piston: Symphonies Nos. 2 and 6",
+      "trackUri": "spotify:track:3ZqAWVkaUvr8TrCf0VUDYg"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 4 in G Major: I. Bedächtig, nicht eilen",
+      "artistName": "Gustav Mahler",
+      "albumName": "Mahler: Symphony No. 4 in G major",
+      "trackUri": "spotify:track:1UTIzaOf6ztFupLJ5vRMqm"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 4 in G Major: II. In gemächlicher Bewegung, ohne Hast",
+      "artistName": "Gustav Mahler",
+      "albumName": "Mahler: Symphony No. 4 in G major",
+      "trackUri": "spotify:track:7JBWY0Pm393yJY6KF35gBv"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 4 in G Major: III. Ruhevoll",
+      "artistName": "Gustav Mahler",
+      "albumName": "Mahler: Symphony No. 4 in G major",
+      "trackUri": "spotify:track:1FebgXZB4Up0mgGPenyCMO"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 4 in G Major: IV. Sehr behaglich: \"Wir genießen",
+      "artistName": "Gustav Mahler",
+      "albumName": "Mahler: Symphony No. 4 in G major",
+      "trackUri": "spotify:track:0uhQM8NV3n0AW9fGWLGNv8"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 3 in B Minor, Op. 61: I. Allegro non troppo",
+      "artistName": "Camille Saint-Saëns",
+      "albumName": "Lalo: Symphony espagnole Op.21 / Saint-Saens: Concerto For Violin And Orchestra No. 3 In B Minor, Op. 61 / Berlioz: Reverie et Caprice Op. 8 For Violin And Orchestra",
+      "trackUri": "spotify:track:0c6Yke9jGDzLkuHHyOzj9o"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 3 in B Minor, Op. 61: II. Andantino quasi allegretto",
+      "artistName": "Camille Saint-Saëns",
+      "albumName": "Lalo: Symphony espagnole Op.21 / Saint-Saens: Concerto For Violin And Orchestra No. 3 In B Minor, Op. 61 / Berlioz: Reverie et Caprice Op. 8 For Violin And Orchestra",
+      "trackUri": "spotify:track:1j9QfRmr8EXCiooVGvGFIf"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto No. 3 in B Minor, Op. 61: III. Molto moderato e maestoso – Allegro non troppo",
+      "artistName": "Camille Saint-Saëns",
+      "albumName": "Lalo: Symphony espagnole Op.21 / Saint-Saens: Concerto For Violin And Orchestra No. 3 In B Minor, Op. 61 / Berlioz: Reverie et Caprice Op. 8 For Violin And Orchestra",
+      "trackUri": "spotify:track:3N5Lr61gSoi2ijAHmJHrYY"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto In D Major, Op. 35, TH.59: I. Allegro moderato",
+      "artistName": "Pyotr Ilyich Tchaikovsky",
+      "albumName": "Higdon / Tchaikovsky: Violin Concertos",
+      "trackUri": "spotify:track:5yyWkqPnm6pXSLmKXbW6dB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in D Major, Op. 35, TH. 59: II. Canzonetta (Andante)",
+      "artistName": "Pyotr Ilyich Tchaikovsky",
+      "albumName": "Higdon / Tchaikovsky: Violin Concertos",
+      "trackUri": "spotify:track:16YXD2GEzmyowa23BjLIWC"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Violin Concerto in D Major, Op. 35, TH. 59: III. Allegro vivacissimo",
+      "artistName": "Pyotr Ilyich Tchaikovsky",
+      "albumName": "Higdon / Tchaikovsky: Violin Concertos",
+      "trackUri": "spotify:track:0cdxWWqwnT1zmcpZ8w5NAx"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 8 in C minor, Op. 65: I. Adagio - Allegro non troppo",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony No. 8",
+      "trackUri": "spotify:track:54WWs3Qh57aC4QVHNIYCl4"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 8 in C minor, Op. 65: II. Allegretto",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony No. 8",
+      "trackUri": "spotify:track:4CpcN3pOtnGKsprww7Lus9"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 8 in C minor, Op. 65: III. Allegro non troppo",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony No. 8",
+      "trackUri": "spotify:track:5KDQJCG4xM40XVVeVCS9sV"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 8 in C minor, Op. 65: IV. Largo",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony No. 8",
+      "trackUri": "spotify:track:7MFEAermlvs8qpE0GUlA34"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 8 in C minor, Op. 65: V. Allegretto",
+      "artistName": "Dmitri Shostakovich",
+      "albumName": "Shostakovich: Symphony No. 8",
+      "trackUri": "spotify:track:5dhEGpMAqe18Nu0tWGc49V"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 7 in C-Sharp Minor, Op. 131: I. Moderato",
+      "artistName": "Sergei Prokofiev",
+      "albumName": "Prokofiev: Symphony No. 7 / Sinfonietta",
+      "trackUri": "spotify:track:60H2uuXMnbrRpPT0SibBWo"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 7 in C-Sharp Minor, Op. 131: II. Allegretto",
+      "artistName": "Sergei Prokofiev",
+      "albumName": "Prokofiev: Symphony No. 7 / Sinfonietta",
+      "trackUri": "spotify:track:5fZdQ4L5pY4310KEifgzuZ"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 7 in C-Sharp Minor, Op. 131: III. Allegretto espressivo",
+      "artistName": "Sergei Prokofiev",
+      "albumName": "Prokofiev: Symphony No. 7 / Sinfonietta",
+      "trackUri": "spotify:track:1ZBrb2Zx4Q2AUWs9jMROtU"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Symphony No. 7 in C-Sharp Minor, Op. 131: IV. Vivace",
+      "artistName": "Sergei Prokofiev",
+      "albumName": "Prokofiev: Symphony No. 7 / Sinfonietta",
+      "trackUri": "spotify:track:4fri2jJWO4T1JeJooZGzKn"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Sinfonia Concertante in E-Flat Major, K. 364: 1. Allegro maestoso - Live",
+      "artistName": "Wolfgang Amadeus Mozart",
+      "albumName": "Mozart: Sinfonia concertante K.364; Concertone K.190",
+      "trackUri": "spotify:track:3UQCFOSnpg5dZjUXmth98B"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Sinfonia Concertante in E-Flat Major, K. 364: 2. Andante - Live",
+      "artistName": "Wolfgang Amadeus Mozart",
+      "albumName": "Mozart: Sinfonia concertante K.364; Concertone K.190",
+      "trackUri": "spotify:track:3HiDGAKBRugvvY73MsNoJA"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Sinfonia Concertante in E-Flat Major, K. 364: 3. Presto - Live",
+      "artistName": "Wolfgang Amadeus Mozart",
+      "albumName": "Mozart: Sinfonia concertante K.364; Concertone K.190",
+      "trackUri": "spotify:track:4OmHGWwVcUVGj4yWFGuOXB"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  },
+  {
+    "track": {
+      "trackName": "Lake of Fire",
+      "artistName": "Meat Puppets",
+      "albumName": "II",
+      "trackUri": "spotify:track:4UOq3yRhkyD2dKrDG4jV9K"
+    },
+    "episode": null,
+    "audiobook": null,
+    "localTrack": null,
+    "addedDate": "2016-06-04"
+  }
+]
