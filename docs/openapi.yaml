@@ -1,0 +1,52 @@
+openapi: "3.1.0"
+info:
+  title: Spotify Data Server
+  version: "1.0.0"
+servers:
+  - url: https://spotify-data-server.onrender.com
+paths:
+  /file/data/{file_path}:
+    get:
+      operationId: fetchPlaylistData
+      summary: Fetch playlist or wave JSON file from the Spotify Data Server
+      parameters:
+        - name: file_path
+          in: path
+          required: true
+          description: Path to the JSON file, e.g., split_output/Classical_Expansion_Wave/Eye_in_the_sky.json
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Successful response with playlist JSON
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  track:
+                    type: object
+                    properties:
+                      trackName: { type: string }
+                      artistName: { type: string }
+                      albumName: { type: string }
+                      trackUri: { type: string }
+                  addedDate:
+                    type: string
+                additionalProperties: true
+        "404":
+          description: File not found
+
+  /file/data/playlist_filename_map.json:
+    get:
+      operationId: getPlaylistFilenameMap
+      summary: Fetch playlist filename map JSON used for resolving playlist paths
+      responses:
+        "200":
+          description: Returns the playlist name → file path mapping
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties:
+                  type: string
