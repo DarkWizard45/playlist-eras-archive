@@ -70,7 +70,7 @@ def home():
 @app.route("/file/<path:filepath>")
 def get_file(filepath):
     print(f"[DEBUG] STREAMING /file/{filepath}")
-    full_path = f"docs/static/data/{filepath}"
+    full_path = f"docs/static/{filepath}"
     content, status_code = fetch_file_via_blob(full_path)
     if status_code == 200 and content:
         def generate():
