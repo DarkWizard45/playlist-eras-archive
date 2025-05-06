@@ -50,3 +50,23 @@ paths:
                 type: object
                 additionalProperties:
                   type: string
+        "404":
+          description: File not found
+
+  /file/data/wave_playlist_map.json:
+    get:
+      operationId: getWavePlaylistMap
+      summary: Fetch wave playlist map JSON used for splitting full wave files
+      responses:
+        "200":
+          description: Returns the wave-level playlist breakdown
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties:
+                  type: array
+                  items:
+                    type: string
+        "404":
+          description: File not found
